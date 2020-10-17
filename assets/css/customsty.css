@@ -1,0 +1,279 @@
+/*
+COLOURS
+red: #CA273A
+blue: #175B74
+orange: #E39528
+purple: #782979
+light blue: #88C7D9
+*/
+
+svg#logohat {
+  width:740px;
+  height:411px;
+}
+
+svg#logohat #calculator {
+  transform: rotate(27deg); transform-origin: 68px -48px;
+}
+
+svg#logohat:hover #calculator {
+  transform: rotate(0deg); transform-origin: 68px -48px;
+  animation: out-of-the-hat 1s ease 1;
+}
+
+@keyframes out-of-the-hat {
+  0% { transform: rotate(27deg); transform-origin: 68px -48px;}
+  100% {transform: rotate(0deg); transform-origin: 68px -48px;}
+}
+
+h1 img {
+  border:none;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  -o-box-shadow: none;
+  -ms-box-shadow: none;
+}
+.nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.nav li {
+  float: left;
+  font-variant:small-caps;
+  font-weight:bold;
+  font-size:20px;
+}
+
+.nav li:first-of-type a {
+  border-radius: 15px 0px 0px 0px;
+}
+.nav li:last-of-type a {
+  border-radius: 0px 15px 0px 0px;
+}
+
+.nav li:nth-of-type(1) a {
+  background-color: #CA273A
+}
+.nav li:nth-of-type(1) a:hover,
+.nav li:nth-of-type(1) a.thispage {
+  color: #CA273A
+}
+.nav li:nth-of-type(2) a {
+  background-color: #175B74
+}
+.nav li:nth-of-type(2) a:hover,
+.nav li:nth-of-type(2) a.thispage {
+  color: #175B74
+}
+.nav li:nth-of-type(3) a {
+  background-color: #782979
+}
+.nav li:nth-of-type(3) a:hover,
+.nav li:nth-of-type(3) a.thispage {
+  color: #782979
+}
+.nav li:nth-of-type(4) a {
+  background-color: #E39528
+}
+.nav li:nth-of-type(4) a:hover,
+.nav li:nth-of-type(4) a.thispage {
+  color: #E39528
+}
+.nav li:nth-of-type(5) a {
+  background-color: #CA273A
+}
+.nav li:nth-of-type(5) a:hover,
+.nav li:nth-of-type(5) a.thispage {
+  color: #CA273A
+}
+.nav li:nth-of-type(6) a {
+  background-color: #175B74
+}
+.nav li:nth-of-type(6) a:hover,
+.nav li:nth-of-type(6) a.thispage {
+  color: #175B74
+}
+.nav li:nth-of-type(7) a {
+  background-color: #782979
+}
+.nav li:nth-of-type(7) a:hover,
+.nav li:nth-of-type(7) a.thispage {
+  color: #782979
+}
+.nav li:nth-of-type(8) a {
+  background-color: #E39528
+}
+.nav li:nth-of-type(8) a:hover,
+.nav li:nth-of-type(8) a.thispage {
+  color: #E39528
+}
+
+.nav li a {
+  padding: 12px;
+  padding-right: 16px;
+  padding-left: 16px;
+  display: block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  background: transparent
+}
+
+.nav li a:hover,
+.nav li a.thispage {
+  background-color: white;
+}
+
+
+#header_wrap .inner {
+  padding-bottom:0px ! important;
+  padding-top:0px ! important;
+  background: transparent;
+}
+
+#header_wrap, #footer_wrap {
+  background: #88C7D9 !important;
+}
+
+#project_tagline {margin-top:0px}
+
+body {
+  background-color: #88C7D9;
+  color: #000000
+}
+
+#main_content_wrap {
+  border:none;
+  background-color:#FFFFFF
+}
+
+.inner {max-width:720px}
+
+#footer_wrap p {
+  margin:0px;
+  font-size:11px
+}
+
+h2 {
+  margin-top:50px;
+}
+
+.image-center {
+  max-width: 90%;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+.image-right,
+.image-left {
+  max-width:300px;
+}
+.image-left {
+  float:left;
+  margin-right:30px
+}
+.image-right {
+  float:right;
+  margin-left:30px
+}
+
+.socialicons {
+  position:absolute;
+  top:5px;
+  right:5px;
+  font-size:30px
+}
+
+.socialicons a,
+.socialicons a:link,
+.socialicons a:active,
+.socialicons a:visited,
+.socialicons a:hover {
+  padding-left:10px;
+}
+.socialicons a,
+.socialicons a:link,
+.socialicons a:active,
+.socialicons a:visited
+ {
+  color:white;
+}
+
+.socialicons a:hover {
+  color:#CA273A;
+}
+
+.sociallist {
+  list-style:none;
+  margin-top:10px
+}
+
+.sociallist i.fa {
+  width:20px;
+}
+
+.person {
+  min-height:200px
+}
+
+.person .imgwrap {
+  padding-right:20px;
+  float:left
+}
+
+.person .imgwrap img {
+  width:150px;
+  border:none;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  -o-box-shadow: none;
+  -ms-box-shadow: none;
+  border-radius: 50%;
+}
+
+.person .imgwrap, .person .innertext {
+  display:inline-block
+}
+
+.person .innertext {
+  width:530px;
+}
+
+.handbooknav i {
+  padding-left:5px;
+  padding-right:5px;
+}
+
+h2 {
+  background:none;
+}
+
+table.invisible,
+table.invisible td,
+table.invisible tr
+{
+  margin:0px;
+  padding:0px;
+  border:none
+}
+
+img.smaller
+{
+  max-height: 200px;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+li.bigsection
+{
+  font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+  font-size:18px;
+  margin-top:20px;
+  font-weight:bold
+}

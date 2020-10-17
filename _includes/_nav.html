@@ -1,0 +1,14 @@
+<div class="top-navigation">
+  <nav role="navigation" id="site-nav" class="nav">
+    <ul>
+      {% for link in site.data.navbar %}
+        {% capture linkurl %}/{{ link.page }}.html{% endcapture %}
+        {% if page.url == linkurl or (page.url == "/" and linkurl == "/index.html") %}
+        <li><a class='thispage' href="{{ linkurl }}">{{ link.title }}</a></li>
+        {% else %}
+        <li><a href="{{ linkurl }}">{{ link.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </nav>
+</div>
