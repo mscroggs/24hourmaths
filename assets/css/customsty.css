@@ -217,6 +217,7 @@ h2 {
   width:20px;
 }
 
+@media (min-width:730px){
 .person {
   min-height:200px
 }
@@ -225,6 +226,24 @@ h2 {
   padding-right:20px;
   float:left
 }
+
+.person .imgwrap, .person .innertext {
+  display:inline-block
+}
+
+} /* end min-width:730px */
+
+@media (max-width:730px){
+.person .imgwrap {
+  text-align:center
+}
+
+.person .imgwrap, .person .innertext {
+  display:block
+}
+
+
+} /* end max-width:730px */
 
 .person .imgwrap img {
   width:150px;
@@ -235,10 +254,6 @@ h2 {
   -o-box-shadow: none;
   -ms-box-shadow: none;
   border-radius: 50%;
-}
-
-.person .imgwrap, .person .innertext {
-  display:inline-block
 }
 
 .person .innertext {
