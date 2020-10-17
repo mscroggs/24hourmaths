@@ -8,8 +8,9 @@ light blue: #88C7D9
 */
 
 svg#logohat {
-  width:740px;
-  height:411px;
+  max-width:700px;
+  margin:auto;
+  display:block
 }
 
 svg#logohat #calculator {
