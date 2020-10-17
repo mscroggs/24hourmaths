@@ -242,7 +242,7 @@ h2 {
 }
 
 .person .innertext {
-  width:530px;
+  max-width:530px;
 }
 
 .handbooknav i {
