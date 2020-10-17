@@ -1,7 +1,6 @@
 theme: jekyll-theme-slate
 site_favicon: assets/icons/favicon.ico
 title: 24 Hour Maths
-description: 
 
 defaults:
   -
