@@ -43,7 +43,23 @@ window.MathJax = {
   }
 };
 </script>
-
+<script type='text/javascript'>
+function sign_me_up(){
+    var sender;
+    if(window.XMLHttpRequest){sender=new XMLHttpRequest();}
+    else {sender=new ActiveXObject('Microsoft.XMLHTTP');}
+    sender.open("POST", "https://mscroggs.co.uk/24hr.php", true);
+    sender.setRequestHeader("Content-Type", "application/json");
+    sender.onreadystatechange = function() {
+      if (this.readyState == 4 && this.status == 200) {
+        document.getElementById("signup").innerHTML = "Signed up. We'll be in touch!"
+      }
+    }
+    sender.send("email="+document.getElementById("signup-email"));
+    document.getElementById("signup").innerHTML = "Signing up..."
+    return false;
+}
+</script>
 {% seo %}
   </head>
 
