@@ -50,8 +50,7 @@ function sign_me_up(){
     else {sender=new ActiveXObject('Microsoft.XMLHTTP');}
     sender.open("POST", "https://mscroggs.co.uk/24hr.php", true);
     sender.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-    sender.setRequestHeader("Content-length", 1);
-    sender.setRequestHeader("Connection", "close");
+    sender.setRequestHeader("Access-Control-Allow-Origin", "*");
     sender.onreadystatechange = function() {
       if (this.readyState == 4 && this.status == 200) {
         document.getElementById("signup").innerHTML = "Signed up. We'll be in touch!"
