@@ -19,11 +19,9 @@ The show will feature numerous mathematicians presenting mathematical magic tric
 Remind me
 =========
 
-To receive an email reminding you to watch the stream, enter your email in the box below.
+To receive an email reminding you to watch the stream, enter your email address in this form:
 
-<form method='get' action='https://mscroggs.co.uk/24hr.php'>
-<input type='text' id='email' name='email'><input type='submit' value='Sign me up!'>
-</form>
+<big><a href="https://docs.google.com/forms/d/e/1FAIpQLSepka2sjP0mzS-z5IFn_DzNs0zJuyoNwj4ZAU2xl71B0RVFyg/viewform?usp=sf_link">Go to signup form</a></big>
 
 We will email you about this 24 hour event and this event only, and will delete your email address
 after the event has ended.

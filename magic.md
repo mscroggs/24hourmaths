@@ -21,7 +21,7 @@ Remind me
 
 To receive an email reminding you to watch the stream, enter your email in the box below.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSepka2sjP0mzS-z5IFn_DzNs0zJuyoNwj4ZAU2xl71B0RVFyg/viewform?embedded=true" width="700" height="410" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<big><a href="https://docs.google.com/forms/d/e/1FAIpQLSepka2sjP0mzS-z5IFn_DzNs0zJuyoNwj4ZAU2xl71B0RVFyg/viewform?usp=sf_link">Go to signup form</a></big>
 
 We will email you about this 24 hour event and this event only, and will delete your email address
 after the event has ended.
