@@ -21,9 +21,9 @@ Remind me
 
 To receive an email reminding you to watch the stream, enter your email in the box below.
 
-<div id="signup">
-<input id="signup-email"><button onclick="return sign_me_up()">Sign me up!</button>
-</div>
+<form action="post" method="https://mscroggs.co.uk/24hr.php">
+<input name="email"><input type="submit" value="Sign me up!">
+</form>
 
 We will email you about this 24 hour event and this event only, and will delete your email address
 after the event has ended.
