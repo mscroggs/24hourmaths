@@ -19,9 +19,12 @@ The show will feature numerous mathematicians presenting mathematical magic tric
 Remind me
 =========
 
-To receive an email reminding you to watch the stream, enter your email address in this form:
+To receive an email reminding you to watch the stream, enter your email address below.
 
-<center><large><a href="https://docs.google.com/forms/d/e/1FAIpQLSepka2sjP0mzS-z5IFn_DzNs0zJuyoNwj4ZAU2xl71B0RVFyg/viewform?usp=sf_link">Go to signup form</a></large></center>
+<form action="https://formspree.io/f/xdopgnal" method="POST">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Sign me up!">
+</form>
 
 We will email you about this 24 hour event and this event only, and will delete your email address
 after the event has ended.
