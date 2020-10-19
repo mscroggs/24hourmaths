@@ -37,7 +37,7 @@ title: The Team
 {% include _person.html
     img="assets/img/stecks.jpg"
     name="Katie Steckles"
-    about="Katie is a mathematician based in Manchester, who gives talks and workshops and writes about mathematics. She finished her PhD in 2011, and since then has talked about maths in schools, at science festivals, on BBC radio and TV, at music festivals, as part of theatre shows and on the internet."
+    about="Katie is a mathematician based in Manchester, who talks about mathematics at universities, schools events, festivals, on BBC radio and TV, in books and on the internet."
     twitter="stecks"
     website="https://katiesteckles.co.uk"
     youtube="KatieSteckles"
