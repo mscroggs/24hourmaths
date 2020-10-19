@@ -15,7 +15,7 @@ The show is taking place alongside <a href="http://watsonathon.com">Mark Watson'
 30 October &ndash; 31 October 9pm &ndash; 9pm
 =============================================
 
-The 24 hour maths magic show is running from 21:00 GMT on Friday 30 October until 21:00 GMT on Saturday 21 October. You'll be able to watch it as a live YouTube stream, which we'll share the link to here once it's available, and there'll be a text chat to interact with the show and send messages of support.
+The 24 hour maths magic show is running from 21:00 GMT on Friday 30 October until 21:00 GMT on Saturday 31 October. You'll be able to watch it as a live YouTube stream, which we'll share the link to here once it's available, and there'll be a text chat to interact with the show and send messages of support.
 
 Remind me
 =========
