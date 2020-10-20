@@ -1,6 +1,6 @@
 <div id="signup">
 <input type="email" id="email">
-<button value="Sign me up!" onpress="sign_me_up()">
+<button onpress="sign_me_up()">Sign me up!</button>
 </div>
 
 <script type='text/javascript'>
@@ -17,7 +17,7 @@ function sign_me_up(){
         document.getElementById("signup").innerHTML = "Signed up. We'll be in touch!"
       }
     }
-    sender.send("email="+document.getElementById("signup-email"));
+    sender.send("email="+document.getElementById("email"));
     document.getElementById("signup").innerHTML = "Signing up..."
     return false;
 }
