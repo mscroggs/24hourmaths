@@ -24,10 +24,10 @@ Remind me
 
 To receive an email reminding you to watch the stream, enter your email address below.
 
-<form action="https://formspree.io/f/xdopgnal" method="POST">
-  <input type="email" name="_replyto">
-  <input type="submit" value="Sign me up!">
-</form>
+<div id="signuparea">
+<input type="email" id="email">
+<button onclick="clickButton()">Sign me up!</button>
+</div>
 
 We will email you about this 24 hour event and this event only, and will delete your email address
 after the event has ended.
