@@ -8,6 +8,8 @@ Currently confirmed guests include:
 - Stand-up Mathematician <strong>Matt Parker</strong>
 - Professional speed Rubik's cuber <strong>Sydney Weaver</strong>
 - Popular science author <strong>Simon Singh</strong>
+- Mathematician and presenter <strong>Katie Steckles</strong>
+- University Challenge star <strong>Bobby Seagull</strong>
 - Many more (to be announced)
 
 The show is taking place alongside <a href="http://watsonathon.com">Mark Watson's 24-hour comedy show Watsonathon</a> (more details shortly), which we hope to cross over with at some point(s) during the day/night. Both shows will be raising money for the charity <a href="https://www.turn2us.org.uk/">Turn2Us</a> which helps people in low-income jobs & gives out emergency loans, including supporting comedians and other performers who have little/no income at this time. We'll circulate details of how you can donate closer to the time and during the show.
