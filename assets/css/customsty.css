@@ -7,6 +7,12 @@ purple: #782979
 light blue: #88C7D9
 */
 
+#signuparea
+{
+  background-color: #88C7D9;
+  padding:10px
+}
+
 svg#logohat {
   max-width:700px;
   margin:auto;
