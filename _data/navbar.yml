@@ -2,5 +2,8 @@
 - title: Home
   page: index
 
+- title: Magic Show
+  page: magic
+
 - title: Team
   page: team
