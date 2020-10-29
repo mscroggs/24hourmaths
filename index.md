@@ -2,6 +2,10 @@
 title: ""
 ---
 
+<div style="padding:30px 10px;border:#CA273A double 15px;font-weight:bold;font-size:110%;margin-bottom:30px">
+The show is currently live: <a href="https://youtu.be/Uuqrh5sdK8g">youtu.be/Uuqrh5sdK8g</a>
+</div>
+
 This October, a <a href="http://24hourmaths.com/team.html">group of maths presenters</a> will be getting together some mathematicians, magicians and other cool people to put on a 24-hour long online YouTube mathematical magic show. Each half-hour we'll have a different special guest sharing a mathematical magic trick of some kind, and across the day we'll have a total of 48 tricks for you to watch and puzzle over (and since it's Hallowe'en, we might even include some treats as well). Details and timings are below, as well as a form to sign up for a reminder when the show is on!
 
 Currently confirmed guests include:
