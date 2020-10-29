@@ -16,7 +16,7 @@ Currently confirmed guests include:
 - Maths teacher and BBC Radio 4 puzzle writer <strong>Susan-Louise Okereke</strong>
 - Many more (to be announced)
 
-The show is taking place alongside <a href="http://watsonathon.com">Mark Watson's 24-hour comedy show Watsonathon</a> (more details shortly), which we hope to cross over with at some point(s) during the day/night. Both shows will be raising money for the charity <a href="https://www.turn2us.org.uk/">Turn2Us</a> which helps people in low-income jobs & gives out emergency loans, and the <a href="http://www.comedysupportact.org.uk/">Comedy Support Act</a>, supporting comedians and other performers who have little/no income at this time. You can donate <a href="http://tinyurl.com/watsonathonii">on Mark's fundraiser page</a>, and we'll share the link regularly throughout the show.
+The show is taking place alongside <a href="http://watsonathon.com">Mark Watson's 24-hour comedy show Watsonathon</a> (more details shortly), which we hope to cross over with at some point(s) during the day/night. Both shows will be raising money for the charity <a href="https://www.turn2us.org.uk/">Turn2Us</a> which helps people in low-income jobs & gives out emergency grants, and the <a href="http://www.comedysupportact.org.uk/">Comedy Support Act</a>, supporting comedians and other performers who have little/no income at this time. You can donate <a href="http://tinyurl.com/watsonathonii">on Mark's fundraiser page</a>, and we'll share the link regularly throughout the show.
 
 30 October &ndash; 31 October 9pm &ndash; 9pm
 =============================================
