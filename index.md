@@ -15,7 +15,7 @@ The show is currently live!
 <br />
 Watch on YouTube: <a href="https://youtu.be/Uuqrh5sdK8g">youtu.be/Uuqrh5sdK8g</a>
 <br /><br />
-<span style="font-size:80%">Live transcription is available <a href="https://otter.ai/s/tT9ikBfoRXSUB1vg6NANug">here</a>.</span>
+<span style="font-size:80%">Live transcription is available <a href="https://otter.ai/v/WqEnuirfSxvKFj1bXg7054YMla9JwNZC">here</a>.</span>
 <br />
 <span style="font-size:80%">Donate at <a href="https://donate.watsonathon.com">donate.watsonathon.com</a>.</span>
 </div>
