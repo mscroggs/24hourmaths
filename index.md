@@ -11,7 +11,7 @@ Currently confirmed guests include:
 - Popular science author <strong>Simon Singh</strong>
 - Mathematician and presenter <strong>Katie Steckles</strong>
 - Numberphile and YouTube star <strong>James Grime</strong>
-- Mathematician and autho <strong>Eugenia Cheng</strong>
+- Mathematician and author <strong>Eugenia Cheng</strong>
 - University Challenge star <strong>Bobby Seagull</strong>
 - YouTuber/Game Show host <strong>Tom Scott</strong>
 - Maths teacher and BBC Radio 4 puzzle writer <strong>Susan-Louise Okereke</strong>
