@@ -18,3 +18,5 @@ At <strong>22:00-22:30</strong> GMT, {% include _trickperson.html name="Matt Par
 At <strong>22:30</strong> GMT, {% include _trickperson.html name="Zoe Griffiths" twitter="ZoeLGriffiths" website="https://zoelgriffiths.co.uk/" %} took over from Katie to introduce out next guests...
 
 At <strong>22:30-23:00</strong> GMT, {% include _trickperson.html name="Susan Okereke" twitter="DoTheMathsThing" %} multiplied some two digit numbers by 11 very quickly.
+
+At <strong>23:00-23:30</strong> GMT, {% include _trickperson.html name="Matt Pritchard" twitter="ScienceMagician" %} showed us some mind-bending illusions.
