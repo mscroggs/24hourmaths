@@ -11,6 +11,7 @@ Currently confirmed guests include:
 - Popular science author <strong>Simon Singh</strong>
 - Mathematician and presenter <strong>Katie Steckles</strong>
 - Numberphile and YouTube star <strong>James Grime</strong>
+- Mathematician and autho <strong>Eugenia Cheng</strong>
 - University Challenge star <strong>Bobby Seagull</strong>
 - YouTuber/Game Show host <strong>Tom Scott</strong>
 - Maths teacher and BBC Radio 4 puzzle writer <strong>Susan-Louise Okereke</strong>
@@ -23,15 +24,4 @@ The show is taking place alongside <a href="http://watsonathon.com">Mark Watson'
 
 The 24 hour maths magic show is running from 21:00 GMT on Friday 30 October until 21:00 GMT on Saturday 31 October. You'll be able to watch it as a live YouTube stream on <a href="https://youtu.be/Uuqrh5sdK8g">Katie Steckles' YouTube channel</a>, and there'll be a text chat alongside to interact with the show and send messages of support. Follow <a href="http://www.twitter.com/24hmaths">@24hmaths on Twitter</a> for updates and reminders!
 
-Remind me
-=========
-
-To receive an email reminding you to watch the stream, enter your email address below.
-
-<div id="signuparea">
-<input type="email" id="email">
-<button onclick="clickButton()">Sign me up!</button>
-</div>
-
-We will email you about this 24 hour event and this event only, and will delete your email address
-after the event has ended.
+There'll be a live transcript of everything being said in the show, running on a separate website. The link to the transcript will be posted in the YouTube description of the show before it starts.
