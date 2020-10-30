@@ -16,3 +16,5 @@ At <strong>21:30-22:00</strong> GMT, {% include _trickperson.html name="Phil Bel
 At <strong>22:00-22:30</strong> GMT, {% include _trickperson.html name="Matt Parker" twitter="standupmaths" website="http://standupmaths.com/" youtube="standupmaths" %} joined us to (eventually) perform a very unlikely card trick.
 
 At <strong>22:30</strong> GMT, {% include _trickperson.html name="Zoe Griffiths" twitter="ZoeLGriffiths" website="https://zoelgriffiths.co.uk/" %} took over from Katie to introduce out next guests...
+
+At <strong>22:30-23:00</strong> GMT, {% include _trickperson.html name="Susan Okereke" twitter="DoTheMathsThing" %} multiplied some two digit numbers by 11 very quickly.
