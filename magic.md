@@ -58,3 +58,5 @@ At <strong>5:30-6:00</strong> GMT, {% include _trickperson.html name="James Arth
 At <strong>6:00</strong> GMT, {% include _trickperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="katiesteckles" %} took over from Julia to introduce our next guests...
 
 At <strong>6:00-6:30</strong> GMT, {% include _trickperson.html name="Jimi Jibodu" %} showed us card tricks by Bob Hummer.
+
+At <strong>6:30-7:00</strong> GMT, {% include _trickperson.html name="Tom Briggs" twitter="TeaKayB" website="tkbriggs.co.uk"%} worked out fifth roots at incredible speed.
