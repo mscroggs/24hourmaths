@@ -10,14 +10,16 @@ title: ""
 The show is currently live!
 <br /><br />
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Uuqrh5sdK8g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6XTV6FWOfLg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 <br />
-Watch on YouTube: <a href="https://youtu.be/Uuqrh5sdK8g">youtu.be/Uuqrh5sdK8g</a>
+Watch on YouTube: <a href="https://youtu.be/6XTV6FWOfLg">youtu.be/6XTV6FWOfLg</a>
 <br /><br />
 <span style="font-size:80%">Live transcription is available <a href="https://otter.ai/v/WqEnuirfSxvKFj1bXg7054YMla9JwNZC">here</a>.</span>
 <br />
 <span style="font-size:80%">Donate at <a href="https://donate.watsonathon.com">donate.watsonathon.com</a>.</span>
+<br />
+<span style="font-size:80%">You can rewatch the first half of the show <a href="https://youtu.be/Uuqrh5sdK8g">here</a></span>
 </div>
 </div>
 </div>
@@ -43,6 +45,6 @@ The show is taking place alongside <a href="http://watsonathon.com">Mark Watson'
 30 October &ndash; 31 October 9pm &ndash; 9pm
 =============================================
 
-The 24 hour maths magic show is running from 21:00 GMT on Friday 30 October until 21:00 GMT on Saturday 31 October. You'll be able to watch it as a live YouTube stream on <a href="https://youtu.be/Uuqrh5sdK8g">Katie Steckles' YouTube channel</a>, and there'll be a text chat alongside to interact with the show and send messages of support. Follow <a href="http://www.twitter.com/24hmaths">@24hmaths on Twitter</a> for updates and reminders!
+The 24 hour maths magic show is running from 21:00 GMT on Friday 30 October until 21:00 GMT on Saturday 31 October. You'll be able to watch it as a live stream on Katie Steckles' YouTube channel (<a href="https://youtu.be/Uuqrh5sdK8g">first half</a>, <a href="https://youtu.be/6XTV6FWOfLg">second half</a>), and there'll be a text chat alongside to interact with the show and send messages of support. Follow <a href="http://www.twitter.com/24hmaths">@24hmaths on Twitter</a> for updates and reminders!
 
 There'll be a live transcript of everything being said in the show, running on a separate website. The link to the transcript will be posted in the YouTube description of the show before it starts.
