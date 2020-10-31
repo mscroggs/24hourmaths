@@ -48,7 +48,7 @@ At <strong>3:30-4:00</strong> GMT, {% include _trickperson.html name="Jack Harri
 At <strong>4:00-4:30</strong> GMT, {% include _trickperson.html name="Paddy Moore" twitter="paddymaths" %} showed us some simple but impressive card tricks.
 
 At <strong>4:30</strong> GMT, {% include _trickperson.html name="Julia Collins" twitter="haggismaths" %} took over from Sydney to introduce our next guests...
-
+-
 At <strong>4:30-5:00</strong> GMT, {% include _trickperson.html name="Dan Finkel" twitter="MathforLove" website="http://mathforlove.com" %} used numbers chosen by the YouTube chat to perform a trick.
 
-At <strong>5:00-5:30</strong> GMT, {% include _trickperson.html name="Ayliean MacDonald" twitter="Ayliean" youtube="Ayliean" %} tore a loop of fabric in half to make two interlinked loops of fabric.
+At <strong>5:00-5:30</strong> GMT, {% include _trickperson.html name="Ayliean MacDonald" twitter="Ayliean" youtube="Ayliean" website="ayliean.com" %} tore a loop of fabric in half to make two interlinked loops of fabric.
