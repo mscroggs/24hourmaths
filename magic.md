@@ -110,3 +110,11 @@ At <strong>15:00-15:30</strong> GMT, {% include _trickperson.html name="Vicky Ne
 At <strong>15:30-16:00</strong> GMT, {% include _trickperson.html name="Simon Allen" %} made James divide some numbers between 7, 11 and 13.
 
 At <strong>16:00-16:30</strong> GMT, {% include _trickperson.html name="James Grime" twitter="jamesgrime" youtube="singingbanana" %} got the other James to multiply some one digit numbers together, the guessed a missing digit. On 20 November, James is running virtual maths retreats with Katie Steckles for <a href="http://vmr-y789-nov20.eventbrite.co.uk">year 7-9</a> and <a href="http://vmr-y1011-nov20.eventbrite.co.uk/">year 10-11</a> students.
+
+At <strong>16:30</strong> GMT, {% include _trickperson.html name="Jon Martin" twitter="OldMoatJon" %} took over from James to introduce our next guests...
+
+At <strong>16:30-17:00</strong> GMT, {% include _trickperson.html name="Ben Sparks" twitter="SparksMaths" website="https://www.bensparks.co.uk" %} showed Jon a card trick, then taught Jon hoe to do it.
+
+At <strong>17:00-17:30</strong> GMT, {% include _trickperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="katiesteckles" %} showed Jon a trick involving four digit numbers made by three rods. On 20 November, Katie is running virtual maths retreats with James Grime for <a href="http://vmr-y789-nov20.eventbrite.co.uk">year 7-9</a> and <a href="http://vmr-y1011-nov20.eventbrite.co.uk/">year 10-11</a> students.
+
+At <strong>17:30-18:00</strong> GMT, {% include _trickperson.html name="Andrew Jeffrey" twitter="AJMagicMessage" %} showed us a metal squircle, and gave Jon a fantastic prize...
