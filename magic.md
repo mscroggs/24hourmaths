@@ -122,3 +122,5 @@ At <strong>17:30-18:00</strong> GMT, {% include _trickperson.html name="Andrew J
 At <strong>18:00</strong> GMT, {% include _trickperson.html name="James Grime" twitter="jamesgrime" youtube="singingbanana" %} took over from Jon to introduce our next guests...
 
 At <strong>18:00-18:30</strong> GMT, {% include _trickperson.html name="Hana Ayoob" twitter="HanaAyoob" website="https://www.etsy.com/uk/shop/CuriousOctoDesigns" instagram="hana.ayoob" %} showed us how to turn a playing card inside out.
+
+At <strong>18:30-19:00</strong> GMT, {% include _trickperson.html name="Ash Frankland" twitter="AshFrankland" twitch="kitashtrophe" %} showed us some superflips on his Rubik's cube.
