@@ -68,3 +68,5 @@ At <strong>7:30</strong> GMT, {% include _trickperson.html name="Chris Smith" yo
 At <strong>7:30-8:00</strong> GMT, {% include _trickperson.html name="Sydney Weaver" twitter="SirWaffle2" website="http://www.sirwaffle.com/" %} performed some amazing feats with Rubik's cubes.
 
 At <strong>8:00-8:30</strong> GMT, {% include _trickperson.html name="Tony Mann" twitter="Tony_Mann" website="http://tonysmaths.blogspot.com/" %} showed us a card trick from his primary school days.
+
+At <strong>8:30-9:00</strong> GMT, {% include _trickperson.html name="Kyle D Evans" twitter="kyledevans" website="kyledevans.com" %} showed us a trick on a clock.
