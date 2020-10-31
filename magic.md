@@ -2,7 +2,7 @@
 title: Magic Show
 ---
 
-Magic Show
+-Magic Show
 ==========
 
 On 30&ndash;31 October 2020, we hosted a 24 hour maths magic show.
@@ -74,3 +74,5 @@ At <strong>8:30-9:00</strong> GMT, {% include _trickperson.html name="Kyle D Eva
 At <strong>9:00</strong> GMT, the stream moved to <a href="https://youtu.be/6XTV6FWOfLg">youtu.be/6XTV6FWOfLg</a> and {% include _trickperson.html name="Bobby Seagull" twitter="Bobby_Seagull" website="https://bobbyseagull.com/" youtube="BOBBYSEAGULLTV" %} welcomed everyone back to the show.
 
 At <strong>9:00-9:30</strong> GMT, {% include _trickperson.html name="Alison Eves" twitter="AlisonEves" %} worked out Bobby's birthday. Alison coordinates maths masterclasses for the {% include _trickperson.html name="Royal Instutution" twitter="Ri_Science" youtube="theroyalinstitution" %}.
+
+At <strong>9:30-10:00</strong> GMT, {% include _trickperson.html name="Chris Smith" youtube="lainysmith" twitter="aap03102" %} hid the number 123 in a skull, confused Bobby with a clock, and did a song. Chris sends out a weekly maths newsletter full of puzzles, lesson ideas, resources, and trivia.
