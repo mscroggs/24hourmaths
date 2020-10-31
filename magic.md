@@ -105,5 +105,4 @@ At <strong>14:30-15:00</strong> GMT, {% include _trickperson.html name="Fran Wat
 
 At <strong>15:00</strong> GMT, {% include _trickperson.html name="James Arthur" twitter="alephJamesA" website="www.alephjamesa.co.uk"%} took over from Katie to introduce our next guests...
 
-At <strong>15:00-15:30</strong> GMT, {% include _trickperson.html name="Vicky Neale" twitter="VickyMaths1729" website="http://people.maths.ox.ac.uk/neale/" %} folded some paper and found a parabola, then drew some straight lines to find some other surprise curves.
-
+At <strong>15:00-15:30</strong> GMT, {% include _trickperson.html name="Vicky Neale" twitter="VickyMaths1729" website="http://people.maths.ox.ac.uk/neale/" %} folded some paper and found a parabola, then drew some straight lines to find some other surprise curves. Vicky's new book, <a href="https://londonpublishingpartnership.co.uk/why-study-mathematics/"><em>Why Study Mathematics?</em></a> came out this week. There are templates for some interesting curve stitching on <a href="https://people.maths.ox.ac.uk/neale/Templates_for_curved_stitching.pdf">her website</a>.
