@@ -21,13 +21,13 @@ At <strong>22:30-23:00</strong> GMT, {% include _trickperson.html name="Susan Ok
 
 At <strong>23:00-23:30</strong> GMT, {% include _trickperson.html name="Matt Pritchard" twitter="ScienceMagician" website="https://sciencemagicshows.co.uk" %} showed us some mind-bending illusions. At <a href="https://www.wordsonwonder.com">wordsonwonder.com</a>, you can find a collection of interviews with Matt about wonder.
 
-At <strong>23:30-0:00</strong> GMT, {% include _trickperson.html name="Ian Kendall" twitter="IanKendallmagic" website="http://iankendall.com/blog" %} made a dollar disappear.
+At <strong>23:30-0:00</strong> GMT, {% include _trickperson.html name="Ian Kendall" twitter="IanKendallmagic" website="http://iankendall.com/blog" %} made a dollar disappear. Ian runs courses for aspiring magicians: find out more at <a href="http://virtualmagicshow.com/courses">virtualmagicshow.com/courses</a>.
 
 At <strong>0:00</strong> GMT, {% include _trickperson.html name="Ben Sparks" twitter="SparksMaths" website="https://www.bensparks.co.uk" %} took over from Zoe to introduce our next guests...
 
 At <strong>0:00-0:30</strong> GMT, {% include _trickperson.html name="Raj Shah" twitter="drrajshah" website="https://drrajshah.com" %} impressed Ben with some magic grids of numbers.
 
-At <strong>0:30-1:00</strong> GMT, {% include _trickperson.html name="Tom Crawford" twitter="tomrocksmaths" website="https://tomrocksmaths.com" %} worked out how a dice trick performed by Ben worked.
+At <strong>0:30-1:00</strong> GMT, {% include _trickperson.html name="Tom Crawford" youtube="tomrocksmaths" twitter="tomrocksmaths" website="https://tomrocksmaths.com" %} worked out how a dice trick performed by Ben worked.
 
 At <strong>1:00-1:30</strong> GMT, {% include _trickperson.html name="Matthew Scroggs" twitter="mscroggs" website="https://mscroggs.co.uk" %} taught some matchboxes to beat Ben at Nim. He also treated us by releasing a new issue of <a href='https://chalkdustmagazine.com'>Chalkdust, a magazine for the mathematically curious</a>
 
