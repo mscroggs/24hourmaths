@@ -62,3 +62,7 @@ At <strong>6:00-6:30</strong> GMT, {% include _trickperson.html name="Jimi Jibod
 At <strong>6:30-7:00</strong> GMT, {% include _trickperson.html name="Tom Briggs" twitter="TeaKayB" website="tkbriggs.co.uk"%} worked out fifth roots at incredible speed.
 
 At <strong>7:00-7:30</strong> GMT, {% include _trickperson.html name="Tom Scott" youtube="TomScottGo" twitter="tomscott" %} brought along paper and scissors to do some folding and cutting for a trick with Katie Steckles.
+
+At <strong>7:30</strong> GMT, {% include _trickperson.html name="Chris Smith" youtube="lainysmith" twitter="aap03102" %} took over from Katie to introduce our next guests...
+
+At <strong>7:30-8:00</strong> GMT, {% include _trickperson.html name="Sydney Weaver" twitter="SirWaffle2" website="http://www.sirwaffle.com/" %} performed some amazing feats with Rubik's cubes.
