@@ -70,3 +70,5 @@ At <strong>7:30-8:00</strong> GMT, {% include _trickperson.html name="Sydney Wea
 At <strong>8:00-8:30</strong> GMT, {% include _trickperson.html name="Tony Mann" twitter="Tony_Mann" website="http://tonysmaths.blogspot.com/" %} showed us a card trick from his primary school days.
 
 At <strong>8:30-9:00</strong> GMT, {% include _trickperson.html name="Kyle D Evans" twitter="kyledevans" website="kyledevans.com" %} showed us a trick on a clock.
+
+At <strong>9:00</strong> GMT, {% include _trickperson.html name="Bobby Seagull"  twitter="Bobby_Seagull" %} took over from Chris to introduce our next guests...
