@@ -7,6 +7,10 @@ purple: #782979
 light blue: #88C7D9
 */
 
+a:hover {
+  color: #782979
+}
+
 #signuparea
 {
   background-color: #88C7D9;

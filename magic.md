@@ -118,3 +118,7 @@ At <strong>16:30-17:00</strong> GMT, {% include _trickperson.html name="Ben Spar
 At <strong>17:00-17:30</strong> GMT, {% include _trickperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="katiesteckles" %} showed Jon a trick involving four digit numbers made by three rods. On 20 November, Katie is running virtual maths retreats with James Grime for <a href="http://vmr-y789-nov20.eventbrite.co.uk">year 7-9</a> and <a href="http://vmr-y1011-nov20.eventbrite.co.uk/">year 10-11</a> students.
 
 At <strong>17:30-18:00</strong> GMT, {% include _trickperson.html name="Andrew Jeffrey" twitter="AJMagicMessage" %} showed us a metal squircle, and gave Jon a fantastic prize...
+
+At <strong>18:00</strong> GMT, {% include _trickperson.html name="James Grime" twitter="jamesgrime" youtube="singingbanana" %} took over from Jon to introduce our next guests...
+
+At <strong>18:00-18:30</strong> GMT, {% include _trickperson.html name="Hana Ayoob" twitter="HanaAyoob" website="Instragram instagram.com/hana.ayoob / Etsy shop https://www.etsy.com/uk/shop/CuriousOctoDesigns" instagram="hana.ayoob" %} showed us how to turn a playing card inside out.
