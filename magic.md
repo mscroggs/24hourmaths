@@ -31,15 +31,15 @@ At <strong>0:30-1:00</strong> GMT, {% include _trickperson.html name="Tom Crawfo
 
 At <strong>1:00-1:30</strong> GMT, {% include _trickperson.html name="Matthew Scroggs" twitter="mscroggs" website="https://mscroggs.co.uk" %} taught some matchboxes to beat Ben at Nim. He also treated us by releasing a new issue of <a href='https://chalkdustmagazine.com'>Chalkdust, a magazine for the mathematically curious</a>
 
-At <strong>1:30</strong> GMT, {% include _trickperson.html name="Samuel Hansen" twitter="Samuel_Hansen" website="https://relprime.com/" %} took over from Ben to introduce our next guests...
+At <strong>1:30</strong> GMT, {% include _trickperson.html name="Samuel Hansen" twitter="Samuel_Hansen" website="https://relprime.com" %} took over from Ben to introduce our next guests...
 
-At <strong>1:30-2:00</strong> GMT, {% include _trickperson.html name="Gord!" twitter="gamesbygord" website="https://mathpickle.com/" %} impressed us with some square arrangements of cards.
+At <strong>1:30-2:00</strong> GMT, {% include _trickperson.html name="Gord!" twitter="gamesbygord" website="https://mathpickle.com" %} impressed us with some square arrangements of cards.
 
 At <strong>2:00-2:30</strong> GMT, {% include _trickperson.html name="Ron Lancaster" %} showed us a trick involving cards and dice.
 
 At <strong>2:30-3:00</strong> GMT, {% include _trickperson.html name="Scott Kim" twitter="scottekim" website="https://scottkim.com" %} amazed us with some ambigrams.
 
-At <strong>3:00</strong> GMT, {% include _trickperson.html name="Sydney Weaver" twitter="SirWaffle2" website="http://www.sirwaffle.com/" %} took over from Samuel to introduce our next guests...
+At <strong>3:00</strong> GMT, {% include _trickperson.html name="Sydney Weaver" twitter="SirWaffle2" website="http://www.sirwaffle.com" %} took over from Samuel to introduce our next guests...
 
 At <strong>3:00-3:30</strong> GMT, {% include _trickperson.html name="Peter Kagey" twitter="peterkagey" website="http://www.peterkagey.com" %} worked out the missing number from some sets of five numbers.
 
@@ -65,13 +65,13 @@ At <strong>7:00-7:30</strong> GMT, {% include _trickperson.html name="Tom Scott"
 
 At <strong>7:30</strong> GMT, {% include _trickperson.html name="Chris Smith" youtube="lainysmith" twitter="aap03102" %} took over from Katie to introduce our next guests...
 
-At <strong>7:30-8:00</strong> GMT, {% include _trickperson.html name="Sydney Weaver" twitter="SirWaffle2" website="http://www.sirwaffle.com/" %} performed some amazing feats with Rubik's cubes.
+At <strong>7:30-8:00</strong> GMT, {% include _trickperson.html name="Sydney Weaver" twitter="SirWaffle2" website="http://www.sirwaffle.com" %} performed some amazing feats with Rubik's cubes.
 
-At <strong>8:00-8:30</strong> GMT, {% include _trickperson.html name="Tony Mann" twitter="Tony_Mann" website="http://tonysmaths.blogspot.com/" %} showed us a card trick from his primary school days.
+At <strong>8:00-8:30</strong> GMT, {% include _trickperson.html name="Tony Mann" twitter="Tony_Mann" website="http://tonysmaths.blogspot.com" %} showed us a card trick from his primary school days.
 
 At <strong>8:30-9:00</strong> GMT, {% include _trickperson.html name="Kyle D Evans" twitter="kyledevans" website="kyledevans.com" %} showed us a trick on a clock.
 
-At <strong>9:00</strong> GMT, the stream moved to <a href="https://youtu.be/6XTV6FWOfLg">youtu.be/6XTV6FWOfLg</a> and {% include _trickperson.html name="Bobby Seagull" twitter="Bobby_Seagull" website="https://bobbyseagull.com/" youtube="BOBBYSEAGULLTV" %} welcomed everyone back to the show.
+At <strong>9:00</strong> GMT, the stream moved to <a href="https://youtu.be/6XTV6FWOfLg">youtu.be/6XTV6FWOfLg</a> and {% include _trickperson.html name="Bobby Seagull" twitter="Bobby_Seagull" website="https://bobbyseagull.com" youtube="BOBBYSEAGULLTV" %} welcomed everyone back to the show.
 
 At <strong>9:00-9:30</strong> GMT, {% include _trickperson.html name="Alison Eves" twitter="AlisonEves" %} worked out Bobby's birthday. Alison coordinates maths masterclasses for the {% include _trickperson.html name="Royal Instutution" twitter="Ri_Science" youtube="theroyalinstitution" %}.
 
@@ -89,7 +89,7 @@ At <strong>11:30-12:00</strong> GMT, {% include _trickperson.html name="Tiago Hi
 
 At <strong>12:00</strong> GMT, {% include _trickperson.html name="Fran Watson" twitter="franmaths" %} took over from Bobby to introduce our next guests...
 
-At <strong>12:00-12:30</strong> GMT, {% include _trickperson.html name="Bobby Seagull" twitter="Bobby_Seagull" website="https://bobbyseagull.com/" youtube="BOBBYSEAGULLTV" %} made Fran think about an orange kangaroo.
+At <strong>12:00-12:30</strong> GMT, {% include _trickperson.html name="Bobby Seagull" twitter="Bobby_Seagull" website="https://bobbyseagull.com" youtube="BOBBYSEAGULLTV" %} made Fran think about an orange kangaroo.
 
 At <strong>12:30-13:00</strong> GMT, {% include _trickperson.html name="Laurence O'Toole" %} worked out Fran's number after 8 questions even though she lied.
 
@@ -97,7 +97,7 @@ At <strong>13:00-13:30</strong> GMT, {% include _trickperson.html name="Goran Ne
 
 At <strong>13:30</strong> GMT, {% include _trickperson.html name="Katie Oldfield" twitter="Katie_Oldfield_" %} took over from Fran to introduce our next guests...
 
-At <strong>13:30-14:00</strong> GMT, {% include _trickperson.html facebook="turnermagic" name="Joe M. Turner" twitter="turnermagic" website="https://turnermagic.com/" %} did some magic tricks with dice. His <a href="http://re1115.eventbrite.com">next virtual show</a> is on 12 November at 7pm EST.
+At <strong>13:30-14:00</strong> GMT, {% include _trickperson.html facebook="turnermagic" name="Joe M. Turner" twitter="turnermagic" website="https://turnermagic.com" %} did some magic tricks with dice. His <a href="http://re1115.eventbrite.com">next virtual show</a> is on 12 November at 7pm EST.
 
 At <strong>14:00-14:30</strong> GMT, {% include _trickperson.html name="Colin Wright" twitter="colinthemathmo" website="https://www.solipsys.co.uk/new/ColinWright.html" %} dealt a deck into 12 piles of 4 then made four straights from the piles. But is it always possible, or was he just lucky?
 
@@ -105,17 +105,17 @@ At <strong>14:30-15:00</strong> GMT, {% include _trickperson.html name="Fran Wat
 
 At <strong>15:00</strong> GMT, {% include _trickperson.html name="James Arthur" twitter="alephJamesA" website="www.alephjamesa.co.uk"%} took over from Katie to introduce our next guests...
 
-At <strong>15:00-15:30</strong> GMT, {% include _trickperson.html name="Vicky Neale" twitter="VickyMaths1729" website="http://people.maths.ox.ac.uk/neale/" %} folded some paper and found a parabola, then drew some straight lines to find some other surprise curves. Vicky's new book, <a href="https://londonpublishingpartnership.co.uk/why-study-mathematics/"><em>Why Study Mathematics?</em></a> came out this week. There are templates for some interesting curve stitching on <a href="https://people.maths.ox.ac.uk/neale/Templates_for_curved_stitching.pdf">her website</a>.
+At <strong>15:00-15:30</strong> GMT, {% include _trickperson.html name="Vicky Neale" twitter="VickyMaths1729" website="http://people.maths.ox.ac.uk/neale" %} folded some paper and found a parabola, then drew some straight lines to find some other surprise curves. Vicky's new book, <a href="https://londonpublishingpartnership.co.uk/why-study-mathematics"><em>Why Study Mathematics?</em></a> came out this week. There are templates for some interesting curve stitching on <a href="https://people.maths.ox.ac.uk/neale/Templates_for_curved_stitching.pdf">her website</a>.
 
 At <strong>15:30-16:00</strong> GMT, {% include _trickperson.html name="Simon Allen" %} made James divide some numbers between 7, 11 and 13.
 
-At <strong>16:00-16:30</strong> GMT, {% include _trickperson.html name="James Grime" twitter="jamesgrime" youtube="singingbanana" %} got the other James to multiply some one digit numbers together, the guessed a missing digit. On 20 November, James is running virtual maths retreats with Katie Steckles for <a href="http://vmr-y789-nov20.eventbrite.co.uk">year 7-9</a> and <a href="http://vmr-y1011-nov20.eventbrite.co.uk/">year 10-11</a> students.
+At <strong>16:00-16:30</strong> GMT, {% include _trickperson.html name="James Grime" twitter="jamesgrime" youtube="singingbanana" %} got the other James to multiply some one digit numbers together, the guessed a missing digit. On 20 November, James is running virtual maths retreats with Katie Steckles for <a href="http://vmr-y789-nov20.eventbrite.co.uk">year 7-9</a> and <a href="http://vmr-y1011-nov20.eventbrite.co.uk">year 10-11</a> students.
 
 At <strong>16:30</strong> GMT, {% include _trickperson.html name="Jon Martin" twitter="OldMoatJon" %} took over from James to introduce our next guests...
 
 At <strong>16:30-17:00</strong> GMT, {% include _trickperson.html name="Ben Sparks" twitter="SparksMaths" website="https://www.bensparks.co.uk" %} showed Jon a card trick, then taught Jon hoe to do it.
 
-At <strong>17:00-17:30</strong> GMT, {% include _trickperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="katiesteckles" %} showed Jon a trick involving four digit numbers made by three rods. On 20 November, Katie is running virtual maths retreats with James Grime for <a href="http://vmr-y789-nov20.eventbrite.co.uk">year 7-9</a> and <a href="http://vmr-y1011-nov20.eventbrite.co.uk/">year 10-11</a> students.
+At <strong>17:00-17:30</strong> GMT, {% include _trickperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="katiesteckles" %} showed Jon a trick involving four digit numbers made by three rods. On 20 November, Katie is running virtual maths retreats with James Grime for <a href="http://vmr-y789-nov20.eventbrite.co.uk">year 7-9</a> and <a href="http://vmr-y1011-nov20.eventbrite.co.uk">year 10-11</a> students.
 
 At <strong>17:30-18:00</strong> GMT, {% include _trickperson.html name="Andrew Jeffrey" twitter="AJMagicMessage" %} showed us a metal squircle, and gave Jon a fantastic prize...
 
@@ -124,3 +124,36 @@ At <strong>18:00</strong> GMT, {% include _trickperson.html name="James Grime" t
 At <strong>18:00-18:30</strong> GMT, {% include _trickperson.html name="Hana Ayoob" twitter="HanaAyoob" website="https://www.etsy.com/uk/shop/CuriousOctoDesigns" instagram="hana.ayoob" %} showed us how to turn a playing card inside out.
 
 At <strong>18:30-19:00</strong> GMT, {% include _trickperson.html name="Ash Frankland" twitter="AshFrankland" twitch="kitashtrophe" %} showed us some superflips on his Rubik's cube.
+
+At <strong>19:00-19:30</strong> GMT, {% include _trickperson.html name="Rob Eastaway" twitter="robeastaway" website="https://robeastaway.com" %} showed us a trick using (nearly perfect) riffle shuffles.
+
+At <strong>19:30</strong> GMT, {% include _trickperson.html
+    name="Katie Steckles"
+    twitter="stecks"
+    website="https://katiesteckles.co.uk"
+    youtube="KatieSteckles"
+%}, {% include _trickperson.html
+    name="Zoe Griffiths"
+    twitter="ZoeLGriffiths"
+    website="https://zoelgriffiths.co.uk"
+%}, {% include _trickperson.html
+    name="Samuel Hansen"
+    twitter="Samuel_Hansen"
+    website="http://relprime.com"
+%}, {% include _trickperson.html
+    name="Ben Sparks"
+    twitter="SparksMaths"
+    website="https://bensparks.co.uk"
+%} and {% include _trickperson.html
+    name="Matthew Scroggs"
+    website="https://mscroggs.co.uk"
+    twitter="mscroggs"
+%} joined the stream to take us through the last 90 minutes...
+
+At <strong>19:30-20:00</strong> GMT, {% include _trickperson.html name="Simon Singh" twitter="SLSingh" website="https://simonsingh.net" %} showed us a physics trick. Simon runs {% include _trickperson.html name="Parallel Maths" website="http://www.parallel.org"%}, a website full of maths resources for mathematicians aged 10 to 16.
+
+At <strong>20:00-20:30</strong> GMT, {% include _trickperson.html name="Eugenia Cheng" twitter="DrEugeniaCheng" website="http://eugeniacheng.com" %} showed us how to find a hexagon in a cube, and cut a Battenburg. Eugenia's newest book <a href="https://www.waterstones.com/book/x-y/eugenia-cheng/9781788160407"><em>X+Y: A Mathematician's Manifesto for Rethinking Gender</em></a> and her first children's book <a href="https://www.waterstones.com/book/molly-and-the-mathematical-mystery/eugenia-cheng/aleksandra-artymowska/9781787415683"><em>Molly and the Mathematical Mystery</em></a> are both out now!
+
+At <strong>20:30-21:00</strong> GMT, {% include _trickperson.html name="Hannah Fry" twitter="FryRsquared" website="http://www.hannahfry.co.uk" %} joined us for a chat.
+
+At <strong>21:01</strong> GMT, we went to sleep.
