@@ -53,4 +53,8 @@ At <strong>4:30-5:00</strong> GMT, {% include _trickperson.html name="Dan Finkel
 
 At <strong>5:00-5:30</strong> GMT, {% include _trickperson.html name="Ayliean MacDonald" twitter="Ayliean" youtube="Ayliean" website="ayliean.com" %} tore a loop of fabric in half to make two interlinked loops of fabric.
 
+At <strong>5:30-6:00</strong> GMT, {% include _trickperson.html name="James Arthur" twitter="alephJamesA" website="www.alephjamesa.co.uk"%} showed us a trick involving addition of unit fractions.
+
+At <strong>6:00</strong> GMT, {% include _trickperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="katiesteckles" %} took over from Julia to introduce our next guests...
+
 At <strong>6:00-6:30</strong> GMT, {% include _trickperson.html name="Jimi Jibodu" %} showed us card tricks by Bob Hummer.
