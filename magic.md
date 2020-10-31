@@ -77,4 +77,4 @@ At <strong>9:00-9:30</strong> GMT, {% include _trickperson.html name="Alison Eve
 
 At <strong>9:30-10:00</strong> GMT, {% include _trickperson.html name="Chris Smith" youtube="lainysmith" twitter="aap03102" %} hid the number 123 in a skull, confused Bobby with a clock, and did a song. Chris sends out a weekly maths newsletter full of puzzles, lesson ideas, resources, and trivia.
 
-At <strong>10:00-10:30</strong> GMT, % include _trickperson.html name="Julia Collins" twitter="haggismaths" %} did a trick with 5 red and 5 black cards. Julia's latest book, <a href='https://www.waterstones.com/book/numbers-in-minutes/julia-collins/9781787477315'><em>Numbers in Minutes</em></a> is about 200 essential and interesting numbers.
+At <strong>10:00-10:30</strong> GMT, {% include _trickperson.html name="Julia Collins" twitter="haggismaths" %} did a trick with 5 red and 5 black cards. Julia's latest book, <a href='https://www.waterstones.com/book/numbers-in-minutes/julia-collins/9781787477315'><em>Numbers in Minutes</em></a> is about 200 essential and interesting numbers.
