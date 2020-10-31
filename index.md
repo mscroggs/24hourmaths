@@ -6,9 +6,9 @@ title: ""
 
 The show has finished. Thanks for watching.
 <br /><br />
-Rewatch the first half at <a href="https://youtu.be/6XTV6FWOfLg">youtu.be/6XTV6FWOfLg</a>
+Rewatch the first half at <a href="https://youtu.be/Uuqrh5sdK8g">youtu.be/Uuqrh5sdK8g</a>
 <br />
-Rewatch the second half at <a href="https://youtu.be/6XTV6FWOfLg">youtu.be/Uuqrh5sdK8g</a>
+Rewatch the second half at <a href="https://youtu.be/6XTV6FWOfLg">youtu.be/6XTV6FWOfLg</a>
 <br />
 <span style="font-size:80%">Donate at <a href="https://donate.watsonathon.com">donate.watsonathon.com</a>.</span>
 </div>
