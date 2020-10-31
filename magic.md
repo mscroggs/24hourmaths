@@ -7,7 +7,7 @@ Magic Show
 
 On 30&ndash;31 October 2020, we hosted a 24 hour maths magic show.
 
-At <strong>21:00</strong> GMT, {% include _trickperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="katiesteckles" %} welcomed everyone to the show.
+At <strong>21:00</strong> GMT, {% include _trickperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="katiesteckles" %} welcomed everyone to the show at <a href="https://youtu.be/Uuqrh5sdK8g">youtu.be/Uuqrh5sdK8g</a>.
 
 At <strong>21:00-21:30</strong> GMT, {% include _trickperson.html name="Zoe Griffiths" twitter="ZoeLGriffiths" website="https://zoelgriffiths.co.uk" %} joined us and successfully memorised the results of 40 coin flips. Zoe is involved in upcoming events with <a href="http://think-maths.co.uk">think-maths.co.uk</a>, <a href="http://mathsinspiration.com">mathsinspiration.com</a>, and <a href="http://cosmicshambles.com/ninelessons">cosmicshambles.com/ninelessons</a>.
 
@@ -71,4 +71,6 @@ At <strong>8:00-8:30</strong> GMT, {% include _trickperson.html name="Tony Mann"
 
 At <strong>8:30-9:00</strong> GMT, {% include _trickperson.html name="Kyle D Evans" twitter="kyledevans" website="kyledevans.com" %} showed us a trick on a clock.
 
-At <strong>9:00</strong> GMT, {% include _trickperson.html name="Bobby Seagull"  twitter="Bobby_Seagull" %} took over from Chris to introduce our next guests...
+At <strong>9:00</strong> GMT, the stream moved to <a href="https://youtu.be/6XTV6FWOfLg">youtu.be/6XTV6FWOfLg</a> and {% include _trickperson.html name="Bobby Seagull" twitter="Bobby_Seagull" website="https://bobbyseagull.com/" youtube="BOBBYSEAGULLTV" %} welcomed everyone back to the show.
+
+At <strong>9:00-9:30</strong> GMT, {% include _trickperson.html name="Alison Eves" twitter="AlisonEves" %} worked out Bobby's birthday. Alison coordinates maths masterclasses for the {% include _trickperson.html name="Royal Instutution" twitter="Ri_Science" youtube="theroyalinstitution" %}.
