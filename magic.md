@@ -97,4 +97,4 @@ At <strong>13:00-13:30</strong> GMT, {% include _trickperson.html name="Goran Ne
 
 At <strong>13:30</strong> GMT, {% include _trickperson.html name="Katie Oldfield" twitter="Katie_Oldfield_" %} took over from Fran to introduce our next guests...
 
-At <strong>13:30-14:00</strong> GMT, {% include _trickperson.html facebook="turnermagic" name="Joe M. Turner" twitter="turnermagic" website="https://turnermagic.com/" %} did some magic tricks with dice. His <a href='http://re1115.eventbrite.com">next virtual show</a> is on 12 November at 7pm EST.
+At <strong>13:30-14:00</strong> GMT, {% include _trickperson.html facebook="turnermagic" name="Joe M. Turner" twitter="turnermagic" website="https://turnermagic.com/" %} did some magic tricks with dice. His <a href="http://re1115.eventbrite.com">next virtual show</a> is on 12 November at 7pm EST.
