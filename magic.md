@@ -125,7 +125,7 @@ At <strong>18:00-18:30</strong> GMT, {% include _trickperson.html name="Hana Ayo
 
 At <strong>18:30-19:00</strong> GMT, {% include _trickperson.html name="Ash Frankland" twitter="AshFrankland" twitch="kitashtrophe" %} showed us some superflips on his Rubik's cube.
 
-At <strong>19:00-19:30</strong> GMT, {% include _trickperson.html name="Rob Eastaway" twitter="robeastaway" website="https://robeastaway.com" %} showed us a trick using (nearly perfect) riffle shuffles.
+At <strong>19:00-19:30</strong> GMT, {% include _trickperson.html name="Rob Eastaway" twitter="robeastaway" website="https://robeastaway.com" podcast="https://puzzlingmaths1.podbean.com/"%} showed us a trick using (nearly perfect) riffle shuffles.
 
 At <strong>19:30</strong> GMT, {% include _trickperson.html
     name="Katie Steckles"
