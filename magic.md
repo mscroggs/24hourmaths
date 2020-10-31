@@ -51,4 +51,4 @@ At <strong>4:30</strong> GMT, {% include _trickperson.html name="Julia Collins" 
 
 At <strong>4:30-5:00</strong> GMT, {% include _trickperson.html name="Dan Finkel" twitter="MathforLove" website="http://mathforlove.com" %} used numbers chosen by the YouTube chat to perform a trick.
 
-At <strong>5:00-5:30</strong> GMT, {% include _trickperson.html name="Ayliean MacDonald" twitter="Ayliean" youtube="Ayliean" %} tore a loop of fabric in half to make... one loop of fabric.
+At <strong>5:00-5:30</strong> GMT, {% include _trickperson.html name="Ayliean MacDonald" twitter="Ayliean" youtube="Ayliean" %} tore a loop of fabric in half to make two interlinked loops of fabric.
