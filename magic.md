@@ -10,7 +10,7 @@ On 30&ndash;31 October 2020, we hosted a 24 hour maths magic show.
 At <strong>21:00</strong> GMT, {% include _trickperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="katiesteckles" %} welcomed everyone to the show at <a href="https://youtu.be/Uuqrh5sdK8g">youtu.be/Uuqrh5sdK8g</a>.
 
 At <strong>21:00-21:30</strong> GMT, {% include _trickperson.html name="Zoe Griffiths" twitter="ZoeLGriffiths" website="https://zoelgriffiths.co.uk" %} joined us and successfully memorised the results of 40 coin flips. Zoe is involved in upcoming events with <a href="http://think-maths.co.uk">think-maths.co.uk</a>, <a href="http://mathsinspiration.com">mathsinspiration.com</a>, and <a href="http://cosmicshambles.com/ninelessons">cosmicshambles.com/ninelessons</a>.
-
+--
 At <strong>21:30-22:00</strong> GMT, {% include _trickperson.html name="Phil Bell-Young" twitter="philby91" website="https://zoelgriffiths.co.uk" %} joined us to perform a card trick that everyone could also try at home.
 
 At <strong>22:00-22:30</strong> GMT, {% include _trickperson.html name="Matt Parker" twitter="standupmaths" website="http://standupmaths.com" youtube="standupmaths" %} joined us to (eventually) perform a <a href="https://www.youtube.com/watch?v=BbnbfKbgf5Q">very unlikely card trick</a>.
@@ -78,3 +78,19 @@ At <strong>9:00-9:30</strong> GMT, {% include _trickperson.html name="Alison Eve
 At <strong>9:30-10:00</strong> GMT, {% include _trickperson.html name="Chris Smith" youtube="lainysmith" twitter="aap03102" %} hid the number 123 in a skull, confused Bobby with a clock, and did a song. Chris sends out a weekly maths newsletter full of puzzles, lesson ideas, resources, and trivia.
 
 At <strong>10:00-10:30</strong> GMT, {% include _trickperson.html name="Julia Collins" twitter="haggismaths" %} did a trick with 5 red and 5 black cards. Julia's latest book, <a href='https://www.waterstones.com/book/numbers-in-minutes/julia-collins/9781787477315'><em>Numbers in Minutes</em></a> is about 200 essential and interesting numbers.
+
+At <strong>10:30</strong> GMT, {% include _trickperson.html name="Sophie Maclean" twitter="sophiethemathmo" website="http://sophiethemathmo.wordpress.com" %} took over from Bobby to introduce our next guests. You can listen to Sophie's podcast on <a href='https://open.spotify.com/show/6ELtAUwmJUHkKOtvJ4WSGr'>Spotify</a>.
+
+At <strong>10:30-11:00</strong> GMT, {% include _trickperson.html name="Jo Morgan" twitter="mathsjem" %} was the volunteer for a trick performed by Sophie, then Sophie and Jo worked out how the trick worked.
+
+At <strong>11:00-11:30</strong> GMT, {% include _trickperson.html name="Kevin Houston" twitter="k_houston_math" %} performed some card tricks using his unbelieveable ability to perform a perfect shuffle.
+
+At <strong>11:30-12:00</strong> GMT, {% include _trickperson.html name="Tiago Hirth" %} performed lots of tricks. Many of the involved a chain and a ring.
+
+At <strong>12:00</strong> GMT, {% include _trickperson.html name="Fran Watson" twitter="franmaths" %} took over from Bobby to introduce our next guests...
+
+At <strong>12:00-12:30</strong> GMT, {% include _trickperson.html name="Bobby Seagull" twitter="Bobby_Seagull" website="https://bobbyseagull.com/" youtube="BOBBYSEAGULLTV" %} made Fran think about an orange kangaroo.
+
+At <strong>12:30-13:00</strong> GMT, {% include _trickperson.html name="Laurence O'Toole" %} worked out Fran's number after 8 questions even though she lied.
+
+At <strong>13:00-13:30</strong> GMT, {% include _trickperson.html name="Goran Newsom" twitter="GoranNewsum" %} got Katie's disembodied hands to perform a dice trick.
