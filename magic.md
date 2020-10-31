@@ -102,3 +102,8 @@ At <strong>13:30-14:00</strong> GMT, {% include _trickperson.html facebook="turn
 At <strong>14:00-14:30</strong> GMT, {% include _trickperson.html name="Colin Wright" twitter="colinthemathmo" website="https://www.solipsys.co.uk/new/ColinWright.html" %} dealt a deck into 12 piles of 4 then made four straights from the piles. But is it always possible, or was he just lucky?
 
 At <strong>14:30-15:00</strong> GMT, {% include _trickperson.html name="Fran Watson" twitter="franmaths" %} tried to find the S-I-X O-F H-E-A-R-T-S using M-A-T-H-S. Fran is running a <a href="https://www.eventbrite.co.uk/e/mathematics-through-paper-folding-tickets-126094521107">maths and paper folding workshop for teachers</a> on 11 November.
+
+At <strong>15:00</strong> GMT, {% include _trickperson.html name="James Arthur" twitter="alephJamesA" website="www.alephjamesa.co.uk"%} took over from Katie to introduce our next guests...
+
+At <strong>15:00-15:30</strong> GMT, {% include _trickperson.html name="Vicky Neale" twitter="VickyMaths1729" website="http://people.maths.ox.ac.uk/neale/" %} folded some paper and found a parabola, then drew some straight lines to find some other surprise curves.
+
