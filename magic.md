@@ -38,3 +38,7 @@ At <strong>1:30-2:00</strong> GMT, {% include _trickperson.html name="Gord!" twi
 At <strong>2:00-2:30</strong> GMT, {% include _trickperson.html name="Ron Lancaster" %} showed us a trick involving cards and dice.
 
 At <strong>2:30-3:00</strong> GMT, {% include _trickperson.html name="Scott Kim" twitter="scottekim" website="https://scottkim.com" %} amazed us with some ambigrams.
+
+At <strong>3:00</strong> GMT, {% include _trickperson.html name="Sydney Weaver" twitter="SirWaffle2" website="http://www.sirwaffle.com/" %} took over from Samuel to introduce our next guests...
+
+At <strong>3:00-3:30</strong> GMT, {% include _trickperson.html name="Scott Kim" twitter="peterkagey" website="http://www.peterkagey.com" %} worked out the missing number from some sets of five numbers.
