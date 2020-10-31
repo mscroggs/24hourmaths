@@ -2,7 +2,7 @@
 title: Magic Show
 ---
 
--Magic Show
+Magic Show
 ==========
 
 On 30&ndash;31 October 2020, we hosted a 24 hour maths magic show.
