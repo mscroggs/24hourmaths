@@ -60,3 +60,5 @@ At <strong>6:00</strong> GMT, {% include _trickperson.html name="Katie Steckles"
 At <strong>6:00-6:30</strong> GMT, {% include _trickperson.html name="Jimi Jibodu" %} showed us card tricks by Bob Hummer.
 
 At <strong>6:30-7:00</strong> GMT, {% include _trickperson.html name="Tom Briggs" twitter="TeaKayB" website="tkbriggs.co.uk"%} worked out fifth roots at incredible speed.
+
+At <strong>7:00-7:30</strong> GMT, {% include _trickperson.html name="Tom Scott" youtube="https://www.youtube.com/user/enyay" twitter="tomscott" %} brought along paper and scissors to do some folding and cutting for a trick with Katie Steckles.
