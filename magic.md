@@ -66,3 +66,5 @@ At <strong>7:00-7:30</strong> GMT, {% include _trickperson.html name="Tom Scott"
 At <strong>7:30</strong> GMT, {% include _trickperson.html name="Chris Smith" youtube="lainysmith" twitter="aap03102" %} took over from Katie to introduce our next guests...
 
 At <strong>7:30-8:00</strong> GMT, {% include _trickperson.html name="Sydney Weaver" twitter="SirWaffle2" website="http://www.sirwaffle.com/" %} performed some amazing feats with Rubik's cubes.
+
+At <strong>8:00-8:30</strong> GMT, {% include _trickperson.html name="Tony Mann" twitter="Tony_Mann" website="http://tonysmaths.blogspot.com/" %} showed us a card trick from his primary school days.
