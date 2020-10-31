@@ -13,7 +13,7 @@ At <strong>21:00-21:30</strong> GMT, {% include _trickperson.html name="Zoe Grif
 
 At <strong>21:30-22:00</strong> GMT, {% include _trickperson.html name="Phil Bell-Young" twitter="philby91" website="https://zoelgriffiths.co.uk" %} joined us to perform a card trick that everyone could also try at home.
 
-At <strong>22:00-22:30</strong> GMT, {% include _trickperson.html name="Matt Parker" twitter="standupmaths" website="http://standupmaths.com" youtube="standupmaths" %} joined us to (eventually) perform a very unlikely card trick.
+At <strong>22:00-22:30</strong> GMT, {% include _trickperson.html name="Matt Parker" twitter="standupmaths" website="http://standupmaths.com" youtube="standupmaths" %} joined us to (eventually) perform a <a href="https://www.youtube.com/watch?v=BbnbfKbgf5Q">very unlikely card trick</a>.
 
 At <strong>22:30</strong> GMT, {% include _trickperson.html name="Zoe Griffiths" twitter="ZoeLGriffiths" website="https://zoelgriffiths.co.uk" %} took over from Katie to introduce our next guests...
 
