@@ -44,3 +44,5 @@ At <strong>3:00</strong> GMT, {% include _trickperson.html name="Sydney Weaver" 
 At <strong>3:00-3:30</strong> GMT, {% include _trickperson.html name="Peter Kagey" twitter="peterkagey" website="http://www.peterkagey.com" %} worked out the missing number from some sets of five numbers.
 
 At <strong>3:30-4:00</strong> GMT, {% include _trickperson.html name="Jack Harrison" %} considered 1 + 2 + 3 + 4 + 5...
+
+At <strong>4:00-4:30</strong> GMT, {% include _trickperson.html name="Paddy Moore" twitter="paddymaths" %} showed us some simple but impressive card tricks.
