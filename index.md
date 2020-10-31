@@ -2,27 +2,15 @@
 title: ""
 ---
 
-<div style="padding:5px;border:#CA273A solid 5px;font-weight:bold;font-size:110%;margin-bottom:30px">
-<div style="padding:5px;border:#175B74 solid 5px;font-weight:bold;font-size:110%">
-<div style="padding:5px;border:#782979 solid 5px;font-weight:bold;font-size:110%">
-<div style="padding:30px 10px;border:#88C7D9 solid 5px;font-weight:bold;font-size:110%">
+<div style="padding:30px 10px;border:#88C7D9 solid 5px;font-weight:bold;font-size:110%;margin-bottom:30px">
 
-The show is currently live!
+The show has finished. Thanks for watching.
 <br /><br />
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6XTV6FWOfLg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
+Rewatch the first half at <a href="https://youtu.be/6XTV6FWOfLg">youtu.be/6XTV6FWOfLg</a>
 <br />
-Watch on YouTube: <a href="https://youtu.be/6XTV6FWOfLg">youtu.be/6XTV6FWOfLg</a>
-<br /><br />
-<span style="font-size:80%">Live transcription is available <a href="https://otter.ai/v/myj39PAQWJ45cHoBONrl8LIERqUdbpht">here</a>.</span>
+Rewatch the second half at <a href="https://youtu.be/6XTV6FWOfLg">youtu.be/Uuqrh5sdK8g</a>
 <br />
 <span style="font-size:80%">Donate at <a href="https://donate.watsonathon.com">donate.watsonathon.com</a>.</span>
-<br />
-<span style="font-size:80%">You can rewatch the first half of the show <a href="https://youtu.be/Uuqrh5sdK8g">here</a></span>
-</div>
-</div>
-</div>
 </div>
 
 This October, a <a href="http://24hourmaths.com/team.html">group of maths presenters</a> will be getting together some mathematicians, magicians and other cool people to put on a 24-hour long online YouTube mathematical magic show. Each half-hour we'll have a different special guest sharing a mathematical magic trick of some kind, and across the day we'll have a total of 48 tricks for you to watch and puzzle over (and since it's Hallowe'en, we might even include some treats as well). Details and timings are below, as well as a form to sign up for a reminder when the show is on!
