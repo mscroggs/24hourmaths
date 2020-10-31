@@ -41,4 +41,4 @@ At <strong>2:30-3:00</strong> GMT, {% include _trickperson.html name="Scott Kim"
 
 At <strong>3:00</strong> GMT, {% include _trickperson.html name="Sydney Weaver" twitter="SirWaffle2" website="http://www.sirwaffle.com/" %} took over from Samuel to introduce our next guests...
 
-At <strong>3:00-3:30</strong> GMT, {% include _trickperson.html name="Scott Kim" twitter="peterkagey" website="http://www.peterkagey.com" %} worked out the missing number from some sets of five numbers.
+At <strong>3:00-3:30</strong> GMT, {% include _trickperson.html name="Peter Kagey" twitter="peterkagey" website="http://www.peterkagey.com" %} worked out the missing number from some sets of five numbers.
