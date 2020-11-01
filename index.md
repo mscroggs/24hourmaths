@@ -2,20 +2,9 @@
 title: ""
 ---
 
-<div style="padding:30px 10px;border:#88C7D9 solid 5px;font-weight:bold;font-size:110%;margin-bottom:30px">
+This October, a <a href="http://24hourmaths.com/team.html">group of maths presenters</a> got together some mathematicians, magicians and other cool people to put on a 24-hour long online YouTube mathematical magic show. Each half-hour had a different special guest sharing a mathematical magic trick of some kind, giving a total of 48 tricks for you to watch and puzzle over (and since was Hallowe'en, we included some treats as well).
 
-The show has finished. Thanks for watching.
-<br /><br />
-Rewatch the first half at <a href="https://youtu.be/Uuqrh5sdK8g">youtu.be/Uuqrh5sdK8g</a>
-<br />
-Rewatch the second half at <a href="https://youtu.be/6XTV6FWOfLg">youtu.be/6XTV6FWOfLg</a>
-<br />
-<span style="font-size:80%">Donate at <a href="https://donate.watsonathon.com">donate.watsonathon.com</a>.</span>
-</div>
-
-This October, a <a href="http://24hourmaths.com/team.html">group of maths presenters</a> will be getting together some mathematicians, magicians and other cool people to put on a 24-hour long online YouTube mathematical magic show. Each half-hour we'll have a different special guest sharing a mathematical magic trick of some kind, and across the day we'll have a total of 48 tricks for you to watch and puzzle over (and since it's Hallowe'en, we might even include some treats as well). Details and timings are below, as well as a form to sign up for a reminder when the show is on!
-
-Currently confirmed guests include:
+The guests included:
 - Mathematician and Ri Christmas Lecturer <strong>Hannah Fry</strong>
 - Stand-up Mathematician <strong>Matt Parker</strong>
 - Professional speed Rubik's cuber <strong>Sydney Weaver</strong>
@@ -26,13 +15,8 @@ Currently confirmed guests include:
 - University Challenge star <strong>Bobby Seagull</strong>
 - YouTuber/Game Show host <strong>Tom Scott</strong>
 - Maths teacher and BBC Radio 4 puzzle writer <strong>Susan-Louise Okereke</strong>
-- Many more (to be announced)
 
-The show is taking place alongside <a href="http://watsonathon.com">Mark Watson's 24-hour comedy show Watsonathon</a> (more details shortly), which we hope to cross over with at some point(s) during the day/night. Both shows will be raising money for the charity <a href="https://www.turn2us.org.uk/">Turn2Us</a> which helps people in low-income jobs & gives out emergency grants, and the <a href="http://www.comedysupportact.org.uk/">Comedy Support Act</a>, supporting comedians and other performers who have little/no income at this time. You can donate <a href="http://tinyurl.com/watsonathonii">on Mark's fundraiser page</a>, and we'll share the link regularly throughout the show.
+You can find a full list of guests, and links to their parts of the show [here](magic.md).
 
-30 October &ndash; 31 October 9pm &ndash; 9pm
-=============================================
+The show took place alongside <a href="http://watsonathon.com">Mark Watson's 24-hour comedy show Watsonathon</a>, which we appeared on at some points during the day/night. Both shows were raising money for the charity <a href="https://www.turn2us.org.uk/">Turn2Us</a> which helps people in low-income jobs & gives out emergency grants, and the <a href="http://www.comedysupportact.org.uk/">Comedy Support Act</a>, supporting comedians and other performers who have little/no income at this time. You can still donate <a href="http://donate.watsonathon.com">on Mark's fundraiser page</a>.
 
-The 24 hour maths magic show is running from 21:00 GMT on Friday 30 October until 21:00 GMT on Saturday 31 October. You'll be able to watch it as a live stream on Katie Steckles' YouTube channel (<a href="https://youtu.be/Uuqrh5sdK8g">first half</a>, <a href="https://youtu.be/6XTV6FWOfLg">second half</a>), and there'll be a text chat alongside to interact with the show and send messages of support. Follow <a href="http://www.twitter.com/24hmaths">@24hmaths on Twitter</a> for updates and reminders!
-
-There'll be a live transcript of everything being said in the show, running on a separate website. The link to the transcript will be posted in the YouTube description of the show before it starts.
