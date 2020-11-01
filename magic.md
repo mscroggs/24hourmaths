@@ -18,6 +18,8 @@ At <a href="https://youtu.be/Uuqrh5sdK8g?t=5622">22:30-23:00</a> GMT, {% include
 
 At <a href="https://youtu.be/Uuqrh5sdK8g?t=6970">23:00-23:30</a> GMT, {% include _trickperson.html name="Matt Pritchard" twitter="ScienceMagician" website="https://sciencemagicshows.co.uk" %} showed us some mind-bending illusions. At <a href="https://www.wordsonwonder.com">wordsonwonder.com</a>, you can find a collection of interviews with Matt about wonder.
 
+At <a href="https://www.twitch.tv/videos/786833124?t=161m0s">23:15</a> GMT, {% include _trickperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="katiesteckles" %} appeared on <a href="http://watsonathon.com">Watsonathon</a> to tell Mark Watson and Tim Key what we were doing.
+
 At <a href="https://youtu.be/Uuqrh5sdK8g?t=8958">23:30-0:00</a> GMT, {% include _trickperson.html name="Ian Kendall" twitter="IanKendallmagic" website="http://iankendall.com/blog" %} made a dollar disappear. Ian runs courses for aspiring magicians: find out more at <a href="http://virtualmagicshow.com/courses">virtualmagicshow.com/courses</a>.
 
 At <a href="https://youtu.be/Uuqrh5sdK8g?t=10557">0:00</a> GMT, {% include _trickperson.html name="Ben Sparks" twitter="SparksMaths" website="https://www.bensparks.co.uk" %} took over from Zoe to introduce our next guests...
@@ -47,6 +49,8 @@ At <a href="https://youtu.be/Uuqrh5sdK8g?t=24996">4:00-4:30</a> GMT, {% include 
 At <a href="https://youtu.be/Uuqrh5sdK8g?t=27188">4:30</a> GMT, {% include _trickperson.html name="Julia Collins" twitter="haggismaths" %} took over from Sydney to introduce our next guests...
 
 At <a href="https://youtu.be/Uuqrh5sdK8g?t=27010">4:30-5:00</a> GMT, {% include _trickperson.html name="Dan Finkel" twitter="MathforLove" website="http://mathforlove.com" %} used numbers chosen by the YouTube chat to perform a trick.
+
+At <a href="https://www.twitch.tv/videos/786833124?t=563m0s">around 5:00</a> GMT, {% include _trickperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="katiesteckles" %} appeared on <a href="http://watsonathon.com">Watsonathon</a> to tell Mark Watson how our stream was going.
 
 At <a href="https://youtu.be/Uuqrh5sdK8g?t=28779">5:00-5:30</a> GMT, {% include _trickperson.html name="Ayliean MacDonald" twitter="Ayliean" youtube="Ayliean" website="http://ayliean.com" %} tore a loop of fabric in half to make two interlinked loops of fabric.
 
@@ -91,6 +95,8 @@ At <a href="https://youtu.be/6XTV6FWOfLg?t=11374">12:00-12:30</a> GMT, {% includ
 At <a href="https://youtu.be/6XTV6FWOfLg?t=13026">12:30-13:00</a> GMT, {% include _trickperson.html name="Laurence O'Toole" %} worked out Fran's number after 8 questions even though she lied.
 
 At <a href="https://youtu.be/6XTV6FWOfLg?t=15255">13:00-13:30</a> GMT, {% include _trickperson.html name="Goran Newsum" twitter="GoranNewsum" %} got Katie's disembodied hands to perform a dice trick.
+
+At <a href="https://www.twitch.tv/videos/786833124?t=1017m55s">around 13:30</a> GMT, {% include _trickperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="katiesteckles" %} appeared on <a href="http://watsonathon.com">Watsonathon</a> to tell Mark Watson how our stream was going.
 
 At <a href="https://youtu.be/6XTV6FWOfLg?t=16245">13:30</a> GMT, {% include _trickperson.html name="Katie Oldfield" twitter="Katie_Oldfield_" %} took over from Fran to introduce our next guests...
 
