@@ -74,7 +74,7 @@ At <a href="https://youtu.be/Uuqrh5sdK8g?t=41327">8:30-9:00</a> GMT, {% include 
 
 At <a href="https://youtu.be/6XTV6FWOfLg?t=0">9:00</a> GMT, the stream moved to <a href="https://youtu.be/6XTV6FWOfLg">youtu.be/6XTV6FWOfLg</a> and {% include _trickperson.html name="Bobby Seagull" twitter="Bobby_Seagull" website="https://bobbyseagull.com" youtube="BOBBYSEAGULLTV" %} welcomed everyone back to the show.
 
-At <a href="https://youtu.be/6XTV6FWOfLg?t=449">9:00-9:30</a> GMT, {% include _trickperson.html name="Alison Eves" twitter="AlisonEves" %} worked out Bobby's birthday. Alison coordinates maths masterclasses for the {% include _trickperson.html name="Royal Instutution" twitter="Ri_Science" youtube="theroyalinstitution" %}.
+At <a href="https://youtu.be/6XTV6FWOfLg?t=449">9:00-9:30</a> GMT, {% include _trickperson.html name="Alison Eves" twitter="AlisonEves" %} worked out Bobby's birthday. Alison coordinates maths masterclasses for the {% include _trickperson.html name="Royal Institution" twitter="Ri_Science" youtube="theroyalinstitution" %}.
 
 At <a href="https://youtu.be/6XTV6FWOfLg?t=1788">9:30-10:00</a> GMT, {% include _trickperson.html name="Chris Smith" youtube="lainysmith" twitter="aap03102" %} hid the number 123 in a skull, confused Bobby with a clock, and did a song. Chris sends out a weekly maths newsletter full of puzzles, lesson ideas, resources, and trivia. Email <strong>aap03102@gmail.com</strong> and Chris will be happy to sign you up for the newsletter!
 
@@ -84,7 +84,7 @@ At <a href="https://youtu.be/6XTV6FWOfLg?t=5386">10:30</a> GMT, {% include _tric
 
 At <a href="https://youtu.be/6XTV6FWOfLg?t=5437">10:30-11:00</a> GMT, {% include _trickperson.html name="Jo Morgan" twitter="mathsjem" %} was the volunteer for a trick performed by Sophie, then Sophie and Jo worked out how the trick worked.
 
-At <a href="https://youtu.be/6XTV6FWOfLg?t=7183">11:00-11:30</a> GMT, {% include _trickperson.html name="Kevin Houston" twitter="k_houston_math" website="http://www.kevinhouston.net/" youtube="DrKevinHouston" %} performed some card tricks using his unbelieveable ability to perform a perfect shuffle.
+At <a href="https://youtu.be/6XTV6FWOfLg?t=7183">11:00-11:30</a> GMT, {% include _trickperson.html name="Kevin Houston" twitter="k_houston_math" website="http://www.kevinhouston.net/" youtube="DrKevinHouston" %} performed some card tricks using his unbelievable ability to perform a perfect shuffle.
 
 At <a href="https://youtu.be/6XTV6FWOfLg?t=8940">11:30-12:00</a> GMT, {% include _trickperson.html name="Tiago Hirth" %} performed lots of tricks. Many of the involved a chain and a ring.
 
