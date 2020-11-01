@@ -76,7 +76,7 @@ At <a href="https://youtu.be/6XTV6FWOfLg?t=0">9:00</a> GMT, the stream moved to 
 
 At <a href="https://youtu.be/6XTV6FWOfLg?t=449">9:00-9:30</a> GMT, {% include _trickperson.html name="Alison Eves" twitter="AlisonEves" %} worked out Bobby's birthday. Alison coordinates maths masterclasses for the {% include _trickperson.html name="Royal Instutution" twitter="Ri_Science" youtube="theroyalinstitution" %}.
 
-At <a href="https://youtu.be/6XTV6FWOfLg?t=1788">9:30-10:00</a> GMT, {% include _trickperson.html name="Chris Smith" youtube="lainysmith" twitter="aap03102" %} hid the number 123 in a skull, confused Bobby with a clock, and did a song. Chris sends out a weekly maths newsletter full of puzzles, lesson ideas, resources, and trivia.
+At <a href="https://youtu.be/6XTV6FWOfLg?t=1788">9:30-10:00</a> GMT, {% include _trickperson.html name="Chris Smith" youtube="lainysmith" twitter="aap03102" %} hid the number 123 in a skull, confused Bobby with a clock, and did a song. Chris sends out a weekly maths newsletter full of puzzles, lesson ideas, resources, and trivia. Email <strong>aap03102@gmail.com</strong> and Chris will be happy to sign you up for the newsletter!
 
 At <a href="https://youtu.be/6XTV6FWOfLg?t=3561">10:00-10:30</a> GMT, {% include _trickperson.html name="Julia Collins" twitter="haggismaths" %} did a trick with 5 red and 5 black cards. Julia's latest book, <a href='https://www.waterstones.com/book/numbers-in-minutes/julia-collins/9781787477315'><em>Numbers in Minutes</em></a> is about 200 essential and interesting numbers.
 
