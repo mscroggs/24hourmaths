@@ -84,7 +84,7 @@ At <a href="https://youtu.be/6XTV6FWOfLg?t=5386">10:30</a> GMT, {% include _tric
 
 At <a href="https://youtu.be/6XTV6FWOfLg?t=5437">10:30-11:00</a> GMT, {% include _trickperson.html name="Jo Morgan" twitter="mathsjem" %} was the volunteer for a trick performed by Sophie, then Sophie and Jo worked out how the trick worked.
 
-At <a href="https://youtu.be/6XTV6FWOfLg?t=7183">11:00-11:30</a> GMT, {% include _trickperson.html name="Kevin Houston" twitter="k_houston_math" %} performed some card tricks using his unbelieveable ability to perform a perfect shuffle.
+At <a href="https://youtu.be/6XTV6FWOfLg?t=7183">11:00-11:30</a> GMT, {% include _trickperson.html name="Kevin Houston" twitter="k_houston_math" website="http://www.kevinhouston.net/" youtube="DrKevinHouston" %} performed some card tricks using his unbelieveable ability to perform a perfect shuffle.
 
 At <a href="https://youtu.be/6XTV6FWOfLg?t=8940">11:30-12:00</a> GMT, {% include _trickperson.html name="Tiago Hirth" %} performed lots of tricks. Many of the involved a chain and a ring.
 
