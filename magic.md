@@ -2,9 +2,6 @@
 title: Magic Show
 ---
 
-Magic Show
-==========
-
 On 30&ndash;31 October 2020, we hosted a 24 hour maths magic show.
 
 At <a href="https://youtu.be/Uuqrh5sdK8g?t=0">21:00</a> GMT, {% include _trickperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="katiesteckles" %} welcomed everyone to the show at <a href="https://youtu.be/Uuqrh5sdK8g">youtu.be/Uuqrh5sdK8g</a>.
