@@ -51,15 +51,15 @@ At <strong>4:30</strong> GMT, {% include _trickperson.html name="Julia Collins" 
 
 At <strong>4:30-5:00</strong> GMT, {% include _trickperson.html name="Dan Finkel" twitter="MathforLove" website="http://mathforlove.com" %} used numbers chosen by the YouTube chat to perform a trick.
 
-At <strong>5:00-5:30</strong> GMT, {% include _trickperson.html name="Ayliean MacDonald" twitter="Ayliean" youtube="Ayliean" website="ayliean.com" %} tore a loop of fabric in half to make two interlinked loops of fabric.
+At <strong>5:00-5:30</strong> GMT, {% include _trickperson.html name="Ayliean MacDonald" twitter="Ayliean" youtube="Ayliean" website="http://ayliean.com" %} tore a loop of fabric in half to make two interlinked loops of fabric.
 
-At <strong>5:30-6:00</strong> GMT, {% include _trickperson.html name="James Arthur" twitter="alephJamesA" website="www.alephjamesa.co.uk"%} showed us a trick involving addition of unit fractions.
+At <strong>5:30-6:00</strong> GMT, {% include _trickperson.html name="James Arthur" twitter="alephJamesA" website="http://www.alephjamesa.co.uk"%} showed us a trick involving addition of unit fractions.
 
 At <strong>6:00</strong> GMT, {% include _trickperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="katiesteckles" %} took over from Julia to introduce our next guests...
 
 At <strong>6:00-6:30</strong> GMT, {% include _trickperson.html name="Jimi Jibodu" %} showed us card tricks by Bob Hummer.
 
-At <strong>6:30-7:00</strong> GMT, {% include _trickperson.html name="Tom Briggs" twitter="TeaKayB" website="tkbriggs.co.uk"%} worked out fifth roots at incredible speed.
+At <strong>6:30-7:00</strong> GMT, {% include _trickperson.html name="Tom Briggs" twitter="TeaKayB" website="http://tkbriggs.co.uk"%} worked out fifth roots at incredible speed.
 
 At <strong>7:00-7:30</strong> GMT, {% include _trickperson.html name="Tom Scott" youtube="TomScottGo" twitter="tomscott" %} brought along paper and scissors to do some folding and cutting for a trick with Katie Steckles.
 
@@ -69,7 +69,7 @@ At <strong>7:30-8:00</strong> GMT, {% include _trickperson.html name="Sydney Wea
 
 At <strong>8:00-8:30</strong> GMT, {% include _trickperson.html name="Tony Mann" twitter="Tony_Mann" website="http://tonysmaths.blogspot.com" %} showed us a card trick from his primary school days.
 
-At <strong>8:30-9:00</strong> GMT, {% include _trickperson.html name="Kyle D Evans" twitter="kyledevans" website="kyledevans.com" %} showed us a trick on a clock.
+At <strong>8:30-9:00</strong> GMT, {% include _trickperson.html name="Kyle D Evans" twitter="kyledevans" website="http://kyledevans.com" %} showed us a trick on a clock.
 
 At <strong>9:00</strong> GMT, the stream moved to <a href="https://youtu.be/6XTV6FWOfLg">youtu.be/6XTV6FWOfLg</a> and {% include _trickperson.html name="Bobby Seagull" twitter="Bobby_Seagull" website="https://bobbyseagull.com" youtube="BOBBYSEAGULLTV" %} welcomed everyone back to the show.
 
@@ -103,7 +103,7 @@ At <strong>14:00-14:30</strong> GMT, {% include _trickperson.html name="Colin Wr
 
 At <strong>14:30-15:00</strong> GMT, {% include _trickperson.html name="Fran Watson" twitter="franmaths" %} tried to find the S-I-X O-F H-E-A-R-T-S using M-A-T-H-S. Fran is running a <a href="https://www.eventbrite.co.uk/e/mathematics-through-paper-folding-tickets-126094521107">maths and paper folding workshop for teachers</a> on 11 November.
 
-At <strong>15:00</strong> GMT, {% include _trickperson.html name="James Arthur" twitter="alephJamesA" website="www.alephjamesa.co.uk"%} took over from Katie to introduce our next guests...
+At <strong>15:00</strong> GMT, {% include _trickperson.html name="James Arthur" twitter="alephJamesA" website="http://www.alephjamesa.co.uk"%} took over from Katie to introduce our next guests...
 
 At <strong>15:00-15:30</strong> GMT, {% include _trickperson.html name="Vicky Neale" twitter="VickyMaths1729" website="http://people.maths.ox.ac.uk/neale" %} folded some paper and found a parabola, then drew some straight lines to find some other surprise curves. Vicky's new book, <a href="https://londonpublishingpartnership.co.uk/why-study-mathematics"><em>Why Study Mathematics?</em></a> came out this week. There are templates for some interesting curve stitching on <a href="https://people.maths.ox.ac.uk/neale/Templates_for_curved_stitching.pdf">her website</a>.
 
