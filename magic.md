@@ -102,7 +102,7 @@ At <a href="https://youtu.be/6XTV6FWOfLg?t=16245">13:30</a> GMT, {% include _tri
 
 At <a href="https://youtu.be/6XTV6FWOfLg?t=16483">13:30-14:00</a> GMT, {% include _trickperson.html facebook="turnermagic" name="Joe M. Turner" twitter="turnermagic" website="https://turnermagic.com" %} did some magic tricks with dice. His <a href="http://re1115.eventbrite.com">next virtual show</a> is on 15 November at 7pm EST.
 
-At <a href="https://youtu.be/6XTV6FWOfLg?t=17993">14:00-14:30</a> GMT, {% include _trickperson.html name="Colin Wright" twitter="colinthemathmo" website="https://www.solipsys.co.uk/new/ColinWright.html" %} dealt a deck into 12 piles of 4 then made four straights from the piles. But is it always possible, or was he just lucky?
+At <a href="https://youtu.be/6XTV6FWOfLg?t=17993">14:00-14:30</a> GMT, {% include _trickperson.html name="Colin Wright" twitter="colinthemathmo" website="https://www.solipsys.co.uk/new/ColinWright.html" %} dealt a deck into 13 piles of 4 then made four straights from the piles. But is it always possible, or was he just lucky?
 
 At <a href="https://youtu.be/6XTV6FWOfLg?t=19846">14:30-15:00</a> GMT, {% include _trickperson.html name="Fran Watson" twitter="franmaths" %} tried to find the S-I-X O-F H-E-A-R-T-S using M-A-T-H-S. Fran is running a <a href="https://www.eventbrite.co.uk/e/mathematics-through-paper-folding-tickets-126094521107">maths and paper folding workshop for teachers</a> on 11 November.
 
