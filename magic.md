@@ -26,7 +26,7 @@ At <a href="https://youtu.be/Uuqrh5sdK8g?t=10557">0:00</a> GMT, {% include _tric
 
 At <a href="https://youtu.be/Uuqrh5sdK8g?t=10943">0:00-0:30</a> GMT, {% include _trickperson.html name="Raj Shah" twitter="drrajshah" website="https://drrajshah.com" %} impressed Ben with some magic grids of numbers.
 
-At <a href="https://youtu.be/Uuqrh5sdK8g?t=12743">0:30-1:00</a> GMT, {% include _trickperson.html name="Tom Crawford" youtube="tomrocksmaths" twitter="tomrocksmaths" website="https://tomrocksmaths.com" %} worked out how a dice trick performed by Ben worked.
+At <a href="https://youtu.be/Uuqrh5sdK8g?t=12743">0:30-1:00</a> GMT, {% include _trickperson.html name="Tom Crawford" youtube="tomrocksmaths" twitter="tomrocksmaths" website="https://tomrocksmaths.com" %} worked out how to do Ben's dice and then performed it himself for the very first time.
 
 At <a href="https://youtu.be/Uuqrh5sdK8g?t=14556">1:00-1:30</a> GMT, {% include _trickperson.html name="Matthew Scroggs" twitter="mscroggs" website="https://mscroggs.co.uk" %} taught some matchboxes to beat Ben at Nim. He also treated us by releasing a new issue of <a href='https://chalkdustmagazine.com'>Chalkdust, a magazine for the mathematically curious</a>
 
