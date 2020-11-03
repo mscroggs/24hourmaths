@@ -14,7 +14,7 @@ At <a href="https://youtu.be/Uuqrh5sdK8g?t=3362">22:00-22:30</a> GMT, {% include
 
 At <a href="https://youtu.be/Uuqrh5sdK8g?t=5454">22:30</a> GMT, {% include _trickperson.html name="Zoe Griffiths" twitter="ZoeLGriffiths" website="https://zoelgriffiths.co.uk" %} took over from Katie to introduce our next guests...
 
-At <a href="https://youtu.be/Uuqrh5sdK8g?t=5622">22:30-23:00</a> GMT, {% include _trickperson.html name="Susan Okereke" twitter="DoTheMathsThing" %} multiplied some two digit numbers by 11 very quickly.
+At <a href="https://youtu.be/Uuqrh5sdK8g?t=5622">22:30-23:00</a> GMT, {% include _trickperson.html podcast="https://soundcloud.com/mathsappeal" name="Susan Okereke" website="http://www.dothemathsthing.com/" twitter="DoTheMathsThing" %} multiplied some two digit numbers by 11 very quickly, and showed us how to multiply quickly by 6, 7, 8 and 9 using her hands.
 
 At <a href="https://youtu.be/Uuqrh5sdK8g?t=6970">23:00-23:30</a> GMT, {% include _trickperson.html name="Matt Pritchard" twitter="ScienceMagician" website="https://sciencemagicshows.co.uk" %} showed us some mind-bending illusions. At <a href="https://www.wordsonwonder.com">wordsonwonder.com</a>, you can find a collection of interviews with Matt about wonder.
 
@@ -80,7 +80,7 @@ At <a href="https://youtu.be/6XTV6FWOfLg?t=1788">9:30-10:00</a> GMT, {% include 
 
 At <a href="https://youtu.be/6XTV6FWOfLg?t=3561">10:00-10:30</a> GMT, {% include _trickperson.html name="Julia Collins" twitter="haggismaths" %} did a trick with 5 red and 5 black cards. Julia's latest book, <a href='https://www.waterstones.com/book/numbers-in-minutes/julia-collins/9781787477315'><em>Numbers in Minutes</em></a> is about 200 essential and interesting numbers.
 
-At <a href="https://youtu.be/6XTV6FWOfLg?t=5386">10:30</a> GMT, {% include _trickperson.html name="Sophie Maclean" twitter="sophiethemathmo" website="http://sophiethemathmo.wordpress.com" %} took over from Bobby to introduce our next guests. You can listen to Sophie's podcast on <a href='https://open.spotify.com/show/6ELtAUwmJUHkKOtvJ4WSGr'>Spotify</a>.
+At <a href="https://youtu.be/6XTV6FWOfLg?t=5386">10:30</a> GMT, {% include _trickperson.html podcast="https://open.spotify.com/show/6ELtAUwmJUHkKOtvJ4WSGr" name="Sophie Maclean" twitter="sophiethemathmo" website="http://sophiethemathmo.wordpress.com" %} took over from Bobby to introduce our next guests. You can listen to Sophie's podcast on <a href='https://open.spotify.com/show/6ELtAUwmJUHkKOtvJ4WSGr'>Spotify</a>.
 
 At <a href="https://youtu.be/6XTV6FWOfLg?t=5437">10:30-11:00</a> GMT, {% include _trickperson.html name="Jo Morgan" twitter="mathsjem" %} was the volunteer for a trick performed by Sophie, then Sophie and Jo worked out how the trick worked.
 
@@ -102,7 +102,7 @@ At <a href="https://youtu.be/6XTV6FWOfLg?t=16245">13:30</a> GMT, {% include _tri
 
 At <a href="https://youtu.be/6XTV6FWOfLg?t=16483">13:30-14:00</a> GMT, {% include _trickperson.html facebook="turnermagic" name="Joe M. Turner" twitter="turnermagic" website="https://turnermagic.com" %} did some magic tricks with dice. His <a href="http://re1115.eventbrite.com">next virtual show</a> is on 15 November at 7pm EST.
 
-At <a href="https://youtu.be/6XTV6FWOfLg?t=17993">14:00-14:30</a> GMT, {% include _trickperson.html name="Colin Wright" twitter="colinthemathmo" website="https://www.solipsys.co.uk/new/ColinWright.html" %} dealt a deck into 12 piles of 4 then made four straights from the piles. But is it always possible, or was he just lucky?
+At <a href="https://youtu.be/6XTV6FWOfLg?t=17993">14:00-14:30</a> GMT, {% include _trickperson.html name="Colin Wright" twitter="colinthemathmo" website="https://www.solipsys.co.uk/new/ColinWright.html" %} dealt a deck into 13 piles of 4 then made four straights from the piles. But is it always possible, or was he just lucky?
 
 At <a href="https://youtu.be/6XTV6FWOfLg?t=19846">14:30-15:00</a> GMT, {% include _trickperson.html name="Fran Watson" twitter="franmaths" %} tried to find the S-I-X O-F H-E-A-R-T-S using M-A-T-H-S. Fran is running a <a href="https://www.eventbrite.co.uk/e/mathematics-through-paper-folding-tickets-126094521107">maths and paper folding workshop for teachers</a> on 11 November.
 
