@@ -160,3 +160,5 @@ At <a href="https://youtu.be/6XTV6FWOfLg?t=39678">20:00-20:30</a> GMT, {% includ
 At <a href="https://youtu.be/6XTV6FWOfLg?t=41320">20:30-21:00</a> GMT, {% include _trickperson.html name="Hannah Fry" twitter="FryRsquared" website="http://www.hannahfry.co.uk" %} joined us for a chat.
 
 At <a href="https://youtu.be/6XTV6FWOfLg?t=42772">21:01</a> GMT, we went to sleep.
+
+At around <a href="https://www.twitch.tv/videos/801709379?t=01h52m14s">20:45 GMT on Friday 13 November</a>, we showed off some highlights of the 24 Hour Maths Magic Show on Mark Watson's Watsonathon II highlights and follow up show.
