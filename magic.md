@@ -80,13 +80,13 @@ At <a href="https://youtu.be/Bfhtf7BZHNY">9:30-10:00</a> GMT, {% include _trickp
 
 At <a href="https://youtu.be/jSYWLn2fYFo">10:00-10:30</a> GMT, {% include _trickperson.html name="Julia Collins" twitter="haggismaths" %} did a trick with 5 red and 5 black cards. Julia's latest book, <a href='https://www.waterstones.com/book/numbers-in-minutes/julia-collins/9781787477315'><em>Numbers in Minutes</em></a> is about 200 essential and interesting numbers.
 
-At <a href="">10:30</a> GMT, {% include _trickperson.html podcast="https://open.spotify.com/show/6ELtAUwmJUHkKOtvJ4WSGr" name="Sophie Maclean" twitter="sophiethemathmo" website="http://sophiethemathmo.wordpress.com" %} took over from Bobby to introduce our next guests. You can listen to Sophie's podcast on <a href='https://open.spotify.com/show/6ELtAUwmJUHkKOtvJ4WSGr'>Spotify</a>.
+At 10:30 GMT, {% include _trickperson.html podcast="https://open.spotify.com/show/6ELtAUwmJUHkKOtvJ4WSGr" name="Sophie Maclean" twitter="sophiethemathmo" website="http://sophiethemathmo.wordpress.com" %} took over from Bobby to introduce our next guests. You can listen to Sophie's podcast on <a href='https://open.spotify.com/show/6ELtAUwmJUHkKOtvJ4WSGr'>Spotify</a>.
 
-At 10:30-11:00 GMT, {% include _trickperson.html name="Jo Morgan" twitter="mathsjem" %} was the volunteer for a trick performed by Sophie, then Sophie and Jo worked out how the trick worked.
+At <a href="https://youtu.be/dPWcIJT3h88">10:30-11:00</a> GMT, {% include _trickperson.html name="Jo Morgan" twitter="mathsjem" %} was the volunteer for a trick performed by Sophie, then Sophie and Jo worked out how the trick worked.
 
-At 11:00-11:30 GMT, {% include _trickperson.html name="Kevin Houston" twitter="k_houston_math" website="http://www.kevinhouston.net/" youtube="DrKevinHouston" %} performed some card tricks using his unbelievable ability to perform a perfect shuffle.
+At <a href="https://youtu.be/zMFRD6assGI">11:00-11:30</a> GMT, {% include _trickperson.html name="Kevin Houston" twitter="k_houston_math" website="http://www.kevinhouston.net/" youtube="DrKevinHouston" %} performed some card tricks using his unbelievable ability to perform a perfect shuffle.
 
-At 11:30-12:00 GMT, {% include _trickperson.html name="Tiago Hirth" %} performed lots of tricks. Many of the involved a chain and a ring.
+At <a href="https://youtu.be/jbMZ-ocamoM">11:30-12:00</a> GMT, {% include _trickperson.html name="Tiago Hirth" %} performed lots of tricks. Many of the involved a chain and a ring.
 
 At 12:00 GMT, {% include _trickperson.html name="Fran Watson" twitter="franmaths" %} took over from Bobby to introduce our next guests...
 
