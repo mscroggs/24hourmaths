@@ -2,7 +2,7 @@
 title: ""
 ---
 
-This October, a <a href="http://24hourmaths.com/team.html">group of maths presenters</a> got together some mathematicians, magicians and other cool people to put on a 24-hour long online YouTube mathematical magic show. Each half-hour had a different special guest sharing a mathematical magic trick of some kind, giving a total of 48 tricks for you to watch and puzzle over (and since was Hallowe'en, we included some treats as well).
+In October 2020, a <a href="http://24hourmaths.com/team.html">group of maths presenters</a> got together some mathematicians, magicians and other cool people to put on a 24-hour long online YouTube mathematical magic show. Each half-hour had a different special guest sharing a mathematical magic trick of some kind, giving a total of 48 tricks for you to watch and puzzle over (and since was Hallowe'en, we included some treats as well).
 
 The guests included:
 - Mathematician and RI Christmas Lecturer <strong>Hannah Fry</strong>
