@@ -44,9 +44,9 @@ svg#logoqbert:hover #calculator {
 
 @keyframes qbert-jump {
   0% { transform: translate(0px,0px);}
-  12.5% {transform: translate(30px,50px);}
+  12% {transform: translate(30px,50px);}
   50% {transform: translate(95px,-177px);}
-  62.5% {transform: translate(125px,-107px);}
+  62% {transform: translate(125px,-107px);}
   100% {transform: translate(190px,-354px);}
 }
 
