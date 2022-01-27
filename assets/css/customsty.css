@@ -37,6 +37,19 @@ svg#logohat:hover #calculator {
   100% {transform: rotate(0deg); transform-origin: 68px -48px;}
 }
 
+svg#logoqbert:hover #calculator {
+  animation: qbert-jump 1.5s linear 1;
+  transform: translate(190px,-354px);
+}
+
+@keyframes qbert-jump {
+  0% { transform: translate(0px,0px);}
+  12.5% {transform: translate(30px,50px);}
+  50% {transform: translate(95px,-177px);}
+  62.5% {transform: translate(125px,-107px);}
+  100% {transform: translate(190px,-354px);}
+}
+
 h1 img {
   border:none;
   box-shadow: none;
@@ -88,39 +101,25 @@ h1 img {
   color: #782979
 }
 .nav li:nth-of-type(4) a {
-  background-color: #E39528
+  background-color: #CA273A
 }
 .nav li:nth-of-type(4) a:hover,
 .nav li:nth-of-type(4) a.thispage {
-  color: #E39528
+  color: #CA273A
 }
 .nav li:nth-of-type(5) a {
-  background-color: #CA273A
+  background-color: #175B74
 }
 .nav li:nth-of-type(5) a:hover,
 .nav li:nth-of-type(5) a.thispage {
-  color: #CA273A
+  color: #175B74
 }
 .nav li:nth-of-type(6) a {
-  background-color: #175B74
+  background-color: #782979
 }
 .nav li:nth-of-type(6) a:hover,
 .nav li:nth-of-type(6) a.thispage {
-  color: #175B74
-}
-.nav li:nth-of-type(7) a {
-  background-color: #782979
-}
-.nav li:nth-of-type(7) a:hover,
-.nav li:nth-of-type(7) a.thispage {
   color: #782979
-}
-.nav li:nth-of-type(8) a {
-  background-color: #E39528
-}
-.nav li:nth-of-type(8) a:hover,
-.nav li:nth-of-type(8) a.thispage {
-  color: #E39528
 }
 
 .nav li a {

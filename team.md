@@ -1,5 +1,6 @@
 ---
 title: The Team
+permalink: team
 ---
 
 {% include _person.html

@@ -32,31 +32,19 @@
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script src="https://use.fontawesome.com/ffd23b5274.js"></script>
-    <script type='text/javascript'>
-window.MathJax = {
-  tex: {
-    inlineMath: [['$', '$']],
-    displayMath: [['[[',']]']]
-  },
-  svg: {
-    fontCache: 'global'
-  }
-};
-
-function clickButton() {
-  var obj, s
-  s = document.createElement("script");
-  s.src = "https://mscroggs.co.uk/24hr.php?x=" + encodeURIComponent(document.getElementById("email").value)
-  document.body.appendChild(s);
-  document.getElementById("signuparea").innerHTML = "Signing you up..."
-}
-function subs_success() {
-  document.getElementById("signuparea").innerHTML = "Signed you up successfully!"
-}
-function subs_fail() {
-  document.getElementById("signuparea").innerHTML = "Something went wrong. Please email magic@mscroggs.co.uk and tell me to fix this..."
-}
-
+<script>
+  (function (s, e, n, d, er) {
+    s['Sender'] = er;
+    s[er] = s[er] || function () {
+      (s[er].q = s[er].q || []).push(arguments)
+    }, s[er].l = 1 * new Date();
+    var a = e.createElement(n),
+        m = e.getElementsByTagName(n)[0];
+    a.async = 1;
+    a.src = d;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', 'https://cdn.sender.net/accounts_resources/universal.js', 'sender');
+  sender('260f969ba94350')
 </script>
 {% seo %}
   </head>
