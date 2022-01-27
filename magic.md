@@ -1,9 +1,27 @@
 ---
 title: Magic Show
+permalink: /magic
 ---
 
-On 30&ndash;31 October 2020, we hosted a 24 hour maths magic show.
+In October 2020, a <a href="http://24hourmaths.com/team.html">group of maths presenters</a> got together some mathematicians, magicians and other cool people to put on a 24-hour long online YouTube mathematical magic show. Each half-hour had a different special guest sharing a mathematical magic trick of some kind, giving a total of 48 tricks for you to watch and puzzle over (and since was Hallowe'en, we included some treats as well).
 
+The guests included:
+- Mathematician and RI Christmas Lecturer <strong>Hannah Fry</strong>
+- Stand-up Mathematician <strong>Matt Parker</strong>
+- Professional speed Rubik's cuber <strong>Sydney Weaver</strong>
+- Popular science author <strong>Simon Singh</strong>
+- Mathematician and presenter <strong>Katie Steckles</strong>
+- Numberphile and YouTube star <strong>James Grime</strong>
+- Mathematician and author <strong>Eugenia Cheng</strong>
+- University Challenge star <strong>Bobby Seagull</strong>
+- YouTuber/Game Show host <strong>Tom Scott</strong>
+- Maths teacher and BBC Radio 4 puzzle writer <strong>Susan-Louise Okereke</strong>
+
+You can find a full list of guests, and links to their parts of the show [here](magic.md).
+
+The show took place alongside <a href="http://watsonathon.com">Mark Watson's 24-hour comedy show Watsonathon</a>, which we appeared on at three points during the day/night ([first](https://www.twitch.tv/videos/786833124?t=161m0s), [second](https://www.twitch.tv/videos/786833124?t=563m0s), [third](https://www.twitch.tv/videos/786833124?t=1017m55s)). Both shows were raising money for the charity <a href="https://www.turn2us.org.uk/">Turn2Us</a> which helps people in low-income jobs & gives out emergency grants, and the <a href="http://www.comedysupportact.org.uk/">Comedy Support Act</a>, supporting comedians and other performers who have little/no income at this time. You can still donate <a href="http://donate.watsonathon.com">on Mark's fundraiser page</a>.
+
+# The show
 At 21:00 GMT, {% include _trickperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="katiesteckles" %} welcomed everyone to the show at <a href="https://youtu.be/Uuqrh5sdK8g">youtu.be/Uuqrh5sdK8g</a>.
 
 At <a href="https://youtu.be/NT-hIHCZ1D8">21:00-21:30</a> GMT, {% include _trickperson.html name="Zoe Griffiths" twitter="ZoeLGriffiths" website="https://zoelgriffiths.co.uk" %} joined us and successfully memorised the results of 40 coin flips. Zoe is involved in upcoming events with <a href="http://think-maths.co.uk">think-maths.co.uk</a>, <a href="http://mathsinspiration.com">mathsinspiration.com</a>, and <a href="http://cosmicshambles.com/ninelessons">cosmicshambles.com/ninelessons</a>.
@@ -162,3 +180,4 @@ At <a href="https://youtu.be/2QvDiaS5F8I">20:30-21:00</a> GMT, {% include _trick
 At 21:01 GMT, we went to sleep.
 
 At around <a href="https://www.twitch.tv/videos/801709379?t=01h52m14s">20:45 GMT on Friday 13 November</a>, we showed off some highlights of the 24 Hour Maths Magic Show on Mark Watson's Watsonathon Encore.
+

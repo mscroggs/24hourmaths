@@ -1,9 +1,9 @@
 # Site navigation links
 - title: Home
-  page: index
+  page: /
 
 - title: Magic Show
-  page: magic
+  page: /magic
 
 - title: Team
-  page: team
+  page: /team
