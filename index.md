@@ -3,7 +3,7 @@ title: ""
 permalink: /
 ---
 
-We're currently planning the second 24 Hour Maths show---the 24 Hour Maths Game Show. It will take place in mid-late 2022.
+We're currently planning our second show: the 24 Hour Maths Game Show. It will take place in mid-late 2022.
 To keep updated about this and other upcoming shows, sign up to our mailing list below or [follow us on Twitter](https://twitter.com/24hourmaths).
 
 The first 24 Hour Maths show took place in October 2020, when a <a href="http://24hourmaths.com/team.html">group of maths presenters</a> got together some mathematicians, 
