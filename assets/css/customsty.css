@@ -42,12 +42,40 @@ svg#logoqbert:hover #calculator {
   transform: translate(190px,-354px);
 }
 
+svg#logoqbert #sq-one,
+svg#logoqbert #sq-two {
+  fill: #CA273A
+}
+
+svg#logoqbert:hover #sq-one {
+  animation: qbert-sq-one 1.5s linear 1;
+  fill: yellow
+}
+
+svg#logoqbert:hover #sq-two {
+  animation: qbert-sq-two 1.5s linear 1;
+  fill: yellow
+}
+
 @keyframes qbert-jump {
   0% { transform: translate(0px,0px);}
   12% {transform: translate(30px,50px);}
   50% {transform: translate(95px,-177px);}
   62% {transform: translate(125px,-107px);}
   100% {transform: translate(190px,-354px);}
+}
+
+@keyframes qbert-sq-one {
+  0% { fill:#CA273A }
+  49% { fill:#CA273A }
+  50% { fill:yellow }
+  100% { fill:yellow }
+}
+
+@keyframes qbert-sq-two {
+  0% { fill:#CA273A }
+  99% { fill:#CA273A }
+  100% { fill:yellow }
 }
 
 h1 img {
