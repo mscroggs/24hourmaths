@@ -17,7 +17,7 @@ a:hover .fa {
   padding:10px
 }
 
-svg#logohat {
+svg#logohat, svg#logoqbert {
   max-width:700px;
   margin:auto;
   display:block
