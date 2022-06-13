@@ -3,7 +3,7 @@ title: ""
 permalink: /
 ---
 
-We're currently planning our second show: the 24 Hour Maths Game Show. It will take place from 7pm GMT on Friday 28th October until 7pm GMT on Saturday 29th October 2022.
+We're currently planning our second show: the 24 Hour Maths Game Show. It will take place from 7pm BST on Friday 28th October until 7pm BST on Saturday 29th October 2022.
 
 To keep updated about this and other upcoming shows, sign up to our mailing list below or [follow us on Twitter](https://twitter.com/24hourmaths).
 
