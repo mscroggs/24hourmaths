@@ -4,7 +4,7 @@ permalink: /
 ---
 
 We're currently planning our second show: the 24 Hour Maths Game Show. It will take place in mid-late 2022.
-To keep updated about this and other upcoming shows, sign up to our mailing list below or [follow us on Twitter](https://twitter.com/24hourmaths).
+To keep updated about this and other upcoming shows, sign up to our mailing list below or [follow us on Twitter](https://twitter.com/24hmaths).
 
 The [first 24 Hour Maths show](magic.md) took place in October 2020, when a [group of maths presenters](team.md) got together some mathematicians, 
 magicians and other cool people to put on a 24-hour long online YouTube mathematical magic show. Each half-hour had a 
