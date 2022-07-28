@@ -3,6 +3,8 @@ title: The Team
 permalink: team
 ---
 
+# [24 Hour Maths Magic Show](/magic) team
+
 {% include _person.html
     img="assets/img/zoe.jpg"
     name="Zoe Griffiths"
@@ -17,6 +19,14 @@ permalink: team
     about="Samuel is a mathematics and statistics librarian at the University of Michigan Library, and is the host of the Relatively Prime podcast."
     twitter="Samuel_Hansen"
     website="http://relprime.com"
+%}
+
+{% include _person.html
+    img="assets/img/sophie.jpg"
+    name="Sophie Maclean"
+    about="Sophie is a mathematician who talks about maths to school children all over the UK and beyond. She is also one of the editors of Chalkdust Magazine."
+    website="https://sophiethemathmo.wordpress.com/"
+    twitter="sophiethemathmo"
 %}
 
 {% include _person.html
