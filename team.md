@@ -3,7 +3,7 @@ title: The Team
 permalink: team
 ---
 
-# [24 Hour Maths Magic Show](/magic) team
+# 24 Hour Maths team
 
 {% include _person.html
     img="assets/img/zoe.jpg"
