@@ -32,7 +32,7 @@ permalink: team
 {% include _person.html
     img="assets/img/scroggs.jpg"
     name="Matthew Scroggs"
-    about="Matthew is a postdoctoral researcher at the University of Cambridge and one of the editors of Chalkdust Magazine."
+    about="Matthew is a postdoctoral researcher at University College London and one of the editors of Chalkdust Magazine."
     website="https://mscroggs.co.uk"
     twitter="mscroggs"
 %}
