@@ -4,22 +4,8 @@ permalink: team
 ---
 
 # 24 Hour Maths team
-
-{% include _person.html
-    img="assets/img/zoe.jpg"
-    name="Zoe Griffiths"
-    about="Zoe is is a mathematician who travels the UK and internationally giving talks and workshops in schools, at science festivals, teacher conferences and at comedy nights."
-    twitter="ZoeLGriffiths"
-    website="https://zoelgriffiths.co.uk"
-%}
-
-{% include _person.html
-    img="assets/img/samuel.jpg"
-    name="Samuel Hansen"
-    about="Samuel is a mathematics and statistics librarian at the University of Michigan Library, and is the host of the Relatively Prime podcast."
-    twitter="Samuel_Hansen"
-    website="http://relprime.com"
-%}
+The team of people show below are organising the 24 Hour Maths Game Show.
+[The team that ran the 24 Hour Maths Magic show can be found here](magic-team.md).
 
 {% include _person.html
     img="assets/img/kevin.png"
