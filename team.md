@@ -22,6 +22,14 @@ permalink: team
 %}
 
 {% include _person.html
+    img="assets/img/kevin.png"
+    name="Kevin Houston"
+    about="Kevin is a mathematician in the School of Mathematics at the University of Leeds, and is currently the Education Secretary of the London Mathematical Society."
+    website="http://kevinhouston.net"
+    twitter="k_houston_math"
+%}
+
+{% include _person.html
     img="assets/img/sophie.jpg"
     name="Sophie Maclean"
     about="Sophie is a mathematician who talks about maths to school children all over the UK and beyond. She is also one of the editors of Chalkdust Magazine."
