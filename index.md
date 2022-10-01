@@ -3,11 +3,7 @@ title: ""
 permalink: /
 ---
 
-We're currently planning our second show: the 24 Hour Maths Game Show. It will take place from
-{% include _bst_time.html timestamp="2022-10-28T19:00:00" format="{12 HOUR}{?:MINUTE}{am/pm} {TZ} on {WEEKDAY} {DATETH} {MONTHNAME} {YEAR}" %}
-until 
-{% include _bst_time.html timestamp="2022-10-29T19:00:00" format="{12 HOUR}{?:MINUTE}{am/pm} {TZ} on {WEEKDAY} {DATETH} {MONTHNAME} {YEAR}" %},
-and will be a celebration of everything maths/games related, including mathematical game shows, game theory, maths games and anything else in the intersection of maths and games.
+We're currently planning our second show: the 24 Hour Maths Game Show. It will take place from 7pm BST on Friday 28th October until 7pm BST on Saturday 29th October 2022, and will be a celebration of everything maths/games related, including mathematical game shows, game theory, maths games and anything else in the intersection of maths and games.
 
 The entire event is run by volunteers, and we're looking for helpers and ideas for content. We've set up submission forms for [if you've got a good idea for something we could do as part of the show](https://forms.gle/6BCMEPxrHKUZZaEt6), or [would like to be otherwise involved in some capacity](https://forms.gle/Zi89Aa3hEAQcEbZM6).
 
