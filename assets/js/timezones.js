@@ -3,7 +3,7 @@ let cookie_settings = "expires=Mon, 01 Jan 2024 12:00:00 UTC; path=/; SameSite=L
 let zone = "BST"
 
 let tzdata = {
-    "BST": [1, 0, "BST [UTC+1]"],
+    "BST": [1, 0, "BST [UTC+1] (The time in the UK during the show)"],
 
     "PDT": [-7, 0, "Pacific Time [UTC-7]"],
     "MDT": [-6, 0, "Mountain Time [UTC-6]"],
