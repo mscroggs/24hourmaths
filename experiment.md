@@ -1,3 +1,9 @@
+---
+title: Magic Show Team
+permalink: /experiment
+layout: tz
+---
+
 The 24 Hour Maths Game Show will start at 
 {% include _bst_time.html timestamp="2022-10-28T19:00:00" format="{12 HOUR}:{MINUTE} {TZ}" %}
 and end at

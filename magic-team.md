@@ -1,6 +1,7 @@
 ---
 title: Magic Show Team
-permalink: magic-team
+permalink: /magic-team
+layout: magic
 ---
 
 # 24 Hour Maths [Magic Show](magic.md) Team
