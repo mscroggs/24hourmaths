@@ -90,7 +90,7 @@ function update_timezones(){
         if (zone == "Unix time")
         {
             let date = new Date(es[i].dataset["timestamp"]+"+0100")
-            es[i].innerHTML = date.getTime();
+            es[i].innerHTML = date.getTime() / 1000;
 
         } else {
 
