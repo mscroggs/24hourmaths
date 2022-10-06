@@ -4,8 +4,8 @@ permalink: /gameshow
 layout: tz
 ---
 
-From {% include _bst_time.html timestamp="2022-10-28 19:00" format="{12 HOUR}{am/pm} on {WEEKDAY} {DATETH} {MONTHNAME} {TZ}" %}
-until {% include _bst_time.html timestamp="2022-10-29 19:00" format="{12 HOUR}{am/pm} on {WEEKDAY} {DATETH} {MONTHNAME} {TZ}" %},
+From {% include _bst_time.html timestamp="2022-10-28 19:00" format="{12 HOUR}{am/pm} {TZ} on {WEEKDAY} {DATETH} {MONTHNAME}" %}
+until {% include _bst_time.html timestamp="2022-10-29 19:00" format="{12 HOUR}{am/pm} {TZ} on {WEEKDAY} {DATETH} {MONTHNAME}" %},
 we will be running the 24 Hour Maths Game Show.
 
 The 24 Hour Maths Game Show will include (provisionally):
