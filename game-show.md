@@ -14,7 +14,7 @@ The 24 Hour Maths Game Show will include (provisionally):
 - **Simon Singh's House of Games**
 - **Ben Orlin's Math Games with Bad Drawings**
 - **Simply Connect(ed)** - a maths-themed version of the British quiz show Only Connect, featuring previous Only Connect champion **Katie Steckles**
-- **Zoe Griffiths** playing Penney Ante
+- **Zoe Griffiths** playing against everyone watching at Penney Ante
 - **Alex Bolton** working out how to play chess for a very long time
 - **Numberwang** with host **Katie Steckles**
 - **Tom Crawford** working out how to score a perfect penalty
@@ -22,22 +22,22 @@ The 24 Hour Maths Game Show will include (provisionally):
 - **Family Feud: Math Edition** with **Sydney Weaver**
 - **The Price is Right: Math Edition** with **Sydney Weaver**
 - **Colin Wright** and **Adam Atkinson** talking about Nim and related games
-- **Tom Edgar** playing some games
+- **Tom Edgar** playing some games old and new, and finding the maths in them
 - **Have I Got Maths For You** featuring guest host **Lucy Rycroft-Smith**
 - Board game memes throughout history with **Gord!**
 - **Guess Who?: Maths Edition** hosted by **Sophie Maclean** and **Noel-Ann Bradshaw**
-- **Just a Minute**
+- **Just a Minute**, mathematical edition
 - **Alex Kontorovich** playing Spot It/Dobble using a finite projective plane
-- **Tony Mann** playing Hypergame
-- **Blockbusters**
+- **Tony Mann** playing the game of Hypergame
+- **Blockbusters** of Interesting Maths, featuring Numberphile stars **Katie Steckles, James Grime and Colin Wright**
 - **Mats Vermeeren** playing a new version of the Game of Life
 - **The Unbelievable Proof** - based on the Radio 4 panel show The Unbelievable Truth
 - **Countdown** - hosted by **Goran Newsum** and featuring former Countdown champion **Junaid Mubeen**
-- **Dungeons & Dragons**
+- **Dungeons & Dragons** - live mathematical-themed adventure from the team behind **Science & Sorcery**
 - **Maths Art Challenges** with **Hana Ayoob**
 - **Peter Rowlett** playing games (even when he doesn't know he is)
-- **Tiago Hirth** playing an 8 by 8 game that isn't Chess
-- **Cathy Hsu** playing variants of the game Set
-- **Jeopardy!**
+- **Tiago Hirth** playing 8 by 8 games that aren't Chess
+- **Cathy Hsu** playing variants of the game SET, alongside a live SET tournament
+- **Jeopardy!** - mathematical edition with **Chalkdust Magazine**'s **Matthew Scroggs** and **Adam Townsend**
 - Head-to-head **Genius Square** hosted by **MathsCity Leeds**
-- **TaskMathster**
+- **TaskMathster** - mathematical version of the popular challenge show
