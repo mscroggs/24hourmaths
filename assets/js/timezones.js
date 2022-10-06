@@ -89,12 +89,13 @@ function update_timezones(){
     for (let i = 0; i < es.length; i++){
         if (zone == "Unix time")
         {
-            let date = new Date(es[i].dataset["timestamp"]+"+0100")
+            let date = new Date(Date.UTC(es[i].dataset["year"], es[i].dataset["month"], es[i].dataset["day"], es[i].dataset["hour"], es[i].dataset["minute"], 0, 0))
+            date = new Date(date.getTime() - 1 * 60 * 60 * 1000 + tzdata[zone][1] * 60 * 1000);
             es[i].innerHTML = date.getTime() / 1000;
 
         } else {
 
-            let date = new Date(es[i].dataset["timestamp"]+"+0000")
+            let date = new Date(Date.UTC(es[i].dataset["year"], es[i].dataset["month"], es[i].dataset["day"], es[i].dataset["hour"], es[i].dataset["minute"], 0, 0))
 
             date = new Date(date.getTime() + (tzdata[zone][0] - 1) * 60 * 60 * 1000 + tzdata[zone][1] * 60 * 1000);
 
