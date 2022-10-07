@@ -59,7 +59,7 @@ At <a href="https://youtu.be/F_2oUgAuuLU">2:30-3:00</a> GMT, {% include _trickpe
 
 At 3:00 GMT, {% include _trickperson.html name="Sydney Weaver" twitter="SirWaffle2" website="http://www.sirwaffle.com" %} took over from Samuel to introduce our next guests...
 
-**At <a href="https://youtu.be/JjTk6hD8QTE">3:00-3:30</a> GMT, {% include _trickperson.html name="Peter Kagey" twitter="peterkagey" website="http://www.peterkagey.com" %} worked out the missing number from some sets of five numbers. There is <a href="http://www.peterkagey.com/card_trick#index">a page on Peter's website</a> that allows you to experiment with this trick yourself.**
+**At <a href="https://youtu.be/VsG4Cy4DBB8">3:00-3:30</a> GMT, {% include _trickperson.html name="Peter Kagey" twitter="peterkagey" website="http://www.peterkagey.com" %} worked out the missing number from some sets of five numbers. There is <a href="http://www.peterkagey.com/card_trick#index">a page on Peter's website</a> that allows you to experiment with this trick yourself.**
 
 At <a href="https://youtu.be/lV78cClVJVg">3:30-4:00</a> GMT, {% include _trickperson.html name="Jack Harrison" %} considered 1 + 2 + 3 + 4 + 5...
 
