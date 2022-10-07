@@ -10,21 +10,21 @@ we will be running the 24 Hour Maths Game Show.
 
 The 24 Hour Maths Game Show will include (provisionally):
 
-- **James Grime** playing Noughts and Crosses
+- **James Grime** playing games against a book
 - **Simon Singh's House of Games**
 - **Ben Orlin's Math Games with Bad Drawings**
-- **Simply Connect(ed)** - a maths-themed version of the British quiz show Only Connect, featuring previous Only Connect champion **Katie Steckles**
+- **Simply Connect(ed)** - a maths-themed version of the British quiz show Only Connect, featuring former contestants and hosted by previous champion **Katie Steckles**
 - **Zoe Griffiths** playing against everyone watching at Penney Ante
 - **Alex Bolton** working out how to play chess for a very long time
 - **Numberwang** with host **Katie Steckles**
-- **Tom Crawford** working out how to score a perfect penalty
+- **Tom Crawford** working out how to score a perfect penalty, using maths
 - **Sophie Maclean** working out how to beat everyone when playing Mafia
-- **Family Feud: Math Edition** with **Sydney Weaver**
-- **The Price is Right: Math Edition** with **Sydney Weaver**
+- **Family Feud: Math Edition** with Rubik's cube champion **Sydney Weaver**
+- **The Price is Right: Math Edition** with Rubik's cube champion **Sydney Weaver**
 - **Colin Wright** and **Adam Atkinson** talking about Nim and related games
 - **Tom Edgar** playing some games old and new, and finding the maths in them
-- **Have I Got Maths For You** featuring guest host **Lucy Rycroft-Smith**
-- Board game memes throughout history with **Gord!**
+- **Have I Got Maths For You** hosted by **Lucy Rycroft-Smith**
+- Board game memes throughout history with **Gord!** and special guests
 - **Guess Who?: Maths Edition** hosted by **Sophie Maclean** and **Noel-Ann Bradshaw**
 - **Just a Minute**, mathematical edition
 - **Alex Kontorovich** playing Spot It/Dobble using a finite projective plane
