@@ -8,6 +8,9 @@ From {% include _bst_time.html year="2022" month="9" day="28" hour="19" minute="
 until {% include _bst_time.html year="2022" month="9" day="29" hour="19" minute="0" format="{12 HOUR}{am/pm} {TZ} on {WEEKDAY} {DATETH} {MONTHNAME}" %},
 we will be running the 24 Hour Maths Game Show.
 
+The show is raising money for four charities: Beat, the Rheumatoid Arthritis Foundation, DEC, and the Malala Fund.
+You can donate to one or all of these charities on [our Just Giving page](https://www.justgiving.com/team/24hourmathsgameshow).
+
 The 24 Hour Maths Game Show will include (provisionally):
 
 - **James Grime** playing games against a book
