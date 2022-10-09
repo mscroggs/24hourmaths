@@ -1,5 +1,5 @@
 ---
-title: Magic Show Team
+title: 24 Hour Maths Magic Show Team
 permalink: /experiment
 layout: tz
 ---

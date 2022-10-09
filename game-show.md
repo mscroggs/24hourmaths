@@ -1,5 +1,5 @@
 ---
-title: Game Show
+title: 24 Hour Maths Game Show
 permalink: /gameshow
 layout: tz
 ---
