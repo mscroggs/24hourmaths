@@ -3,7 +3,7 @@ title: ""
 permalink: /
 ---
 
-We're currently preparing for our second show: the 24 Hour Maths Game Show. It will take place from 7pm BST on Friday 28th October until 7pm BST on Saturday 29th October 2022, and will be a celebration of everything maths/games related, including mathematical game shows, game theory, maths games and anything else in the intersection of maths and games.
+The 24 Hour Maths Game Show will take place from 7pm BST on Friday 28th October until 7pm BST on Saturday 29th October 2022, and will be a celebration of everything maths/games related, including mathematical game shows, game theory, maths games and anything else in the intersection of maths and games.
 Guests on the show will include:
 
 - Numberphile and YouTube star **James Grime**
