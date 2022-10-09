@@ -11,6 +11,8 @@ we will be running the 24 Hour Maths Game Show.
 The show is raising money for four charities: Beat, the Rheumatoid Arthritis Foundation, DEC, and the Malala Fund.
 You can donate to one or all of these charities on [our Just Giving page](https://www.justgiving.com/team/24hourmathsgameshow).
 
+<center><a href='https://www.justgiving.com/team/24hourmathsgameshow'><img src='/assets/img/charity-logos.png' style='width:80%' class='noshadow'></a></center>
+
 The 24 Hour Maths Game Show will include (provisionally):
 
 - **James Grime** playing games against a book

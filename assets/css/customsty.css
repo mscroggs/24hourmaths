@@ -78,7 +78,7 @@ svg#logoqbert:hover #sq-two {
   100% { fill:yellow }
 }
 
-h1 img {
+h1 img, img.noshadow {
   border:none;
   box-shadow: none;
   -webkit-box-shadow: none;
@@ -331,3 +331,4 @@ li.bigsection
   margin-top:20px;
   font-weight:bold
 }
+
