@@ -7,6 +7,7 @@ permalink: /tasks
 
 For the upcoming [24 Hour Maths Game Show](game-show.md), we need **you** to
 record yourself completing some tasks for the Taskmathster segment of the show.
+This is a parody of the brilliant gameshow [Taskmaster](https://taskmaster.tv).
 
 The tasks are included below. You can do as many or as few of these as you want. For each of the tasks you complete, please do the following:
 
@@ -20,6 +21,8 @@ The tasks are included below. You can do as many or as few of these as you want.
   We can edit it all together, so feel free to send your unedited footage.
 
 - Horizontal (wide) video please!
+
+- Point will be awarded for the best entries to each task. There may or may not be a prize for getting the most points.
 
 - Email your entries (a link to an unlisted YouTube video, or a file shared in Dropbox/Google Drive/Google Photos/other filesharing service) to
   **taskmathster@24hourmaths.com** by the deadline of **Friday 21st October at 8pm (BST)**.
