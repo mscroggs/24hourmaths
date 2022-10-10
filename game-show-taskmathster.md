@@ -3,6 +3,8 @@ title: "24 Hour Maths: Taskmathster"
 permalink: /tasks
 ---
 
+# Taskmathster
+
 For the upcoming [24 Hour Maths Game Show](game-show.md), we need **you** to
 record yourself completing some tasks for the Taskmathster segment of the show.
 
@@ -23,8 +25,7 @@ The tasks are included below. You can do as many or as few of these as you want.
 - Email your entries (a link to an unlisted YouTube video, or a file shared in Dropbox/Google Drive/Google Photos/other filesharing service) to
   **taskmathster@24hourmaths.com** by the deadline of **Friday 21st October at 8pm (BST)**.
 
-The tasks
-=========
+## The tasks
 (When recording yourself reading the task out, please read them exactly as written.)
 
 {% include _task.md task="Rewrite the lyrics to a popular song to be about a mathematical concept and record yourself performing it." %}
