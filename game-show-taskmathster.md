@@ -12,9 +12,8 @@ The tasks are included below. You can do as many or as few of these as you want.
 
 - Record yourself reading out the task and looking like you're thinking about how you're going to do it.
 
-
 - We will edit together a segment that includes our favourite entries, but the time we have during the show is limited
-  so your footage may not be used in the actual 24h show. We'll release a bonus video at some point after the show including all the entries.
+  so your footage may not be used in the actual 24h show. We'll release a bonus video at some point after the show including as many extra entries as we can.
   By sending in footage, you agree you're happy for us to put it on our YouTube channel as part of a longer video.
 
 - You should aim to include footage of you preparing for and doing the challenge along with your final entry.
