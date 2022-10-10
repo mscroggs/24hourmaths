@@ -41,4 +41,4 @@ The tasks are included below. You can do as many or as few of these as you want.
 
 {% include _task.md task="Physically recreate a classic computer game. Best recreation wins!" more="Bonus points for mathematical games." %}
 
-{% include _task.md task="Make a wire frame shape and dip it in bubble liquid. Most interesting shaped bubble wins." more="Bubble liquid can be made by mixing n parts Fairy liquid with m parts water." %}
+{% include _task.md task="Make a wire frame shape and dip it in bubble liquid. Most interesting shaped bubble wins." more="Bubble liquid can be made by mixing 1 part Fairy liquid with 6 parts water." %}
