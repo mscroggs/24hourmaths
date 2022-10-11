@@ -45,4 +45,5 @@ The 24 Hour Maths Game Show will include (provisionally):
 - **Cathy Hsu** playing variants of the game SET, alongside a live SET tournament
 - **Jeopardy!** - mathematical edition with **Chalkdust Magazine**'s **Matthew Scroggs** and **Adam Townsend**
 - Head-to-head **Genius Square** hosted by **MathsCity Leeds**
-- **TaskMathster** - mathematical version of the popular challenge show
+- **TaskMathster** - mathematical version of the popular challenge show.
+  We are looking for people to record themselves doing tasks for this segment: [read more info here](game-show-taskmathster.md)
