@@ -38,7 +38,7 @@ The 24 Hour Maths Game Show will include (provisionally):
 - **Mats Vermeeren** playing a new version of the Game of Life
 - **The Unbelievable Proof** - based on the Radio 4 panel show The Unbelievable Truth
 - **Countdown** - hosted by **Goran Newsum** and featuring former Countdown champion **Junaid Mubeen**
-- **Dungeons & Dragons** - live maths-themed adventure with dungeon master **Max Hughes** and players including **KatDoesMaths** and the team behind **Science & Sorcery**
+- **Dungeons & Dragons** - live maths-themed adventure with dungeon master **Max Hughes** and players including **KatDoesMaths**, **Jimi Jibodu** and the team behind **Science & Sorcery**
 - **Maths Art Challenges** with **Hana Ayoob**
 - **Peter Rowlett** shares some games you don't know you're not playing
 - **Tiago Hirth** playing 8 by 8 games that aren't Chess
