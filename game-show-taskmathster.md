@@ -22,7 +22,7 @@ The tasks are included below. You can do as many or as few of these as you want.
 
 - Horizontal (wide) video please!
 
-- Point will be awarded for the best entries to each task. There may or may not be a prize for getting the most points.
+- Points will be awarded for the best entries to each task. There may or may not be a prize for getting the most points.
 
 - Email your entries (a link to an unlisted YouTube video, or a file shared in Dropbox/Google Drive/Google Photos/other filesharing service) to
   **taskmathster@24hourmaths.com** by the deadline of **Friday 21st October at 8pm (BST)**.
