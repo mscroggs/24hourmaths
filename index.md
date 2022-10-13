@@ -18,6 +18,8 @@ You can view a list of all the segments we're planning for the 24 Hour Maths Gam
 
 The show is raising money for four charities: Beat, the Rheumatoid Arthritis Foundation, DEC, and the Malala Fund.
 You can donate to one or all of these charities on [our Just Giving page](https://www.justgiving.com/team/24hourmathsgameshow).
+If you're a UK taxpayer, you can add Gift Aid to any donations to Beat and DEC (as they're UK-based charities) but not the Rheumatoid Arthritis Foundation
+and the Malala fund (as they're non-UK charities).
 
 <center><a href='https://www.justgiving.com/team/24hourmathsgameshow'><img src='/assets/img/charity-logos.png' style='width:80%' class='noshadow'></a></center>
 
