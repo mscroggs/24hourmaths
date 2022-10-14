@@ -27,7 +27,7 @@ welcome everyone to the show.
 
 ### {% include _bst_time.html year="2022" month="9" day="28" hour="19" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: James Grime
 {% include _gameperson.html name="James Grime" twitter="jamesgrime" youtube="singingbanana" %}
-plays games against a book.
+plays some games against a book.
 
 ### {% include _bst_time.html year="2022" month="9" day="28" hour="20" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Simon Singh's House of Games
 Host {% include _gameperson.html name="Simon Singh" %} leads contestants
@@ -47,19 +47,19 @@ to play a series of games taken from his book *Math Games with Bad Drawings*.
 
 ### {% include _bst_time.html year="2022" month="9" day="28" hour="22" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Simply Connect(ed)
 Host {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="katiesteckles" %} asks four rounds
-of questions about sets of four connected items to veteran Only Connect contestants
+of questions about sets and sequences of connected items to veteran Only Connect contestants
 {% include _gameperson.html name="Andrew Gyford" %},
 {% include _gameperson.html name="James O'Driscoll" %},
 {% include _gameperson.html name="Rob Butlin" %},
 {% include _gameperson.html name="Stu Hern" %},
 and {% include _gameperson.html name="Tim Robinson" %},
-and question setter
+and Only Connect question setter
 {% include _gameperson.html name="Wei-Hwa Huang" %}
 in this challenging quiz.
 
 ### {% include _bst_time.html year="2022" month="9" day="28" hour="23" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Zoe Griffiths
 {% include _gameperson.html name="Zoe Griffiths" twitter="ZoeLGriffiths" website="https://zoelgriffiths.co.uk" %} introduces the audience to the game
-Penny Ante.
+Penny Ante, and challenges them all to a game.
 
 ### {% include _bst_time.html year="2022" month="9" day="28" hour="23" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Alex Bolton
 {% include _gameperson.html name="Alex Bolton" twitter="AlexDBolton" %} works out what the longest possible game of Chess is.
@@ -70,7 +70,7 @@ challenges contestants
 {% include _gameperson.html name="Alex Bolton" twitter="AlexDBolton" %},
 {% include _gameperson.html name="Bea Taylor" %}, and
 {% include _gameperson.html name="TD Dang" %}
-to a round of this world-famous quiz show.
+to an episode of the maths quiz that simply everyone is talking about.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="1" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Tom Crawford
 {% include _gameperson.html name="Tom Crawford" youtube="tomrocksmaths" twitter="tomrocksmaths" website="https://tomrocksmaths.com" %} works out how to take a perfect penalty kick.
@@ -80,10 +80,10 @@ to a round of this world-famous quiz show.
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="2" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Sydney Weaver's Game Show Hour
 Host
 {% include _gameperson.html name="Sydney Weaver" twitter="SirWaffle2" website="http://www.sirwaffle.com" %}
-plays **Family Fued (Math Edition)** and **The Price is Right (Math Edition)**
+plays **Family Feud (Math Edition)** and **The Price is Right (Math Edition)**
 with contestants
 {% include _gameperson.html name="Peter Kagey" twitter="peterkagey" website="http://www.peterkagey.com" %},
-{% include _gameperson.html name="William C Laurson" %},
+{% include _gameperson.html name="William C Laursen" %},
 and **others**.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="3" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Sophie Maclean
@@ -91,7 +91,7 @@ and **others**.
 at the maths involved in the game Mafia.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="3" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Tom Edgar (TBC)
-{% include _gameperson.html name="Tom Edgar" %} plays Lights Out, then generalises it.
+{% include _gameperson.html name="Tom Edgar" %} plays the game Lights Out, and talks about some interesting generalisations.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="4" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Have I Got Maths For You
 Host {% include _gameperson.html name="Lucy Rycroft-Smith" twitter="honeypisquared" %} is joined by
@@ -176,6 +176,7 @@ challenges
 {% include _gameperson.html name="Jess Wade" twitter="jesswade" %},
 {% include _gameperson.html name="Kyle D Evans" twitter="kyledevans" website="http://kyledevans.com" %}
 {% include _gameperson.html name="Sohang Tang" %},
+{% include _gameperson.html name="Scary Boots" %},
 and the entire audience to create some mathematical art.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="14" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Peter Rowlett
@@ -190,15 +191,15 @@ take a look at some games that you don't realise that you're not playing.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="15" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: MathsCity Games Tournament
 {% include _gameperson.html name="Kevin Houston" twitter="k_houston_math" website="http://www.kevinhouston.net/" youtube="DrKevinHouston" %}
-reports live from the MathsCity museum in Leeds.
+reports live from MathsCity, the hands-on maths discovery centre in Leeds.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="16" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Set
 {% include _gameperson.html name="Cathy Hsu" %}
-demonstrates the card game Set and investigates some variants of it that can be played.
+demonstrates the card game SET and investigates some variants of it that can be played.
 {% include _gameperson.html name="Amy Mather" %},
 {% include _gameperson.html name="Belgin Seymeno&#287;lu" twitter="SmokyFurby" %}, and 
 {% include _gameperson.html name="TD Dang" twitter="televisionduck" %}
-challenge the audience to a Set tournament.
+challenge the audience to a SET tournament.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="17" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Jeopardy!
 It's the segment of the show where hosts {% include _gameperson.html name="Adam Townsend" twitter="pecnut" website="https://adamtownsend.com" %}
