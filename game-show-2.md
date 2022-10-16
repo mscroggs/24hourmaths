@@ -92,7 +92,7 @@ and **others**.
 {% include _gameperson.html podcast="https://open.spotify.com/show/6ELtAUwmJUHkKOtvJ4WSGr" name="Sophie Maclean" twitter="sophiethemathmo" website="http://sophiethemathmo.wordpress.com" %} looks
 at the maths involved in the game Mafia.
 
-### {% include _bst_time.html year="2022" month="9" day="29" hour="3" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Tom Edgar (TBC)
+### {% include _bst_time.html year="2022" month="9" day="29" hour="3" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Tom Edgar
 {% include _gameperson.html name="Tom Edgar" %} plays the game Lights Out, and talks about some interesting generalisations.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="4" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Have I Got Maths For You
