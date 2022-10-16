@@ -75,7 +75,9 @@ to an episode of the maths quiz that simply everyone is talking about.
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="1" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Tom Crawford
 {% include _gameperson.html name="Tom Crawford" youtube="tomrocksmaths" twitter="tomrocksmaths" website="https://tomrocksmaths.com" %} works out how to take a perfect penalty kick.
 
-### {% include _bst_time.html year="2022" month="9" day="29" hour="1" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: TBC
+### {% include _bst_time.html year="2022" month="9" day="29" hour="1" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Katie Steckles and Matthew Scroggs
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://katiesteckles.co.uk" youtube="KatieSteckles" %} and
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %} talk about Pac-Man.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="2" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Sydney Weaver's Game Show Hour
 Host
