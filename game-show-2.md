@@ -34,7 +34,7 @@ Host {% include _gameperson.html name="Simon Singh" %} leads contestants
 {% include _gameperson.html name="Alison Clarke" %},
 {% include _gameperson.html name="James Tuite" %},
 {% include _gameperson.html name="Samantha Durbin" %}, and
-{% include _gameperson.html name="William C Laurson" %}
+{% include _gameperson.html name="Susan Okereke" %}
 through a series of entertaining mathematical quiz games.
 
 ### {% include _bst_time.html year="2022" month="9" day="28" hour="21" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Math Games with Bad Drawings
@@ -96,12 +96,10 @@ at the maths involved in the game Mafia.
 {% include _gameperson.html name="Tom Edgar" %} plays the game Lights Out, and talks about some interesting generalisations.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="4" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Have I Got Maths For You
-Host {% include _gameperson.html name="Lucy Rycroft-Smith" twitter="honeypisquared" %} is joined by
-{% include _gameperson.html name="Darren Macey" %},
-{% include _gameperson.html name="Fran Watson" %},
-{% include _gameperson.html name="Goran Newsum" twitter="GoranNewsum" %},
-{% include _gameperson.html name="Tabitha Gould" %}, and
-{% include _gameperson.html name="Tom Crawford" youtube="tomrocksmaths" twitter="tomrocksmaths" website="https://tomrocksmaths.com" %}
+Host {% include _gameperson.html name="Tom Crawford" youtube="tomrocksmaths" twitter="tomrocksmaths" website="https://tomrocksmaths.com" %} is joined by
+{% include _gameperson.html name="Nicole Cozens" %},
+{% include _gameperson.html name="Callum Ilkiw" %}, and
+{% include _gameperson.html name="Max Hughes" %}
 to take a satirical look at the world of mathematics.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="5" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Gord!
@@ -115,7 +113,8 @@ explores the maths underlying the game Nim.
 {% include _gameperson.html podcast="https://open.spotify.com/show/6ELtAUwmJUHkKOtvJ4WSGr" name="Sophie Maclean" twitter="sophiethemathmo" website="http://sophiethemathmo.wordpress.com" %}
 is joined by
 {% include _gameperson.html name="Rachel Thomas" %},
-**others**
+{% include _gameperson.html name="Emily Beatty" %},
+{% include _gameperson.html name="Sam Hartburn" %},
 and history of mathematics expert
 {% include _gameperson.html name="Noel-Ann Bradshaw" twitter="NoelAnn" %}
 to play a game of Guess Who with some interesting mathematicians from throughout history.
@@ -175,10 +174,10 @@ through a live mathematical adventure.
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="13" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Maths Art Challenge
 {% include _gameperson.html name="Hana Ayoob" twitter="HanaAyoob" website="https://www.etsy.com/uk/shop/CuriousOctoDesigns" instagram="hana.ayoob" %}
 challenges
-{% include _gameperson.html name="Jess Wade" twitter="jesswade" %},
-{% include _gameperson.html name="Kyle D Evans" twitter="kyledevans" website="http://kyledevans.com" %}
+{% include _gameperson.html name="Kyle D Evans" twitter="kyledevans" website="http://kyledevans.com" %},
 {% include _gameperson.html name="Sohang Tang" %},
 {% include _gameperson.html name="Scary Boots" %},
+{% include _gameperson.html name="Craig Poku" %},
 and the entire audience to create some mathematical art.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="14" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Peter Rowlett
