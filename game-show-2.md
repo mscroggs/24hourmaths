@@ -108,9 +108,8 @@ to take a satirical look at the world of mathematics.
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="5" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Gord!
 {% include _gameperson.html name="Gord!" twitter="gamesbygord" website="https://mathpickle.com" %} takes a look at board game memes throughout history.
 
-### {% include _bst_time.html year="2022" month="9" day="29" hour="5" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Colin Wright
-{% include _gameperson.html name="Colin Wright" twitter="colinthemathmo" website="https://www.solipsys.co.uk/new/ColinWright.html" %}
-explores the maths underlying the game Nim.
+### {% include _bst_time.html year="2022" month="9" day="29" hour="5" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Adam Atkinson
+{% include _gameperson.html name="Adam Atkinson" %} combines two "boring" variants of Nim to make a much more interesting variant of Nim.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="6" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Guess Who
 {% include _gameperson.html podcast="https://open.spotify.com/show/6ELtAUwmJUHkKOtvJ4WSGr" name="Sophie Maclean" twitter="sophiethemathmo" website="http://sophiethemathmo.wordpress.com" %}
@@ -132,8 +131,9 @@ Host {% include _gameperson.html name="Zoe Griffiths" twitter="ZoeLGriffiths" we
 {% include _gameperson.html name="Catriona Agg" twitter="Cshearer41" %}, and
 {% include _gameperson.html name="James Wilson" %} to talk about mathematical topics for 60 seconds without repetition, hesisation or deviation.
 
-### {% include _bst_time.html year="2022" month="9" day="29" hour="8" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Adam Atkinson
-{% include _gameperson.html name="Adam Atkinson" %} combines two "boring" variants of Nim to make a much more interesting variant of Nim.
+### {% include _bst_time.html year="2022" month="9" day="29" hour="8" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Colin Wright
+{% include _gameperson.html name="Colin Wright" twitter="colinthemathmo" website="https://www.solipsys.co.uk/new/ColinWright.html" %}
+explores the maths underlying the game Nim.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="8" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Tony Mann
 {% include _gameperson.html name="Tony Mann" twitter="Tony_Mann" website="http://tonysmaths.blogspot.com" %} plays Hypergame.
