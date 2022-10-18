@@ -26,7 +26,7 @@ and the Malala fund (as they're non-UK charities).
 <center><a href='https://www.justgiving.com/team/24hourmathsgameshow'><img src='/assets/img/charity-logos.png' style='width:80%' class='noshadow'></a></center>
 
 The entire event is run by volunteers, and we're looking for contestants and hosts for many of the segments. If you'd like to appear on the show, you can
-[fill in this Google form](https://forms.gle/Zi89Aa3hEAQcEbZM6) or email us at **hello@24hourmaths.com**.
+email us at **hello@24hourmaths.com**.
 
 To keep updated about this and other upcoming shows, sign up to our mailing list below or [follow us on Twitter](https://twitter.com/24hmaths).
 
