@@ -30,7 +30,7 @@ The 24 Hour Maths Game Show will include (provisionally):
 - **The Price is Right: Math Edition** with Rubik's cube champion **Sydney Weaver**
 - **Colin Wright** and **Adam Atkinson** talking about Nim and related games
 - **Tom Edgar** playing some games old and new, and finding the maths in them
-- **Have I Got Maths For You** hosted by **Lucy Rycroft-Smith**
+- **Have I Got Maths For You**
 - Board game memes throughout history with **Gord!** and special guests
 - **Guess Who?: Maths Edition** hosted by **Sophie Maclean** and **Noel-Ann Bradshaw**
 - **Just a Minute**, mathematical edition
