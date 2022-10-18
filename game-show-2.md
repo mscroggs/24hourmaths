@@ -154,9 +154,11 @@ investigates a variant of the Game of Life with
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="10" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: The Unbelievable Proof
 Hosted by
 {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %}. Contestants
+{% include _gameperson.html name="Alison Kiddle" %},
 {% include _gameperson.html name="Cath Brown" %},
-{% include _gameperson.html name="Catriona Agg" twitter="Cshearer41" %},
-and **others** present short lectures that are entirely false except for four hidden facts, while other contestants attempt to identify the facts.
+{% include _gameperson.html name="Catriona Agg" twitter="Cshearer41" %}, and
+{% include _gameperson.html name="Sam Holloway" %},
+present short lectures that are entirely false except for four hidden facts, while other contestants attempt to identify the facts.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="11" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Countdown
 Host 
