@@ -174,7 +174,7 @@ for some numbers and letters rounds against the clock.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="12" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Dungeons & Dragons
 Dungeon master {% include _gameperson.html name="Max Hughes" %} guides 
-{% include _gameperson.html name="Dagmar de Werduwen" %},
+{% include _gameperson.html name="Dagmar der Weduwen" %},
 {% include _gameperson.html name="Jimi Jibodu" %},
 {% include _gameperson.html name="Kat Phillips" %}, and
 {% include _gameperson.html name="Sam Langford" %}
