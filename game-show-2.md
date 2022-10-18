@@ -126,7 +126,9 @@ Host {% include _gameperson.html name="Zoe Griffiths" twitter="ZoeLGriffiths" we
 {% include _gameperson.html name="James Wilson" %} to talk about mathematical topics for 60 seconds without repetition, hesisation or deviation.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="8" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Adam Atkinson
-{% include _gameperson.html name="Adam Atkinson" %} combines two "boring" variants of Nim to make a much more interesting variant of Nim.
+{% include _gameperson.html name="Adam Atkinson" %} talks about three games he was shown in Lyon a
+few years ago. The first two are unremarkable, but combine to form an unsolved problem (as far as
+he knows).
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="8" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Tony Mann
 {% include _gameperson.html name="Tony Mann" twitter="Tony_Mann" website="http://tonysmaths.blogspot.com" %} plays Hypergame.
