@@ -68,7 +68,8 @@ Penny Ante, and challenges them all to a game.
 Host {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="katiesteckles" %}
 challenges contestants
 {% include _gameperson.html name="Alex Bolton" twitter="AlexDBolton" %},
-{% include _gameperson.html name="Bea Taylor" %}, and
+{% include _gameperson.html name="Bea Taylor" %},
+{% include _gameperson.html name="Jonathan Pain" %}, and
 {% include _gameperson.html name="TD Dang" %}
 to an episode of the maths quiz that simply everyone is talking about.
 
@@ -84,6 +85,7 @@ Host
 {% include _gameperson.html name="Sydney Weaver" twitter="SirWaffle2" website="http://www.sirwaffle.com" %}
 plays **Family Feud (Math Edition)** and **The Price is Right (Math Edition)**
 with contestants
+{% include _gameperson.html name="Ellen Jolley" %},
 {% include _gameperson.html name="Peter Kagey" twitter="peterkagey" website="http://www.peterkagey.com" %},
 {% include _gameperson.html name="William C Laursen" %},
 and **others**.
@@ -113,9 +115,12 @@ explores the maths underlying the game Nim.
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="6" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Guess Who
 {% include _gameperson.html podcast="https://open.spotify.com/show/6ELtAUwmJUHkKOtvJ4WSGr" name="Sophie Maclean" twitter="sophiethemathmo" website="http://sophiethemathmo.wordpress.com" %}
 is joined by
-{% include _gameperson.html name="Rachel Thomas" %},
 {% include _gameperson.html name="Emily Beatty" %},
-{% include _gameperson.html name="Sam Hartburn" %},
+{% include _gameperson.html name="George Clements" %},
+{% include _gameperson.html name="Rachel Thomas" %},
+{% include _gameperson.html name="Matt Almond" %},
+{% include _gameperson.html name="Rosie Baish" %},
+{% include _gameperson.html name="Sam Hartburn" %},	
 and history of mathematics expert
 {% include _gameperson.html name="Noel-Ann Bradshaw" twitter="NoelAnn" %}
 to play a game of Guess Who with some interesting mathematicians from throughout history.
@@ -159,13 +164,14 @@ Host
 Countdown champion
 {% include _gameperson.html name="Junaid Mubeen" %},
 and contestants
+{% include _gameperson.html name="Andrew Smyth" %},
 {% include _gameperson.html name="Belgin Seymeno&#287;lu" twitter="SmokyFurby" %},
 {% include _gameperson.html name="Karrie Liu" %}, and
 {% include _gameperson.html name="Sydney Weaver" twitter="SirWaffle2" website="http://www.sirwaffle.com" %}
 for some numbers and letters rounds against the clock.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="12" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Dungeons & Dragons
-Dungeon master **Max Hughes** guides 
+Dungeon master {% include _gameperson.html name="Max Hughes" %} guides 
 {% include _gameperson.html name="Dagmar de Werduwen" %},
 {% include _gameperson.html name="Jimi Jibodu" %},
 {% include _gameperson.html name="Kat Phillips" %}, and
@@ -175,13 +181,13 @@ through a live mathematical adventure.
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="13" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Maths Art Challenge
 {% include _gameperson.html name="Hana Ayoob" twitter="HanaAyoob" website="https://www.etsy.com/uk/shop/CuriousOctoDesigns" instagram="hana.ayoob" %}
 challenges
-{% include _gameperson.html name="Kyle D Evans" twitter="kyledevans" website="http://kyledevans.com" %},
-{% include _gameperson.html name="Sohang Tang" %},
-{% include _gameperson.html name="Scary Boots" %},
 {% include _gameperson.html name="Craig Poku" %},
+{% include _gameperson.html name="Kyle D Evans" twitter="kyledevans" website="http://kyledevans.com" %},
+{% include _gameperson.html name="Scary Boots" %},
+{% include _gameperson.html name="Sohang Tang" %},
 and the entire audience to create some mathematical art.
 
-### {% include _bst_time.html year="2022" month="9" day="29" hour="14" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Peter Rowlett
+### {% include _bst_time.html year="2022" month="9" day="29" hour="14" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Peter Rowlett and Alex Corner
 {% include _gameperson.html name="Peter Rowlett" %} and 
 {% include _gameperson.html name="Alex Corner" %}
 take a look at some games that you don't realise that you're not playing.
