@@ -97,9 +97,10 @@ at the maths involved in the game Mafia.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="4" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Have I Got Maths For You
 Host {% include _gameperson.html name="Tom Crawford" youtube="tomrocksmaths" twitter="tomrocksmaths" website="https://tomrocksmaths.com" %} is joined by
-{% include _gameperson.html name="Nicole Cozens" %},
-{% include _gameperson.html name="Callum Ilkiw" %}, and
-{% include _gameperson.html name="Max Hughes" %}
+{% include _gameperson.html name="Ash Frankland" twitter="AshFrankland" twitch="kitashtrophe" %},
+{% include _gameperson.html name="Callum Ilkiw" %},
+{% include _gameperson.html name="Max Hughes" %}, and
+{% include _gameperson.html name="Nicole Cozens" %}
 to take a satirical look at the world of mathematics.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="5" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Gord!
