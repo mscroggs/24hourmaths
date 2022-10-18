@@ -121,7 +121,7 @@ is joined by
 {% include _gameperson.html name="Matt Almond" %},
 {% include _gameperson.html name="Rosie Baish" %},
 {% include _gameperson.html name="Sam Hartburn" %},	
-and history of mathematics expert
+and amateur mathematical historian
 {% include _gameperson.html name="Noel-Ann Bradshaw" twitter="NoelAnn" %}
 to play a game of Guess Who with some interesting mathematicians from throughout history.
 
