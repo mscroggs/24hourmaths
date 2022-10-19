@@ -145,7 +145,7 @@ Host {% include _gameperson.html name="Christian Lawson-Perfect" twitter="christ
 challenges contestants
 {% include _gameperson.html name="Colin Wright" twitter="colinthemathmo" website="https://www.solipsys.co.uk/new/ColinWright.html" %}
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://katiesteckles.co.uk" youtube="KatieSteckles" %}, and
-{% include _gameperson.html name="James Grime" twitter="jamesgrime" youtube="singingbanana" %}
+{% include _gameperson.html name="Alex Corner" %}
 to cross the board by presenting interesting pieces of mathematics.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="10" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Mats Vermeeren
