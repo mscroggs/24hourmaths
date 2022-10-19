@@ -13,6 +13,7 @@ Guests on the show will include:
 - Popular science author **Simon Singh**
 - Professional speed Rubik's cuber **Sydney Weaver**
 - Creator of *Math with Bad Drawings* **Ben Orlin**
+- Bake-off star **Andrew Smyth**
 
 You can view a list of all the segments we're planning for the 24 Hour Maths Game Show on [the game show page](game-show.md).
 
