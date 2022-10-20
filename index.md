@@ -19,7 +19,7 @@ You can view a list of all the segments we're planning for the 24 Hour Maths Gam
 
   We are looking for people to record themselves doing tasks for Taskmathster segment of the show: [read more info here](game-show-taskmathster.md)
 
-The show is raising money for four charities: Beat, the Rheumatoid Arthritis Foundation, DEC, and the Malala Fund.
+The show is raising money for four charities: Beat Eating Disorders, the Rheumatoid Arthritis Foundation, the Disasters Emergency Committee, and the Malala Fund.
 You can donate to one or all of these charities on [our Just Giving page](https://www.justgiving.com/team/24hourmathsgameshow).
 If you're a UK taxpayer, you can add Gift Aid to any donations to Beat and DEC (as they're UK-based charities) but not the Rheumatoid Arthritis Foundation
 and the Malala fund (as they're non-UK charities).
