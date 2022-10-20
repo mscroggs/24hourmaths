@@ -1,0 +1,23 @@
+name: 🧪 Tests
+
+on:
+  push:
+    branches:
+      - "**"
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  run-tests:
+    name: Run tests
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - uses: actions/checkout@v2
+      - run: python3 -m pip install pytest
+        name: Install Pytest
+      - run: python3 -m pytest _test
