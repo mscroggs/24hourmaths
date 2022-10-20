@@ -24,6 +24,8 @@ You can donate to one or all of these charities on [our Just Giving page](https:
 If you're a UK taxpayer, you can add Gift Aid to any donations to Beat and DEC (as they're UK-based charities) but not the Rheumatoid Arthritis Foundation
 and the Malala fund (as they're non-UK charities).
 
+So far we have raised a total of {%include _total.html %} for our charities.
+
 <center><a href='https://www.justgiving.com/team/24hourmathsgameshow'><img src='/assets/img/charity-logos.png' style='width:80%' class='noshadow'></a></center>
 
 The entire event is run by volunteers, and we're looking for contestants and hosts for many of the segments. If you'd like to appear on the show, you can
