@@ -206,8 +206,9 @@ take a look at some games that you don't realise that you're not playing.
 reports live from MathsCity, the hands-on maths discovery centre in Leeds.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="16" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Set
-{% include _gameperson.html name="Cathy Hsu" website="https://chsu.domains.swarthmore.edu" %}
-demonstrates the card game SET and investigates some variants of it that can be played.
+{% include _gameperson.html name="Cathy Hsu" website="https://chsu.domains.swarthmore.edu" %} and
+{% include _gameperson.html name="Jonah Ostroff" %}
+demonstrate the card game SET and investigate some variants of it that can be played.
 {% include _gameperson.html name="Amy Mather" %},
 {% include _gameperson.html name="Belgin Seymeno&#287;lu" twitter="SmokyFurby" %}, and 
 {% include _gameperson.html name="TD Dang" twitter="televisionduck" %}
