@@ -19,10 +19,10 @@ and the Malala fund (as they're non-UK charities).
 
 ### {% include _bst_time.html year="2022" month="9" day="28" hour="19" minute="0" format="{WEEKDAY} {DATETH} {MONTHNAME} {12 HOUR}:{MINUTE}{am/pm} ({TZ})" %}: The show starts
 Show organisers {% include _gameperson.html name="Ben Sparks" twitter="SparksMaths" website="https://bensparks.co.uk" %},
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://katiesteckles.co.uk" youtube="KatieSteckles" %},
-{% include _gameperson.html name="Kevin Houston" website="http://kevinhouston.net" twitter="k_houston_math" %},
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %},
+{% include _gameperson.html name="Kevin Houston" twitter="k_houston_math" website="https://www.kevinhouston.net" youtube="DrKevinHouston" %},
 {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %}, and
-{% include _gameperson.html name="Sophie Maclean" website="https://sophiethemathmo.wordpress.com/" twitter="sophiethemathmo" %}
+{% include _gameperson.html name="Sophie Maclean" website="https://sophiethemathmo.wordpress.com" twitter="sophiethemathmo" %}
 welcome everyone to the show.
 
 ### {% include _bst_time.html year="2022" month="9" day="28" hour="19" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: James Grime
@@ -46,7 +46,7 @@ Host {% include _gameperson.html name="Ben Orlin" %} challenges
 to play a series of games taken from his book *Math Games with Bad Drawings*.
 
 ### {% include _bst_time.html year="2022" month="9" day="28" hour="22" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Simply Connect(ed)
-Host {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="katiesteckles" %} asks four rounds
+Host {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %} asks four rounds
 of questions about sets and sequences of connected items to veteran Only Connect contestants
 {% include _gameperson.html name="Andrew Gyford" %},
 {% include _gameperson.html name="James O'Driscoll" %},
@@ -65,37 +65,37 @@ Penny Ante, and challenges them all to a game.
 {% include _gameperson.html name="Alex Bolton" twitter="AlexDBolton" %} works out what the longest possible game of Chess is.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="0" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Numberwang
-Host {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="katiesteckles" %}
+Host {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %}
 challenges contestants
 {% include _gameperson.html name="Alex Bolton" twitter="AlexDBolton" %},
 {% include _gameperson.html name="Bea Taylor" %},
 {% include _gameperson.html name="Jonathan Pain" %}, and
-{% include _gameperson.html name="TD Dang" %}
+{% include _gameperson.html name="TD Dang" twitter="televisionduck" %}
 to an episode of the maths quiz that simply everyone is talking about.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="1" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Tom Crawford
 {% include _gameperson.html name="Tom Crawford" youtube="tomrocksmaths" twitter="tomrocksmaths" website="https://tomrocksmaths.com" %} works out how to take a perfect penalty kick.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="1" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Katie Steckles and Matthew Scroggs
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://katiesteckles.co.uk" youtube="KatieSteckles" %} and
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %} and
 {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %} talk about Pac-Man.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="2" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Sydney Weaver's Game Show Hour
 Host
-{% include _gameperson.html name="Sydney Weaver" twitter="SirWaffle2" website="http://www.sirwaffle.com" %}
+{% include _gameperson.html name="Sydney Weaver" twitter="SirWaffle2" website="https://www.sirwaffle.com" %}
 plays **Family Feud (Math Edition)** and **The Price is Right (Math Edition)**
 with contestants
 {% include _gameperson.html name="Ellen Jolley" %},
-{% include _gameperson.html name="Peter Kagey" twitter="peterkagey" website="http://www.peterkagey.com" %},
+{% include _gameperson.html name="Peter Kagey" twitter="peterkagey" website="https://www.peterkagey.com" %},
 {% include _gameperson.html name="William C Laursen" %},
 and **others**.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="3" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Sophie Maclean
-{% include _gameperson.html podcast="https://open.spotify.com/show/6ELtAUwmJUHkKOtvJ4WSGr" name="Sophie Maclean" twitter="sophiethemathmo" website="http://sophiethemathmo.wordpress.com" %} looks
+{% include _gameperson.html name="Sophie Maclean" twitter="sophiethemathmo" website="https://sophiethemathmo.wordpress.com" %} looks
 at the maths involved in the game Mafia.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="3" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Tom Edgar
-{% include _gameperson.html name="Tom Edgar" twitter="tegd" youtube="MicroVisualProofs" website="https://community.plu.edu/~edgartj/" %} plays the game Lights Out, and talks about some interesting generalisations.
+{% include _gameperson.html name="Tom Edgar" twitter="tegd" youtube="MicroVisualProofs" website="https://community.plu.edu/~edgartj" %} plays the game Lights Out, and talks about some interesting generalisations.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="4" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Have I Got Maths For You
 Host {% include _gameperson.html name="Tom Crawford" youtube="tomrocksmaths" twitter="tomrocksmaths" website="https://tomrocksmaths.com" %} is joined by
@@ -114,14 +114,14 @@ few years ago. The first two are unremarkable, but combine to form an unsolved p
 he knows).
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="6" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Guess Who
-{% include _gameperson.html podcast="https://open.spotify.com/show/6ELtAUwmJUHkKOtvJ4WSGr" name="Sophie Maclean" twitter="sophiethemathmo" website="http://sophiethemathmo.wordpress.com" %}
+{% include _gameperson.html name="Sophie Maclean" twitter="sophiethemathmo" website="https://sophiethemathmo.wordpress.com" %}
 is joined by
 {% include _gameperson.html name="Emily Beatty" %},
 {% include _gameperson.html name="George Clements" %},
 {% include _gameperson.html name="Rachel Thomas" %},
 {% include _gameperson.html name="Matt Almond" %},
 {% include _gameperson.html name="Rosie Baish" %},
-{% include _gameperson.html name="Sam Hartburn" twitter="SamHartburn" website="https://samhartburn.co.uk/sh/" youtube="channel/UC_HcN3ySXpIQhSx_I47fniQ" %},	
+{% include _gameperson.html name="Sam Hartburn" twitter="SamHartburn" website="https://samhartburn.co.uk/sh" youtube="channel/UC_HcN3ySXpIQhSx_I47fniQ" %},	
 and amateur mathematical historian
 {% include _gameperson.html name="Noel-Ann Bradshaw" twitter="NoelAnn" %}
 to play a game of Guess Who with some interesting mathematicians from throughout history.
@@ -138,20 +138,20 @@ Host {% include _gameperson.html name="Zoe Griffiths" twitter="ZoeLGriffiths" we
 explores the maths underlying the game Nim.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="8" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Tony Mann
-{% include _gameperson.html name="Tony Mann" twitter="Tony_Mann" website="http://tonysmaths.blogspot.com" %} plays Hypergame.
+{% include _gameperson.html name="Tony Mann" twitter="Tony_Mann" website="https://tonysmaths.blogspot.com" %} plays Hypergame.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="9" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Blockbusters of Interesting Maths
 Host {% include _gameperson.html name="Christian Lawson-Perfect" twitter="christianp" website="https://somethingorotherwhatever.com" %}
 challenges contestants
-{% include _gameperson.html name="Colin Wright" twitter="colinthemathmo" website="https://www.solipsys.co.uk/new/ColinWright.html" %}
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://katiesteckles.co.uk" youtube="KatieSteckles" %}, and
-{% include _gameperson.html name="Alex Corner" website="https://alex-corner.github.io/" twitter="alexcorner" %}
+{% include _gameperson.html name="Alex Corner" website="https://alex-corner.github.io" twitter="alexcorner" %},
+{% include _gameperson.html name="Colin Wright" twitter="colinthemathmo" website="https://www.solipsys.co.uk/new/MathematicsTalk.html" mathstodon="ColinTheMathmo" %}, and
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %}
 to cross the board by presenting interesting pieces of mathematics.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="10" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Mats Vermeeren
 {% include _gameperson.html name="Mats Vermeeren" website="https://matsvermeeren.be" twitter="mathmats" youtube="MatsVermeeren" %}
 investigates a variant of the Game of Life with
-{% include _gameperson.html name="Alex Corner" %}.
+{% include _gameperson.html name="Alex Corner" website="https://alex-corner.github.io" twitter="alexcorner" %}.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="10" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: The Unbelievable Proof
 Hosted by
@@ -164,14 +164,14 @@ present short lectures that are entirely false except for four hidden facts, whi
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="11" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Countdown
 Host 
-{% include _gameperson.html name="Goran Newsum" twitter="GoranNewsum" %} is joined by
-Countdown champion
+{% include _gameperson.html name="Goran Newsum" twitter="GoranNewsum" youtube="channel/UCQ72lw4RlgmqreU93b_HSnw" %}
+is joined by Countdown champion
 {% include _gameperson.html name="Junaid Mubeen" %},
 and contestants
 {% include _gameperson.html name="Andrew Smyth" %},
 {% include _gameperson.html name="Belgin Seymeno&#287;lu" twitter="SmokyFurby" %},
 {% include _gameperson.html name="Karrie Liu" twitter="KarrieKaKa" linkedin="karrieliu" %}, and
-{% include _gameperson.html name="Sydney Weaver" twitter="SirWaffle2" website="http://www.sirwaffle.com" %}
+{% include _gameperson.html name="Sydney Weaver" twitter="SirWaffle2" website="https://www.sirwaffle.com" %}
 for some numbers and letters rounds against the clock.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="12" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Dungeons & Dragons
@@ -186,14 +186,14 @@ through a live mathematical adventure.
 {% include _gameperson.html name="Hana Ayoob" twitter="Hana_SciArt" website="https://hanaayoob.co.uk" instagram="hana.ayoob" %}
 challenges
 {% include _gameperson.html name="Craig Poku" %},
-{% include _gameperson.html name="Kyle D Evans" twitter="kyledevans" website="http://kyledevans.com" %},
+{% include _gameperson.html name="Kyle D Evans" twitter="kyledevans" website="https://kyledevans.com" %},
 {% include _gameperson.html name="Scary Boots" %},
 {% include _gameperson.html name="Sohang Tang" %},
 and the entire audience to create some mathematical art.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="14" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Peter Rowlett and Alex Corner
-{% include _gameperson.html name="Peter Rowlett" twitter="peterrowlett" website="https://peterrowlett.net/" podcast="https://aperiodical.com/podcasts/mathematical-objects/" %} and 
-{% include _gameperson.html name="Alex Corner" %}
+{% include _gameperson.html name="Peter Rowlett" twitter="peterrowlett" website="https://peterrowlett.net" podcast="https://aperiodical.com/podcasts/mathematical-objects" %} and 
+{% include _gameperson.html name="Alex Corner" website="https://alex-corner.github.io" twitter="alexcorner" %}
 take a look at some games that you don't realise that you're not playing.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="14" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Tiago Hirth
@@ -202,7 +202,7 @@ take a look at some games that you don't realise that you're not playing.
 {% include _gameperson.html name="Mats Vermeeren" website="https://matsvermeeren.be" twitter="mathmats" youtube="MatsVermeeren" %} to play it.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="15" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: MathsCity Games Tournament
-{% include _gameperson.html name="Kevin Houston" twitter="k_houston_math" website="http://www.kevinhouston.net/" youtube="DrKevinHouston" %}
+{% include _gameperson.html name="Kevin Houston" twitter="k_houston_math" website="https://www.kevinhouston.net" youtube="DrKevinHouston" %}
 reports live from MathsCity, the hands-on maths discovery centre in Leeds.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="16" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Set
@@ -221,7 +221,7 @@ ask contestants
 {% include _gameperson.html name="Alex Bolton" twitter="AlexDBolton" %},
 {% include _gameperson.html name="Goran Newsum" twitter="GoranNewsum" youtube="channel/UCQ72lw4RlgmqreU93b_HSnw" %},
 {% include _gameperson.html name="Rachel Thomas" %}, and
-{% include _gameperson.html name="Sydney Weaver" twitter="SirWaffle2" website="http://www.sirwaffle.com" %}
+{% include _gameperson.html name="Sydney Weaver" twitter="SirWaffle2" website="https://www.sirwaffle.com" %}
 what the question was.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="18" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Taskmathster
