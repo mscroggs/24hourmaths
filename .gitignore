@@ -2,3 +2,5 @@
 Gemfile.lock
 Makefile
 _site/*
+
+*.pyc
