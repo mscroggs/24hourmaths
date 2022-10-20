@@ -32,8 +32,8 @@ So far we have raised a total of {%include _total.html %} for our charities.
 
 &nbsp;
 
-The entire event is run by volunteers, and we're looking for contestants and hosts for many of the segments. If you'd like to appear on the show, you can
-email us at **hello@24hourmaths.com**.
+The entire event is run by volunteers, and we're still looking for people to help behind the scenes, moderating the YouTube chat, and sending tweets about the show.
+If you'd like to help, you can email us at **hello@24hourmaths.com**.
 
 To keep updated about this and other upcoming shows, sign up to our mailing list below or [follow us on Twitter](https://twitter.com/24hmaths).
 
