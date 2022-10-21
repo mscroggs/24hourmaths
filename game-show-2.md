@@ -17,6 +17,8 @@ and the Malala fund (as they're non-UK charities).
 
 ## Show schedule
 
+This schedule is provisional any may be changed before or during the show.
+
 ### {% include _bst_time.html year="2022" month="9" day="28" hour="19" minute="0" format="{WEEKDAY} {DATETH} {MONTHNAME} {12 HOUR}:{MINUTE}{am/pm} ({TZ})" %}: The show starts
 Show organisers {% include _gameperson.html name="Ben Sparks" twitter="SparksMaths" website="https://bensparks.co.uk" %},
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %},
