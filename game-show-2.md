@@ -25,6 +25,10 @@ Show organisers {% include _gameperson.html name="Ben Sparks" twitter="SparksMat
 {% include _gameperson.html name="Sophie Maclean" website="https://sophiethemathmo.wordpress.com" twitter="sophiethemathmo" %}
 welcome everyone to the show.
 
+After the introduction,
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %}
+will stay on the stream to take us through the next section of the show.
+
 ### {% include _bst_time.html year="2022" month="9" day="28" hour="19" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: James Grime
 {% include _gameperson.html name="James Grime" twitter="jamesgrime" youtube="singingbanana" website="https://jamesgrime.com" %}
 plays some games against a book.
@@ -57,6 +61,10 @@ and Only Connect question setter
 {% include _gameperson.html name="Wei-Hwa Huang" %}
 in this challenging quiz.
 
+After this show,
+{% include _gameperson.html name="Ben Sparks" twitter="SparksMaths" website="https://bensparks.co.uk" %}
+will join the stream to take us through the next section of the show.
+
 ### {% include _bst_time.html year="2022" month="9" day="28" hour="23" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Zoe Griffiths
 {% include _gameperson.html name="Zoe Griffiths" twitter="ZoeLGriffiths" website="https://zoelgriffiths.co.uk" %} introduces the audience to the game
 Penny Ante, and challenges them all to a game.
@@ -72,6 +80,11 @@ challenges contestants
 {% include _gameperson.html name="Jonathan Pain" %}, and
 {% include _gameperson.html name="TD Dang" twitter="televisionduck" %}
 to an episode of the maths quiz that simply everyone is talking about.
+
+After this show,
+{% include _gameperson.html name="Peter Kagey" twitter="peterkagey" website="https://www.peterkagey.com" %}
+will join the stream to take us through the next section of the show.
+
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="1" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Tom Crawford
 {% include _gameperson.html name="Tom Crawford" youtube="tomrocksmaths" twitter="tomrocksmaths" website="https://tomrocksmaths.com" %} works out how to take a perfect penalty kick.
@@ -90,6 +103,10 @@ with contestants
 {% include _gameperson.html name="William C Laursen" %},
 and **others**.
 
+After this show,
+{% include _gameperson.html name="Sydney Weaver" twitter="SirWaffle2" website="https://www.sirwaffle.com" %}
+will stay on the stream to take us through the next section of the show.
+
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="3" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Sophie Maclean
 {% include _gameperson.html name="Sophie Maclean" twitter="sophiethemathmo" website="https://sophiethemathmo.wordpress.com" %} looks
 at the maths involved in the game Mafia.
@@ -104,6 +121,10 @@ Host {% include _gameperson.html name="Tom Crawford" youtube="tomrocksmaths" twi
 {% include _gameperson.html name="Max Hughes" %}, and
 {% include _gameperson.html name="Nicole Cozens" twitter="nicole_cozens" %}
 to take a satirical look at the world of mathematics.
+
+After this show,
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %}
+will join the stream to take us through the next section of the show.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="5" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Gord!
 {% include _gameperson.html name="Gord!" twitter="gamesbygord" website="https://mathpickle.com" %} takes a look at board game memes throughout history.
@@ -133,6 +154,10 @@ Host {% include _gameperson.html name="Zoe Griffiths" twitter="ZoeLGriffiths" we
 {% include _gameperson.html name="Catriona Agg" twitter="Cshearer41" %}, and
 {% include _gameperson.html name="James Wilson" %} to talk about mathematical topics for 60 seconds without repetition, hesisation or deviation.
 
+After this show,
+{% include _gameperson.html name="Fran Watson" twitter="FranMaths" %}
+will join the stream to take us through the next section of the show.
+
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="8" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Colin Wright
 {% include _gameperson.html name="Colin Wright" twitter="colinthemathmo" website="https://www.solipsys.co.uk/new/MathematicsTalk.html" mathstodon="ColinTheMathmo" %}
 explores the maths underlying the game Nim.
@@ -147,6 +172,12 @@ challenges contestants
 {% include _gameperson.html name="Colin Wright" twitter="colinthemathmo" website="https://www.solipsys.co.uk/new/MathematicsTalk.html" mathstodon="ColinTheMathmo" %}, and
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %}
 to cross the board by presenting interesting pieces of mathematics.
+
+The music and graphics for this show were created by {% include _gameperson.html name="Ayliean MacDonald" twitter="Ayliean" youtube="Ayliean" website="https://linktr.ee/Ayliean" %}.
+
+After this show,
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %}
+will join the stream to take us through the next section of the show.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="10" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Mats Vermeeren
 {% include _gameperson.html name="Mats Vermeeren" website="https://matsvermeeren.be" twitter="mathmats" youtube="MatsVermeeren" %}
@@ -190,6 +221,10 @@ challenges
 {% include _gameperson.html name="Scary Boots" %},
 {% include _gameperson.html name="Sohang Tang" %},
 and the entire audience to create some mathematical art.
+
+After this show,
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %}
+will join the stream to take us through the next section of the show.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="14" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Peter Rowlett and Alex Corner
 {% include _gameperson.html name="Peter Rowlett" twitter="peterrowlett" website="https://peterrowlett.net" podcast="https://aperiodical.com/podcasts/mathematical-objects" %} and 
