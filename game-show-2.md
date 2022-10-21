@@ -31,9 +31,9 @@ plays some games against a book.
 
 ### {% include _bst_time.html year="2022" month="9" day="28" hour="20" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Simon Singh's House of Games
 Host {% include _gameperson.html name="Simon Singh" %} leads contestants
-{% include _gameperson.html name="Alison Clarke" %},
+{% include _gameperson.html name="Alison Clarke" twitter="aaclarke4" %},
 {% include _gameperson.html name="James Tuite" %},
-{% include _gameperson.html name="Samantha Durbin" %}, and
+{% include _gameperson.html name="Samantha Durbin" website="http://rigb.org/about/organisation/team/education/samantha-durbin" twitter="SamDurbin1" %}, and
 {% include _gameperson.html name="Susan Okereke" %}
 through a series of entertaining mathematical quiz games.
 
@@ -102,7 +102,7 @@ Host {% include _gameperson.html name="Tom Crawford" youtube="tomrocksmaths" twi
 {% include _gameperson.html name="Ash Frankland" twitter="AshFrankland" twitch="kitashtrophe" %},
 {% include _gameperson.html name="Callum Ilkiw" %},
 {% include _gameperson.html name="Max Hughes" %}, and
-{% include _gameperson.html name="Nicole Cozens" %}
+{% include _gameperson.html name="Nicole Cozens" twitter="nicole_cozens" %}
 to take a satirical look at the world of mathematics.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="5" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Gord!
