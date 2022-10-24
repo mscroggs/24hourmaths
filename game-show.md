@@ -152,7 +152,7 @@ to play a game of Guess Who with some interesting mathematicians from throughout
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="7" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Just a Mathematical Minute
 Host {% include _gameperson.html name="Zoe Griffiths" twitter="ZoeLGriffiths" website="https://zoelgriffiths.co.uk" %} challenges
 {% include _gameperson.html name="Alex Bolton" twitter="AlexDBolton" %},
-{% include _gameperson.html name="Belgin Seymeno&#287;lu" twitter="SmokyFurby" %},
+{% include _gameperson.html name="Belgin Seymeno&#287;lu" twitter="DrSmokyFurby" %},
 {% include _gameperson.html name="Catriona Agg" twitter="Cshearer41" %}, and
 {% include _gameperson.html name="James Wilson" %} to talk about mathematical topics for 60 seconds without repetition, hesisation or deviation.
 
@@ -202,7 +202,7 @@ is joined by Countdown champion
 {% include _gameperson.html name="Junaid Mubeen" twitter="fjmubeen" %},
 and contestants
 {% include _gameperson.html name="Andrew Smyth" twitter="cakesmyth" website="https://www.cakesmyth.com" %},
-{% include _gameperson.html name="Belgin Seymeno&#287;lu" twitter="SmokyFurby" %},
+{% include _gameperson.html name="Belgin Seymeno&#287;lu" twitter="DrSmokyFurby" %},
 {% include _gameperson.html name="Karrie Liu" twitter="KarrieKaKa" linkedin="karrieliu" %}, and
 {% include _gameperson.html name="Sydney Weaver" twitter="SirWaffle2" website="https://www.sirwaffle.com" %}
 for some numbers and letters rounds against the clock.
@@ -247,7 +247,7 @@ reports live from MathsCity, the hands-on maths discovery centre in Leeds.
 {% include _gameperson.html name="Jonah Ostroff" %}
 demonstrate the card game SET and investigate some variants of it that can be played.
 {% include _gameperson.html name="Amy Mather" %},
-{% include _gameperson.html name="Belgin Seymeno&#287;lu" twitter="SmokyFurby" %}, and 
+{% include _gameperson.html name="Belgin Seymeno&#287;lu" twitter="DrSmokyFurby" %}, and 
 {% include _gameperson.html name="TD Dang" twitter="televisionduck" %}
 challenge the audience to a SET tournament.
 
