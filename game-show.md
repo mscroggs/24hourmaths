@@ -193,7 +193,7 @@ Hosted by
 {% include _gameperson.html name="Cath Brown" twitter="notoriouscath" %},
 {% include _gameperson.html name="Catriona Agg" twitter="Cshearer41" %}, and
 {% include _gameperson.html name="Sam Holloway" twitter="samholloway" %},
-present short lectures that are entirely false except for four hidden facts, while other contestants attempt to identify the facts.
+present short lectures that are entirely false except for five hidden facts, while other contestants attempt to identify the facts.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="11" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Countdown
 Host 
