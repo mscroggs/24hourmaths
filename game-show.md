@@ -114,7 +114,7 @@ will stay on the stream to take us through the next section of the show.
 at the maths involved in the game Mafia.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="3" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Tom Edgar
-{% include _gameperson.html name="Tom Edgar" twitter="tegd" youtube="MicroVisualProofs" website="https://community.plu.edu/~edgartj" %} plays the game Lights Out, and talks about some interesting generalisations.
+{% include _gameperson.html name="Tom Edgar" twitter="tedg" youtube="MicroVisualProofs" website="https://community.plu.edu/~edgartj" %} plays the game Lights Out, and talks about some interesting generalisations.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="4" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Have I Got Maths For You
 Host {% include _gameperson.html name="Tom Crawford" youtube="tomrocksmaths" twitter="tomrocksmaths" website="https://tomrocksmaths.com" %} is joined by
