@@ -17,8 +17,6 @@ Guests on the show will include:
 
 You can view a list of all the segments we're planning for the 24 Hour Maths Game Show on [the game show page](game-show.md).
 
-  We are looking for people to record themselves doing tasks for Taskmathster segment of the show: [read more info here](game-show-taskmathster.md)
-
 The show is raising money for four charities: Beat Eating Disorders, the Rheumatoid Arthritis Foundation, the Disasters Emergency Committee, and the Malala Fund.
 You can donate to one or all of these charities on [our Just Giving page](https://www.justgiving.com/team/24hourmathsgameshow).
 If you're a UK taxpayer, you can add Gift Aid to any donations to Beat and DEC (as they're UK-based charities) but not the Rheumatoid Arthritis Foundation
