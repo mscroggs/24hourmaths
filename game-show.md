@@ -262,6 +262,11 @@ ask contestants
 what the question was.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="18" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Taskmathster
-We are looking for people to record themselves doing tasks for this segment: [read more info here](game-show-taskmathster.md)
+A mathematical version of the television show Taskmaster, featuring
+{% include _gameperson.html name="Ben Sparks" twitter="SparksMaths" website="https://bensparks.co.uk" %},
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %},
+{% include _gameperson.html name="Kevin Houston" twitter="k_houston_math" website="https://www.kevinhouston.net" youtube="DrKevinHouston" %},
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %},
+{% include _gameperson.html name="Sophie Maclean" website="https://sophiethemathmo.wordpress.com" twitter="sophiethemathmo" %}, and many others.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="19" minute="0" format="{WEEKDAY} {DATETH} {MONTHNAME} {12 HOUR}:{MINUTE}{am/pm} ({TZ})" %}: The show ends
