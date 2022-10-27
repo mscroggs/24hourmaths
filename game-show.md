@@ -119,7 +119,7 @@ at the maths involved in the game Mafia.
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="4" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Have I Got Maths For You
 Host {% include _gameperson.html name="Tom Crawford" youtube="tomrocksmaths" twitter="tomrocksmaths" website="https://tomrocksmaths.com" %} is joined by
 {% include _gameperson.html name="Ash Frankland" twitter="AshFrankland" twitch="kitashtrophe" %},
-{% include _gameperson.html name="Callum Ilkiw" %},
+{% include _gameperson.html name="Callum Ilkiw" twitter="himecallum" %},
 {% include _gameperson.html name="Max Hughes" %}, and
 {% include _gameperson.html name="Nicole Cozens" twitter="nicole_cozens" %}
 to take a satirical look at the world of mathematics.
@@ -165,7 +165,7 @@ will join the stream to take us through the next section of the show.
 explores the maths underlying the game Nim.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="8" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Tony Mann
-{% include _gameperson.html name="Tony Mann" twitter="Tony_Mann" website="https://tonysmaths.blogspot.com" %} plays Hypergame.
+{% include _gameperson.html name="Tony Mann" twitter="Tony_Mann" website="https://tonysmaths.blogspot.com" youtube="channel/UCMtYij4mDv0JdrgQf9Kb0nA" %} plays Hypergame.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="9" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Blockbusters of Interesting Maths
 Host {% include _gameperson.html name="Christian Lawson-Perfect" twitter="christianp" website="https://somethingorotherwhatever.com" %}
@@ -220,7 +220,7 @@ through a live mathematical adventure.
 challenges
 {% include _gameperson.html name="Craig Poku" %},
 {% include _gameperson.html name="Kyle D Evans" twitter="kyledevans" website="https://kyledevans.com" %},
-{% include _gameperson.html name="Scary Boots" %},
+{% include _gameperson.html name="Scary Boots" website="http://scarysciencecomedy.wordpress.com" twitter="mammalofmystery" youtube="scaryboots" %},
 {% include _gameperson.html name="Sohang Tang" %},
 and the entire audience to create some mathematical art.
 
