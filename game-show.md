@@ -134,7 +134,7 @@ is joined by
 {% include _gameperson.html name="George Clements" %},
 {% include _gameperson.html name="Rachel Thomas" %},
 {% include _gameperson.html name="Matt Almond" %},
-{% include _gameperson.html name="Rosie Baish" %},
+{% include _gameperson.html name="Rosie" %},
 {% include _gameperson.html name="Sam Hartburn" twitter="SamHartburn" website="https://samhartburn.co.uk/sh" youtube="channel/UC_HcN3ySXpIQhSx_I47fniQ" %},	
 and amateur mathematical historian
 {% include _gameperson.html name="Noel-Ann Bradshaw" twitter="NoelAnn" %}
