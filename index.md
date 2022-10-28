@@ -8,7 +8,6 @@ Guests on the show will include:
 
 - Numberphile and YouTube star **James Grime**
 - Mathematician and presenter **Katie Steckles**
-- Stand-up Mathematician **Matt Parker**
 - Teacher and geometry puzzle creator **Catriona Agg**
 - Popular science author **Simon Singh**
 - Professional speed Rubik's cuber **Sydney Weaver**
