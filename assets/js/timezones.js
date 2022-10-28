@@ -101,7 +101,7 @@ function update_timezones(){
 
             let h12 = date.getUTCHours()
             let ampm = "AM"
-            if (h12 > 12) {h12 -= 12; ampm = "PM";}
+            if (h12 >= 12) {h12 -= 12; ampm = "PM";}
             if (h12 == 0) {h12 = 12}
 
             time = es[i].dataset["format"]
