@@ -4,16 +4,7 @@ permalink: /gameshow
 layout: tz
 ---
 
-From {% include _bst_time.html year="2022" month="9" day="28" hour="19" minute="0" format="{12 HOUR}{am/pm} {TZ} on {WEEKDAY} {DATETH} {MONTHNAME}" %}
-until {% include _bst_time.html year="2022" month="9" day="29" hour="19" minute="0" format="{12 HOUR}{am/pm} {TZ} on {WEEKDAY} {DATETH} {MONTHNAME}" %},
-we will be running the 24 Hour Maths Game Show.
-
-The show is raising money for four charities: Beat, the Rheumatoid Arthritis Foundation, DEC, and the Malala Fund.
-You can donate to one or all of these charities on [our Just Giving page](https://www.justgiving.com/team/24hourmathsgameshow).
-If you're a UK taxpayer, you can add Gift Aid to any donations to Beat and DEC (as they're UK-based charities) but not the Rheumatoid Arthritis Foundation
-and the Malala fund (as they're non-UK charities).
-
-<center><a href='https://www.justgiving.com/team/24hourmathsgameshow'><img src='/assets/img/charity-logos.png' style='width:80%' class='noshadow'></a></center>
+{%include _live.html %}
 
 ## Show schedule
 
