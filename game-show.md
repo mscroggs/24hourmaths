@@ -39,8 +39,8 @@ plays some games against a book.
 Host {% include _gameperson.html name="Simon Singh" %} leads contestants
 {% include _gameperson.html name="Alison Clarke" twitter="aaclarke4" %},
 {% include _gameperson.html name="James Tuite" %},
-{% include _gameperson.html name="Samantha Durbin" website="http://rigb.org/about/organisation/team/education/samantha-durbin" twitter="SamDurbin1" %}, and
-{% include _gameperson.html name="Susan Okereke" %}
+{% include _gameperson.html name="Kevin Houston" twitter="k_houston_math" website="https://www.kevinhouston.net" youtube="DrKevinHouston" %}, and
+{% include _gameperson.html name="Samantha Durbin" website="http://rigb.org/about/organisation/team/education/samantha-durbin" twitter="SamDurbin1" %}
 through a series of entertaining mathematical quiz games.
 
 ### {% include _bst_time.html year="2022" month="9" day="28" hour="21" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Math Games with Bad Drawings
