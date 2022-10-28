@@ -56,4 +56,4 @@ with open(os.path.join(os.path.dirname(os.path.realpath(__file__)), "../totalise
     f.write("---\n")
 
     f.write("<div style='text-align:center;font-size:200%'>Money raised so far:</div>\n"
-            f"<div style='font-weight:bold;text-align:center;font-size:300%'>{money}</div>\n")
+            f"<div style='font-weight:bold;text-align:center;font-size:350%'>{money}</div>\n")
