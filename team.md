@@ -3,6 +3,8 @@ title: The Team
 permalink: team
 ---
 
+{%include _live.html %}
+
 # 24 Hour Maths team
 The team of people show below are organising the 24 Hour Maths Game Show.
 [The team that ran the 24 Hour Maths Magic show can be found here](magic-team.md).
