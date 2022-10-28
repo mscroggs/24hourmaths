@@ -8,6 +8,15 @@ The team of people show below are organising the 24 Hour Maths Game Show.
 [The team that ran the 24 Hour Maths Magic show can be found here](magic-team.md).
 
 {% include _person.html
+    img="assets/img/people/samantha-durbin.jpg"
+    name="Samantha Durbin"
+    about="Samantha is STEM communicator & mathematican based at the Royal Institution, coordinating the Ri's Secondary Mathematics Masterclass programme across the UK."
+    website="http://rigb.org/about/organisation/team/education/samantha-durbin"
+    website_text="rigb.org/.../samantha-durbin"
+    twitter="SamDurbin1"
+%}
+
+{% include _person.html
     img="assets/img/kevin.png"
     name="Kevin Houston"
     about="Kevin is a mathematician in the School of Mathematics at the University of Leeds, and is currently the Education Secretary of the London Mathematical Society."
