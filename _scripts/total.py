@@ -47,3 +47,13 @@ with open(os.path.join(os.path.dirname(os.path.realpath(__file__)), "../_include
         f.write(f"&nbsp;{percent} of £10,000 target")
         f.write("</div>")
     f.write("</div>")
+
+
+with open(os.path.join(os.path.dirname(os.path.realpath(__file__)), "../totaliser.md"), "w") as f:
+    f.write("---\n")
+    f.write("permalink: totaliser\n")
+    f.write("layout: totaliser\n")
+    f.write("---\n")
+
+    f.write("<div style='text-align:center;font-size:200%'>Money raised so far:</div>\n"
+            f"<div style='font-weight:bold;text-align:center;font-size:300%'>{money}</div>\n")
