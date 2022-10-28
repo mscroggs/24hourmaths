@@ -3,6 +3,16 @@ title: ""
 permalink: /
 ---
 
+# The show is live!
+Watch it here:
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/0CSCjORkZeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+Or watch it directly on YouTube at:
+<center style="font-size:200%; font-weight:bold"><a href='https://youtu.be/0CSCjORkZeY'>youtu.be/0CSCjORkZeY</a></center>
+<span style="font-size:80%">To ensure that the show is recorded (YouTube's maximum stream length that it will record is less than 24 hours), we will be moving streams twice during the show.
+We'll be keeping the link here up to date, and posting the new links in the video comments and description.</span>
+
+&nbsp;
+
 The 24 Hour Maths Game Show will take place from 7pm BST on Friday 28th October until 7pm BST on Saturday 29th October 2022, and will be a celebration of everything maths/games related, including mathematical game shows, game theory, maths games and anything else in the intersection of maths and games.
 You will be able to watch the first nine hours of the show at [youtu.be/0CSCjORkZeY](https://youtu.be/0CSCjORkZeY).
 Guests on the show will include:
