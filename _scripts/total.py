@@ -18,7 +18,7 @@ headers["User-Agent"] = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) "
                          "Chrome/50.0.2661.102 Safari/537.36")
 out = requests.get(url, headers=headers, cookies=cookies).text
 
-pence = int(out.split("totalValue")[1].split("£")[1].split("<")[0].replace(".", ""))
+pence = int(out.split("totalValue")[1].split("£")[1].split("<")[0].replace(".", "").replace(",", ""))
 
 if pence % 100 == 0:
     money = f"£{pence//100}"
