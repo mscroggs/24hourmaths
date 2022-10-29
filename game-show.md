@@ -21,22 +21,31 @@ welcome everyone to the show.
 
 After the introduction,
 {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %}
-will stay on the stream to take us through the next section of the show.
+stayed on the stream to take us through the next section of the show.
 
 ### {% include _bst_time.html year="2022" month="9" day="28" hour="19" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: James Grime
 {% include _gameperson.html name="James Grime" twitter="jamesgrime" youtube="singingbanana" website="https://jamesgrime.com" %}
 plays some games against a book.
 
 ### {% include _bst_time.html year="2022" month="9" day="28" hour="20" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Simon Singh's House of Games
-Host {% include _gameperson.html name="Simon Singh" %} leads contestants
+Host {% include _gameperson.html name="Simon Singh" twitter="SLSingh" website="https://simonsingh.net/" %} leads contestants
 {% include _gameperson.html name="Alison Clarke" twitter="aaclarke4" %},
 {% include _gameperson.html name="James Tuite" %},
 {% include _gameperson.html name="Kevin Houston" twitter="k_houston_math" website="https://www.kevinhouston.net" youtube="DrKevinHouston" %}, and
 {% include _gameperson.html name="Samantha Durbin" website="http://rigb.org/about/organisation/team/education/samantha-durbin" twitter="SamDurbin1" %}
 through a series of entertaining mathematical quiz games.
 
+The music and graphics for this show were created by
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %}.
+The prizes were created by {% include _gameperson.html name="Lisa Mather at Qwirkshop" twitter="Qwirkshop" website="https://www.qwirkshop.co.uk" %}.
+
+The questions for this show were written by
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %},
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %}, and
+{% include _gameperson.html name="Simon Singh" twitter="SLSingh" website="https://simonsingh.net/" %}.
+
 ### {% include _bst_time.html year="2022" month="9" day="28" hour="21" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Math Games with Bad Drawings
-Host {% include _gameperson.html name="Ben Orlin" %} challenges
+Host {% include _gameperson.html name="Ben Orlin" twitter="benorlin" website="https://mathwithbaddrawings.com/" %} challenges
 {% include _gameperson.html name="Ayliean MacDonald" twitter="Ayliean" youtube="Ayliean" website="https://linktr.ee/Ayliean" %},
 {% include _gameperson.html name="Ningning Yang" %},
 {% include _gameperson.html name="Rasitha Maddage" %}, and
@@ -55,9 +64,17 @@ and Only Connect question setter
 {% include _gameperson.html name="Wei-Hwa Huang" %}
 in this challenging quiz.
 
+The music for this show was created by
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %},
+
+The questions for this show were written by
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %},
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %}, and
+{% include _gameperson.html name="Paul Taylor" twitter="aPaulTaylor" %}.
+
 After this show,
 {% include _gameperson.html name="Ben Sparks" twitter="SparksMaths" website="https://bensparks.co.uk" %}
-will join the stream to take us through the next section of the show.
+joined the stream to take us through the next section of the show.
 
 ### {% include _bst_time.html year="2022" month="9" day="28" hour="23" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Zoe Griffiths
 {% include _gameperson.html name="Zoe Griffiths" twitter="ZoeLGriffiths" website="https://zoelgriffiths.co.uk" %} introduces the audience to the game
@@ -75,10 +92,15 @@ challenges contestants
 {% include _gameperson.html name="TD Dang" twitter="televisionduck" %}
 to an episode of the maths quiz that simply everyone is talking about.
 
+The music for this show was created by
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %}.
+
+The questions for this show were written by
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %},
+
 After this show,
 {% include _gameperson.html name="Lyra Cromwell" %}
-will join the stream to take us through the next section of the show.
-
+joined the stream to take us through the next section of the show.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="1" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Tom Crawford
 {% include _gameperson.html name="Tom Crawford" youtube="tomrocksmaths" twitter="tomrocksmaths" website="https://tomrocksmaths.com" %} works out how to take a perfect penalty kick.
@@ -101,7 +123,7 @@ with contestants
 
 After this show,
 {% include _gameperson.html name="Sydney Weaver" twitter="SirWaffle2" website="https://www.sirwaffle.com" %}
-will stay on the stream to take us through the next section of the show.
+stayed on the stream to take us through the next section of the show.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="3" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Sophie Maclean
 {% include _gameperson.html name="Sophie Maclean" twitter="sophiethemathmo" website="https://sophiethemathmo.wordpress.com" %} looks
@@ -120,7 +142,7 @@ to take a satirical look at the world of mathematics.
 
 After this show,
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %}
-will join the stream to take us through the next section of the show.
+joined the stream to take us through the next section of the show.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="5" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Gord!
 {% include _gameperson.html name="Gord!" twitter="gamesbygord" website="https://mathpickle.com" %} takes a look at board game memes throughout history
@@ -193,6 +215,9 @@ Hosted by
 {% include _gameperson.html name="Sam Holloway" twitter="samholloway" %},
 present short lectures that are entirely false except for five hidden facts, while other contestants attempt to identify the facts.
 
+The music for this show was created by
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %}.
+
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="11" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Countdown
 Host 
 {% include _gameperson.html name="Goran Newsum" twitter="GoranNewsum" youtube="channel/UCQ72lw4RlgmqreU93b_HSnw" %}
@@ -221,6 +246,9 @@ challenges
 {% include _gameperson.html name="Scary Boots" website="http://scarysciencecomedy.wordpress.com" twitter="mammalofmystery" youtube="scaryboots" %},
 {% include _gameperson.html name="Sohang Tang" %},
 and the entire audience to create some mathematical art.
+
+The music for this show was created by
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %}.
 
 After this show,
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %}
@@ -258,6 +286,9 @@ ask contestants
 {% include _gameperson.html name="Rachel Thomas" %}, and
 {% include _gameperson.html name="Sydney Weaver" twitter="SirWaffle2" website="https://www.sirwaffle.com" %}
 what the question was.
+
+The music for this show was created by
+{% include _gameperson.html name="Sam Hartburn" twitter="SamHartburn" website="https://samhartburn.co.uk/sh" youtube="channel/UC_HcN3ySXpIQhSx_I47fniQ" %}.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="18" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Taskmathster
 A mathematical version of the television show Taskmaster, featuring
