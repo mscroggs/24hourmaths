@@ -166,6 +166,9 @@ and amateur mathematical historian
 {% include _gameperson.html name="Noel-Ann Bradshaw" twitter="NoelAnn" %}
 to play a game of Guess Who with some interesting mathematicians from throughout history.
 
+The game board for this show was created by {% include _gameperson.html name="Christian Lawson-Perfect" twitter="christianp" website="https://somethingorotherwhatever.com" %}.
+
+
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="7" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Just a Mathematical Minute
 Host {% include _gameperson.html name="Zoe Griffiths" twitter="ZoeLGriffiths" website="https://zoelgriffiths.co.uk" %} challenges
 {% include _gameperson.html name="Alex Bolton" twitter="AlexDBolton" %},
