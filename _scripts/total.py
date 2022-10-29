@@ -55,12 +55,9 @@ with open(os.path.join(os.path.dirname(os.path.realpath(__file__)), "../totalise
     f.write("layout: totaliser\n")
     f.write("---\n")
 
-    if pence >= 314159 and pence < 350000:
+    if pence >= 314159 and pence < 330000:
         f.write("<div style='text-align:center;font-size:300%;padding-top:30px'>Money raised so far:</div>\n"
                 f"<div style='font-weight:bold;text-align:center;font-size:400%'>£1000&pi;</div>\n")
-    elif pence >= 314159 and pence < 400000:
-        f.write("<div style='text-align:center;font-size:300%;padding-top:30px'>Money raised so far:</div>\n"
-                f"<div style='font-weight:bold;text-align:center;font-size:400%'>>£1000&pi;</div>\n")
     else:
         f.write("<div style='text-align:center;font-size:300%;padding-top:30px'>Money raised so far:</div>\n"
                 f"<div style='font-weight:bold;text-align:center;font-size:400%'>{money}</div>\n")
