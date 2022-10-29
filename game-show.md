@@ -38,8 +38,7 @@ through a series of entertaining mathematical quiz games.
 The music and graphics for this show were created by
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %}.
 The prizes were created by {% include _gameperson.html name="Lisa Mather at Qwirkshop" twitter="Qwirkshop" website="https://www.qwirkshop.co.uk" %}.
-
-The questions for this show were written by
+The questions were written by
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %},
 {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %}, and
 {% include _gameperson.html name="Simon Singh" twitter="SLSingh" website="https://simonsingh.net/" %}.
@@ -66,8 +65,7 @@ in this challenging quiz.
 
 The music for this show was created by
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %},
-
-The questions for this show were written by
+The questions were written by
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %},
 {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %}, and
 {% include _gameperson.html name="Paul Taylor" twitter="aPaulTaylor" %}.
@@ -94,8 +92,7 @@ to an episode of the maths quiz that simply everyone is talking about.
 
 The music for this show was created by
 {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %}.
-
-The questions for this show were written by
+The questions show were written by
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %},
 
 After this show,
