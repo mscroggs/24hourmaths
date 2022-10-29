@@ -14,7 +14,8 @@ This schedule is provisional any may be changed before or during the show.
 Show organisers {% include _gameperson.html name="Ben Sparks" twitter="SparksMaths" website="https://bensparks.co.uk" %},
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %},
 {% include _gameperson.html name="Kevin Houston" twitter="k_houston_math" website="https://www.kevinhouston.net" youtube="DrKevinHouston" %},
-{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %}, and
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %},
+{% include _gameperson.html name="Samantha Durbin" website="http://rigb.org/about/organisation/team/education/samantha-durbin" twitter="SamDurbin1" %}, and
 {% include _gameperson.html name="Sophie Maclean" website="https://sophiethemathmo.wordpress.com" twitter="sophiethemathmo" %}
 welcome everyone to the show.
 
@@ -75,7 +76,7 @@ challenges contestants
 to an episode of the maths quiz that simply everyone is talking about.
 
 After this show,
-{% include _gameperson.html name="Peter Kagey" twitter="peterkagey" website="https://www.peterkagey.com" %}
+{% include _gameperson.html name="Lyra Cromwell" %}
 will join the stream to take us through the next section of the show.
 
 
@@ -91,10 +92,12 @@ Host
 {% include _gameperson.html name="Sydney Weaver" twitter="SirWaffle2" website="https://www.sirwaffle.com" %}
 plays **Family Feud (Math Edition)** and **The Price is Right (Math Edition)**
 with contestants
+{% include _gameperson.html name="April Uzdavinis" %},
 {% include _gameperson.html name="Ellen Jolley" %},
-{% include _gameperson.html name="Peter Kagey" twitter="peterkagey" website="https://www.peterkagey.com" %},
-{% include _gameperson.html name="William C Laursen" %},
-and **others**.
+{% include _gameperson.html name="Lyra Cromwell" %},
+{% include _gameperson.html name="Tilly Pitt" %},
+{% include _gameperson.html name="William C Laursen" %}, and
+{% include _gameperson.html name="Yudhi Bunjamin" %}.
 
 After this show,
 {% include _gameperson.html name="Sydney Weaver" twitter="SirWaffle2" website="https://www.sirwaffle.com" %}
@@ -120,7 +123,11 @@ After this show,
 will join the stream to take us through the next section of the show.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="5" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Gord!
-{% include _gameperson.html name="Gord!" twitter="gamesbygord" website="https://mathpickle.com" %} takes a look at board game memes throughout history.
+{% include _gameperson.html name="Gord!" twitter="gamesbygord" website="https://mathpickle.com" %} takes a look at board game memes throughout history
+with
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %}
+and
+{% include _gameperson.html name="Zaak Robichaud" %}.
 
 ### {% include _bst_time.html year="2022" month="9" day="29" hour="5" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Adam Atkinson
 {% include _gameperson.html name="Adam Atkinson" %} talks about three games he was shown in Lyon a
