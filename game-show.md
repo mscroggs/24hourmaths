@@ -6,8 +6,6 @@ layout: tz
 
 {%include _live.html %}
 
-<span class="fa-24">ABC</span>
-
 ## Behind the scenes helpers
 Behind-the-scenes help was given by
 {% include _gameperson.html name="Chris Roberts" website="https://naxxfish.net" %}.
