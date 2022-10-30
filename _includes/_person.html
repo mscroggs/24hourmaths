@@ -5,11 +5,11 @@
 {{include.about}}
 
 <ul class='sociallist'>
-{% if {{include.website}} %}<li><a href="{{include.website}}"><i class="fa fa-internet-explorer" aria-hidden="true"></i> {{ include.website | split:"//" | last}}</a></li>{% endif %}
-{% if {{include.email}} %}<li><a href="mailto:{{include.email}}"><i class="fa fa-envelope-o" aria-hidden="true"></i> {{include.email}}</a></li>{% endif %}
-{% if {{include.github}} %}<li><a href="https://github.com/{{include.github}}"><i class="fa fa-github" aria-hidden="true"></i> {{include.github}}</a></li>{% endif %}
-{% if {{include.twitter}} %}<li><a href="https://twitter.com/{{include.twitter}}"><i class="fa fa-twitter" aria-hidden="true"></i> @{{include.twitter}}</a></li>{% endif %}
-{% if {{include.youtube}} %}<li><a href="https://youtube.com/{{include.youtube}}"><i class="fa fa-youtube" aria-hidden="true"></i> {{include.youtube}}</a></li>{% endif %}
+{% if {{include.website}} %}<li><a href="{{include.website}}"><i class="fa-brands fa-internet-explorer" aria-hidden="true"></i> {{ include.website | split:"//" | last}}</a></li>{% endif %}
+{% if {{include.email}} %}<li><a href="mailto:{{include.email}}"><i class="fa-brands fa-envelope-o" aria-hidden="true"></i> {{include.email}}</a></li>{% endif %}
+{% if {{include.github}} %}<li><a href="https://github.com/{{include.github}}"><i class="fa-brands fa-github" aria-hidden="true"></i> {{include.github}}</a></li>{% endif %}
+{% if {{include.twitter}} %}<li><a href="https://twitter.com/{{include.twitter}}"><i class="fa-brands fa-twitter" aria-hidden="true"></i> @{{include.twitter}}</a></li>{% endif %}
+{% if {{include.youtube}} %}<li><a href="https://youtube.com/{{include.youtube}}"><i class="fa-brands fa-youtube" aria-hidden="true"></i> {{include.youtube}}</a></li>{% endif %}
 </ul>
 </div>
 </div>
