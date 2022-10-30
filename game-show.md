@@ -294,7 +294,7 @@ The graphics for this show were created by the team behind
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="13" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Maths Art Challenge](https://youtu.be/VakFxGLz5Ik?t=3547)
 {% include _gameperson.html name="Hana Ayoob" twitter="Hana_SciArt" website="https://hanaayoob.co.uk" instagram="hana.ayoob" %}
 challenges
-{% include _gameperson.html name="Craig Poku" %},
+{% include _gameperson.html name="Craig Poku" twitter="pokubakes" %},
 {% include _gameperson.html name="Kyle D Evans" twitter="kyledevans" website="https://kyledevans.com" %},
 {% include _gameperson.html name="Scary Boots" website="http://scarysciencecomedy.wordpress.com" twitter="mammalofmystery" youtube="scaryboots" %},
 {% include _gameperson.html name="Sohang Tang" %},
