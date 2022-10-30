@@ -70,7 +70,7 @@ of questions about sets and sequences of connected items to veteran Only Connect
 {% include _gameperson.html name="Andrew Gyford" after="," %}
 {% include _gameperson.html name="James O'Driscoll" after="," %}
 {% include _gameperson.html name="Rob Butlin" after="," %}
-{% include _gameperson.html name="Stu Hern" after="," %}
+{% include _gameperson.html name="Stu Hern" twitter="StuHern" after="," %}
 and {% include _gameperson.html name="Tim Robinson" after="," %}
 and Only Connect question setter
 {% include _gameperson.html name="Wei-Hwa Huang" %}
