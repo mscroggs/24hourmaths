@@ -1,0 +1,11 @@
+@font-face {
+  font-family: '24 Hour Maths Font Show';
+  font-display: block;
+  font-weight: 400;
+  src: url("24HMFS.woff2") format("woff2"), url("24HMFS.ttf") format("truetype");
+}
+
+.fa-24 {
+  font-family: "24 Hour Maths Font Show";
+  padding-left:2px;padding-right:2px
+}
