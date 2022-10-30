@@ -6,9 +6,20 @@ layout: tz
 
 {%include _live.html %}
 
+## Behind the scenes helpers
+Behind-the-scenes help was given by
+{% include _gameperson.html name="Chris Roberts" website="https://naxxfish.net" %}.
+The YouTube chat was moderated by
+{% include _gameperson.html name="Hannah Gostling" twitter="hexagonhannah" %},
+{% include _gameperson.html name="Gill Kiernan" %},
+{% include _gameperson.html name="Paddy Moore" twitter="paddymaths" %},
+{% include _gameperson.html name="Sam Hartburn" twitter="SamHartburn" website="https://samhartburn.co.uk/sh" youtube="channel/UC_HcN3ySXpIQhSx_I47fniQ" %},	
+{% include _gameperson.html name="Sophie Maclean" website="https://sophiethemathmo.wordpress.com" twitter="sophiethemathmo" %},
+{% include _gameperson.html name="Sydney Weaver" twitter="SirWaffle2" website="https://www.sirwaffle.com" %}.
+
 ## Show schedule
 
-This schedule is provisional any may be changed before or during the show.
+You can click the title of each segment to view to the recording of the stream from the start of that segment.
 
 ### [{% include _bst_time.html year="2022" month="9" day="28" hour="19" minute="0" format="{WEEKDAY} {DATETH} {MONTHNAME} {12 HOUR}:{MINUTE}{am/pm} ({TZ})" %}: The show starts](https://www.youtube.com/watch?v=s-09kI6kuOM)
 Show organisers {% include _gameperson.html name="Ben Sparks" twitter="SparksMaths" website="https://bensparks.co.uk" %},
@@ -92,7 +103,9 @@ to an episode of the maths quiz that simply everyone is talking about.
 
 The music for this show was created by
 {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %}.
-The questions show were written by
+The graphics were created by
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %},
+The questions were written by
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %},
 
 After this show,
@@ -118,6 +131,11 @@ with contestants
 {% include _gameperson.html name="William C Laursen" %}, and
 {% include _gameperson.html name="Yudhi Bunjamin" %}.
 
+The questions for these shows were written by
+{% include _gameperson.html name="Sydney Weaver" twitter="SirWaffle2" website="https://www.sirwaffle.com" %}.
+The introductory animations were created by
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %},
+
 After this show,
 {% include _gameperson.html name="Sydney Weaver" twitter="SirWaffle2" website="https://www.sirwaffle.com" %}
 stayed on the stream to take us through the next section of the show.
@@ -136,6 +154,16 @@ Host {% include _gameperson.html name="Tom Crawford" youtube="tomrocksmaths" twi
 {% include _gameperson.html name="Max Hughes" %}, and
 {% include _gameperson.html name="Nicole Cozens" twitter="nicole_cozens" %}
 to take a satirical look at the world of mathematics.
+
+The questions for this show were written by
+{% include _gameperson.html name="Goran Newsum" twitter="GoranNewsum" youtube="channel/UCQ72lw4RlgmqreU93b_HSnw" %},
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %},
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %}, and
+{% include _gameperson.html name="Sophie Maclean" twitter="sophiethemathmo" website="https://sophiethemathmo.wordpress.com" %}.
+Editing was done by
+{% include _gameperson.html name="Chris Maclean" %}.
+and
+{% include _gameperson.html name="Sophie Maclean" twitter="sophiethemathmo" website="https://sophiethemathmo.wordpress.com" %}.
 
 After this show,
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %}
@@ -167,14 +195,25 @@ and amateur mathematical historian
 to play a game of Guess Who with some interesting mathematicians from throughout history.
 
 The game board for this show was created by {% include _gameperson.html name="Christian Lawson-Perfect" twitter="christianp" website="https://somethingorotherwhatever.com" %}.
+The introductory animation was created by
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %}.
 
 
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="7" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Just a Mathematical Minute](https://youtu.be/j6YzTZ61hhU?t=10992)
-Host {% include _gameperson.html name="Zoe Griffiths" twitter="ZoeLGriffiths" website="https://zoelgriffiths.co.uk" %} challenges
+Hosts
+{% include _gameperson.html name="Zoe Griffiths" twitter="ZoeLGriffiths" website="https://zoelgriffiths.co.uk" %}
+and
+{% include _gameperson.html name="Ben Sparks" twitter="SparksMaths" website="https://bensparks.co.uk" %},
+challenge
 {% include _gameperson.html name="Alex Bolton" twitter="AlexDBolton" %},
 {% include _gameperson.html name="Belgin Seymeno&#287;lu" twitter="DrSmokyFurby" %},
 {% include _gameperson.html name="Catriona Agg" twitter="Cshearer41" %}, and
 {% include _gameperson.html name="James Wilson" %} to talk about mathematical topics for 60 seconds without repetition, hesisation or deviation.
+
+The music for this show was created by
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %},
+The blackboard drawing was created by
+{% include _gameperson.html name="Lauren Hockenhull at ICMS" twitter="ICMS_Edinburgh" %}.
 
 After this show,
 {% include _gameperson.html name="Fran Watson" twitter="FranMaths" %}
@@ -195,10 +234,10 @@ challenges contestants
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %}
 to cross the board by presenting interesting pieces of mathematics.
 
-The music and graphics for this show were created by {% include _gameperson.html name="Ayliean MacDonald" twitter="Ayliean" youtube="Ayliean" website="https://linktr.ee/Ayliean" %}.
+The music and introductory animation for this show were created by {% include _gameperson.html name="Ayliean MacDonald" twitter="Ayliean" youtube="Ayliean" website="https://linktr.ee/Ayliean" %}.
+The game board for this show was created by {% include _gameperson.html name="Christian Lawson-Perfect" twitter="christianp" website="https://somethingorotherwhatever.com" %}.
 
 After this show,
-{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %}
 joined the stream to take us through the next section of the show.
 
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="10" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Mats Vermeeren](https://youtu.be/j6YzTZ61hhU?t=21263)
@@ -215,6 +254,11 @@ Hosted by
 {% include _gameperson.html name="Sam Holloway" twitter="samholloway" %},
 present short lectures that are entirely false except for five hidden facts, while other contestants attempt to identify the facts.
 
+The lectures were written by
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %},
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %},
+and the contestants.
+
 The music for this show was created by
 {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %}.
 
@@ -230,6 +274,12 @@ and contestants
 {% include _gameperson.html name="Sydney Weaver" twitter="SirWaffle2" website="https://www.sirwaffle.com" %}
 for some numbers and letters rounds against the clock.
 
+The music for this show was created by
+{% include _gameperson.html name="Ben Sparks" twitter="SparksMaths" website="https://bensparks.co.uk" %}.
+The introductory animation and the clock animation were created by
+{% include _gameperson.html name="Becky Warren" twitter="becky_k_warren" website="https://linescurvesspirals.blogspot.com" instagram="beckys_geometric_art" %}.
+
+
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="12" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Dungeons & Dragons](https://youtu.be/VakFxGLz5Ik?t=91)
 Dungeon master {% include _gameperson.html name="Max Hughes" %} guides 
 {% include _gameperson.html name="Dagmar der Weduwen" website="https://www.dagmarderweduwen.com" twitter="DJWeduwen" %},
@@ -237,6 +287,9 @@ Dungeon master {% include _gameperson.html name="Max Hughes" %} guides
 {% include _gameperson.html name="Kat Phillips" twitter="katdoesmaths" website="https://katdoesmaths.me" twitch="KatDoesMaths" %}, and
 {% include _gameperson.html name="Sam Langford" twitter="scottishscicomm" website="https://www.scicommwithsam.com" %}
 through a live mathematical adventure.
+
+The graphics for this show were created by the team behind
+{% include _gameperson.html name="Science & Sorcery" twitter="SciAndSorcery" twitch="scienceandsorcery" %}.
 
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="13" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Maths Art Challenge](https://youtu.be/VakFxGLz5Ik?t=3547)
 {% include _gameperson.html name="Hana Ayoob" twitter="Hana_SciArt" website="https://hanaayoob.co.uk" instagram="hana.ayoob" %}
@@ -247,8 +300,12 @@ challenges
 {% include _gameperson.html name="Sohang Tang" %},
 and the entire audience to create some mathematical art.
 
-The music for this show was created by
+The graphics for this show were created by
+{% include _gameperson.html name="Hana Ayoob" twitter="Hana_SciArt" website="https://hanaayoob.co.uk" instagram="hana.ayoob" %}.
+The music was created by
 {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %}.
+The introductory animations were created by
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %}.
 
 After this show,
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %}
@@ -266,7 +323,12 @@ take a look at some games that you don't realise that you're not playing.
 
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="15" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: MathsCity Games Tournament](https://youtu.be/VakFxGLz5Ik?t=10724)
 {% include _gameperson.html name="Kevin Houston" twitter="k_houston_math" website="https://www.kevinhouston.net" youtube="DrKevinHouston" %}
-reports live from MathsCity, the hands-on maths discovery centre in Leeds.
+reports live from {% include _gameperson.html name="MathsCity" twitter="MathsCityLeeds" %}, the hands-on maths discovery centre in Leeds.
+During this segment,
+{% include _gameperson.html name="Katie Chicot" twitter="KChicot" %},
+{% include _gameperson.html name="Daniel Williams" %}, and
+{% include _gameperson.html name="Merin Joseph" %} demonstrated many of the activities at MathsCity.
+
 
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="16" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Set](https://youtu.be/VakFxGLz5Ik?t=14141)
 {% include _gameperson.html name="Cathy Hsu" website="https://chsu.domains.swarthmore.edu" %} and
@@ -289,6 +351,11 @@ what the question was.
 
 The music for this show was created by
 {% include _gameperson.html name="Sam Hartburn" twitter="SamHartburn" website="https://samhartburn.co.uk/sh" youtube="channel/UC_HcN3ySXpIQhSx_I47fniQ" %}.
+The introductory animations were created by
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %}.
+
+The music for this show was created by
+{% include _gameperson.html name="Sam Hartburn" twitter="SamHartburn" website="https://samhartburn.co.uk/sh" youtube="channel/UC_HcN3ySXpIQhSx_I47fniQ" %}.
 
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="18" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Taskmathster](https://youtu.be/VakFxGLz5Ik?t=21381)
 A mathematical version of the television show Taskmaster, featuring
@@ -297,5 +364,20 @@ A mathematical version of the television show Taskmaster, featuring
 {% include _gameperson.html name="Kevin Houston" twitter="k_houston_math" website="https://www.kevinhouston.net" youtube="DrKevinHouston" %},
 {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %},
 {% include _gameperson.html name="Sophie Maclean" website="https://sophiethemathmo.wordpress.com" twitter="sophiethemathmo" %}, and many others.
+
+The music for this show were created by
+{% include _gameperson.html name="Iain Houston" %},
+The tasks were set by
+{% include _gameperson.html name="Kevin Houston" twitter="k_houston_math" website="https://www.kevinhouston.net" youtube="DrKevinHouston" %},
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %}, and
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" %}.
+The tasks were completed by Boyuan, Chloe, Jonny, and Raphael in Leeds; and our viewers at home.
+Production was done by
+{% include _gameperson.html name="Kevin Houston" twitter="k_houston_math" website="https://www.kevinhouston.net" youtube="DrKevinHouston" %},
+{% include _gameperson.html name="Merin Joseph" %},
+{% include _gameperson.html name="Richard Elwes" %}, and
+{% include _gameperson.html name="Ruth Holland" %}.
+The graphics were created by
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %}.
 
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="19" minute="0" format="{WEEKDAY} {DATETH} {MONTHNAME} {12 HOUR}:{MINUTE}{am/pm} ({TZ})" %}: The show ends](https://youtu.be/VakFxGLz5Ik?t=25770)

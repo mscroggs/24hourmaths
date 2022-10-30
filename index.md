@@ -3,22 +3,10 @@ title: ""
 permalink: /
 ---
 
-{%include _live.html %}
+The 24 Hour Maths Game Show took place from 7pm BST on Friday 28th October until 7pm BST on Saturday 29th October 2022, and was a celebration of everything maths/games related, including mathematical game shows, game theory, maths games and anything else in the intersection of maths and games.
+You can view a list of all the segments that were part of the 24 Hour Maths Game Show on [the game show page](game-show.md), including links to watch them in the recording.
 
-The 24 Hour Maths Game Show will take place from 7pm BST on Friday 28th October until 7pm BST on Saturday 29th October 2022, and will be a celebration of everything maths/games related, including mathematical game shows, game theory, maths games and anything else in the intersection of maths and games.
-Guests on the show will include:
-
-- Numberphile and YouTube star **James Grime**
-- Mathematician and presenter **Katie Steckles**
-- Teacher and geometry puzzle creator **Catriona Agg**
-- Popular science author **Simon Singh**
-- Professional speed Rubik's cuber **Sydney Weaver**
-- Creator of *Math with Bad Drawings* **Ben Orlin**
-- Bake-off star **Andrew Smyth**
-
-You can view a list of all the segments we're planning for the 24 Hour Maths Game Show on [the game show page](game-show.md).
-
-The show is raising money for four charities: Beat Eating Disorders, the Rheumatoid Arthritis Foundation, the Disasters Emergency Committee, and the Malala Fund.
+You can still [watch recordings of the show](https://www.youtube.com/channel/UCoemA7gY51CyD1IZCYlWAmg) and donate to our four charities: Beat Eating Disorders, the Rheumatoid Arthritis Foundation, the Disasters Emergency Committee, and the Malala Fund.
 You can donate to one or all of these charities on [our Just Giving page](https://www.justgiving.com/team/24hourmathsgameshow).
 If you're a UK taxpayer, you can add Gift Aid to any donations to Beat and DEC (as they're UK-based charities) but not the Rheumatoid Arthritis Foundation
 and the Malala fund (as they're non-UK charities).
@@ -30,9 +18,6 @@ So far we have raised a total of {%include _total.html %} for our charities.
 {%include _progress.html %}
 
 &nbsp;
-
-The entire event is run by volunteers, and we're still looking for people to help behind the scenes, moderating the YouTube chat, and sending tweets about the show.
-If you'd like to help, you can email us at **hello@24hourmaths.com**.
 
 To keep updated about this and other upcoming shows, sign up to our mailing list below or [follow us on Twitter](https://twitter.com/24hmaths).
 
