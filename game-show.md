@@ -10,7 +10,7 @@ layout: tz
 
 This schedule is provisional any may be changed before or during the show.
 
-### [{% include _bst_time.html year="2022" month="9" day="28" hour="19" minute="0" format="{WEEKDAY} {DATETH} {MONTHNAME} {12 HOUR}:{MINUTE}{am/pm} ({TZ})" %}: The show starts])(https://www.youtube.com/watch?v=s-09kI6kuOM)
+### [{% include _bst_time.html year="2022" month="9" day="28" hour="19" minute="0" format="{WEEKDAY} {DATETH} {MONTHNAME} {12 HOUR}:{MINUTE}{am/pm} ({TZ})" %}: The show starts](https://www.youtube.com/watch?v=s-09kI6kuOM)
 Show organisers {% include _gameperson.html name="Ben Sparks" twitter="SparksMaths" website="https://bensparks.co.uk" %},
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %},
 {% include _gameperson.html name="Kevin Houston" twitter="k_houston_math" website="https://www.kevinhouston.net" youtube="DrKevinHouston" %},
