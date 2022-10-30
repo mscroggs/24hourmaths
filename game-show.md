@@ -47,7 +47,8 @@ Host {% include _gameperson.html name="Simon Singh" twitter="SLSingh" website="h
 through a series of entertaining mathematical quiz games.
 
 The music and graphics for this show were created by
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %}.
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %} and
+{% include _gameperson.html name="Tim Ward" %}.
 The prizes were created by {% include _gameperson.html name="Lisa Mather at Qwirkshop" twitter="Qwirkshop" website="https://www.qwirkshop.co.uk" %}.
 The questions were written by
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" %},
