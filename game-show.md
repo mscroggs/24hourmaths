@@ -25,7 +25,7 @@ You can click the title of each segment to view to the recording of the stream f
 
 ### [{% include _bst_time.html year="2022" month="9" day="28" hour="19" minute="0" format="{WEEKDAY} {DATETH} {MONTHNAME} {12 HOUR}:{MINUTE}{am/pm} ({TZ})" %}: The show starts](https://www.youtube.com/watch?v=s-09kI6kuOM)
 Show organisers {% include _gameperson.html name="Ben Sparks" twitter="SparksMaths" website="https://bensparks.co.uk" %},
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %},
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %},
 {% include _gameperson.html name="Kevin Houston" twitter="k_houston_math" website="https://www.kevinhouston.net" youtube="DrKevinHouston" %},
 {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" %},
 {% include _gameperson.html name="Samantha Durbin" website="http://rigb.org/about/organisation/team/education/samantha-durbin" twitter="SamDurbin1" %}, and
@@ -49,12 +49,13 @@ Host {% include _gameperson.html name="Simon Singh" twitter="SLSingh" website="h
 through a series of entertaining mathematical quiz games.
 
 The music and graphics for this show were created by
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %} and
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %} and
 {% include _gameperson.html name="Tim Ward" %}.
 The prizes were created by {% include _gameperson.html name="Lisa Mather at Qwirkshop" twitter="Qwirkshop" website="https://www.qwirkshop.co.uk" %}.
 The questions were written by
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %},
-{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" %}, and
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %},
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" %},
+{% include _gameperson.html name="Paul Taylor" twitter="aPaulTaylor" puzzlebomb="Paul" %}, and
 {% include _gameperson.html name="Simon Singh" twitter="SLSingh" website="https://simonsingh.net/" %}.
 
 ### [{% include _bst_time.html year="2022" month="9" day="28" hour="21" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Math Games with Bad Drawings](https://youtu.be/s-09kI6kuOM?t=7453)
@@ -66,7 +67,7 @@ Host {% include _gameperson.html name="Ben Orlin" twitter="benorlin" website="ht
 to play a series of games taken from his book *Math Games with Bad Drawings*.
 
 ### [{% include _bst_time.html year="2022" month="9" day="28" hour="22" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Simply Connect(ed)](https://youtu.be/s-09kI6kuOM?t=11124)
-Host {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %} asks four rounds
+Host {% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %} asks four rounds
 of questions about sets and sequences of connected items to veteran Only Connect contestants
 {% include _gameperson.html name="Andrew Gyford" %},
 {% include _gameperson.html name="James O'Driscoll" %},
@@ -78,9 +79,9 @@ and Only Connect question setter
 in this challenging quiz.
 
 The music for this show was created by
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %},
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %},
 The questions were written by
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %},
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %},
 {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" %}, and
 {% include _gameperson.html name="Paul Taylor" twitter="aPaulTaylor" puzzlebomb="Paul" %}.
 
@@ -96,7 +97,7 @@ Penny Ante, and challenges them all to a game.
 {% include _gameperson.html name="Alex Bolton" twitter="AlexDBolton" %} works out what the longest possible game of Chess is.
 
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="0" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Numberwang](https://youtu.be/s-09kI6kuOM?t=18285)
-Host {% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %}
+Host {% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %}
 challenges contestants
 {% include _gameperson.html name="Alex Bolton" twitter="AlexDBolton" %},
 {% include _gameperson.html name="Bea Taylor" chalkdust="Bea" %},
@@ -107,9 +108,9 @@ to an episode of the maths quiz that simply everyone is talking about.
 The music for this show was created by
 {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" %}.
 The graphics were created by
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %},
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %},
 The questions were written by
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %},
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %},
 
 After this show,
 {% include _gameperson.html name="Lyra Cromwell" %}
@@ -119,7 +120,7 @@ joined the stream to take us through the next section of the show.
 {% include _gameperson.html name="Tom Crawford" youtube="tomrocksmaths" twitter="tomrocksmaths" website="https://tomrocksmaths.com" %} works out how to take a perfect penalty kick.
 
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="1" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Katie Steckles and Matthew Scroggs](https://youtu.be/s-09kI6kuOM?t=23535)
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %} and
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %} and
 {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" %} talk about Pac-Man.
 
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="2" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Sydney Weaver's Game Show Hour](https://youtu.be/s-09kI6kuOM?t=25269)
@@ -137,7 +138,7 @@ with contestants
 The questions for these shows were written by
 {% include _gameperson.html name="Sydney Weaver" twitter="SirWaffle2" website="https://www.sirwaffle.com" %}.
 The introductory animations were created by
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %},
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %},
 
 After this show,
 {% include _gameperson.html name="Sydney Weaver" twitter="SirWaffle2" website="https://www.sirwaffle.com" %}
@@ -160,22 +161,22 @@ to take a satirical look at the world of mathematics.
 
 The questions for this show were written by
 {% include _gameperson.html name="Goran Newsum" twitter="GoranNewsum" youtube="channel/UCQ72lw4RlgmqreU93b_HSnw" %},
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %},
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %},
 {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" %}, and
 {% include _gameperson.html name="Sophie Maclean" twitter="sophiethemathmo" chalkdust="sophie" website="https://sophiethemathmo.wordpress.com" %}.
 Editing was done by
-{% include _gameperson.html name="Chris Maclean" %}.
+{% include _gameperson.html name="Chris Maclean" %}
 and
 {% include _gameperson.html name="Sophie Maclean" twitter="sophiethemathmo" chalkdust="sophie" website="https://sophiethemathmo.wordpress.com" %}.
 
 After this show,
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %}
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %}
 joined the stream to take us through the next section of the show.
 
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="5" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Gord!](https://youtu.be/j6YzTZ61hhU?t=3620)
 {% include _gameperson.html name="Gord!" twitter="gamesbygord" website="https://mathpickle.com" %} takes a look at board game memes throughout history
 with
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %}
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %}
 and
 {% include _gameperson.html name="Zaak Robichaud" %}.
 
@@ -199,7 +200,7 @@ to play a game of Guess Who with some interesting mathematicians from throughout
 
 The game board for this show was created by {% include _gameperson.html name="Christian Lawson-Perfect" twitter="christianp" aperiodical="Christian" website="https://somethingorotherwhatever.com" %}.
 The introductory animation was created by
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %}.
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %}.
 
 
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="7" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Just a Mathematical Minute](https://youtu.be/j6YzTZ61hhU?t=10992)
@@ -214,7 +215,7 @@ challenge
 {% include _gameperson.html name="James Wilson" %} to talk about mathematical topics for 60 seconds without repetition, hesisation or deviation.
 
 The music for this show was created by
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %},
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %},
 The blackboard drawing was created by
 {% include _gameperson.html name="Lauren Hockenhull at ICMS" twitter="ICMS_Edinburgh" %}.
 
@@ -234,7 +235,7 @@ Host {% include _gameperson.html name="Christian Lawson-Perfect" twitter="christ
 challenges contestants
 {% include _gameperson.html name="Alex Corner" website="https://alex-corner.github.io" twitter="alexcorner" %},
 {% include _gameperson.html name="Colin Wright" twitter="colinthemathmo" website="https://www.solipsys.co.uk/new/MathematicsTalk.html" mathstodon="ColinTheMathmo" %}, and
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %}
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %}
 to cross the board by presenting interesting pieces of mathematics.
 
 The music and introductory animation for this show were created by {% include _gameperson.html name="Ayliean MacDonald" twitter="Ayliean" youtube="Ayliean" website="https://linktr.ee/Ayliean" %}.
@@ -259,7 +260,7 @@ present short lectures that are entirely false except for five hidden facts, whi
 
 The lectures were written by
 {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" %},
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %},
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %},
 and the contestants.
 
 The music for this show was created by
@@ -308,10 +309,10 @@ The graphics for this show were created by
 The music was created by
 {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" %}.
 The introductory animations were created by
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %}.
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %}.
 
 After this show,
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %}
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %}
 joined the stream to take us through the next section of the show.
 
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="14" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Peter Rowlett and Alex Corner](https://youtu.be/VakFxGLz5Ik?t=7456)
@@ -355,7 +356,7 @@ what the question was.
 The music for this show was created by
 {% include _gameperson.html name="Sam Hartburn" twitter="SamHartburn" website="https://samhartburn.co.uk/sh" youtube="channel/UC_HcN3ySXpIQhSx_I47fniQ" %}.
 The introductory animations were created by
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %}.
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %}.
 
 The music for this show was created by
 {% include _gameperson.html name="Sam Hartburn" twitter="SamHartburn" website="https://samhartburn.co.uk/sh" youtube="channel/UC_HcN3ySXpIQhSx_I47fniQ" %}.
@@ -363,7 +364,7 @@ The music for this show was created by
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="18" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Taskmathster](https://youtu.be/VakFxGLz5Ik?t=21381)
 A mathematical version of the television show Taskmaster, featuring
 {% include _gameperson.html name="Ben Sparks" twitter="SparksMaths" website="https://bensparks.co.uk" %},
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %},
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %},
 {% include _gameperson.html name="Kevin Houston" twitter="k_houston_math" website="https://www.kevinhouston.net" youtube="DrKevinHouston" %},
 {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" %},
 {% include _gameperson.html name="Sophie Maclean" website="https://sophiethemathmo.wordpress.com" twitter="sophiethemathmo" chalkdust="sophie" %}, and many others.
@@ -372,7 +373,7 @@ The music for this show were created by
 {% include _gameperson.html name="Iain Houston" %},
 The tasks were set by
 {% include _gameperson.html name="Kevin Houston" twitter="k_houston_math" website="https://www.kevinhouston.net" youtube="DrKevinHouston" %},
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %}, and
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %}, and
 {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" %}.
 The tasks were completed by Boyuan, Chloe, Jonny, and Raphael in Leeds; and our viewers at home.
 Production was done by
@@ -381,6 +382,6 @@ Production was done by
 {% include _gameperson.html name="Richard Elwes" %}, and
 {% include _gameperson.html name="Ruth Holland" %}.
 The graphics were created by
-{% include _gameperson.html name="Katie Steckles" twitter="stecks" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %}.
+{% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %}.
 
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="19" minute="0" format="{WEEKDAY} {DATETH} {MONTHNAME} {12 HOUR}:{MINUTE}{am/pm} ({TZ})" %}: The show ends](https://youtu.be/VakFxGLz5Ik?t=25770)
