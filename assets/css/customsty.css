@@ -7,7 +7,7 @@ purple: #782979
 light blue: #88C7D9
 */
 
-a:hover .fa, a:hover .fa-brands {
+a:hover .fa, a:hover .fa-brands, a:hover .fa-24 {
   color: #782979
 }
 
