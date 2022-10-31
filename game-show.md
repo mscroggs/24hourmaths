@@ -258,6 +258,7 @@ present short lectures that are entirely false except for five hidden facts, whi
 
 The lectures were written by
 {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" after="," %}
+{% include _gameperson.html name="Alison Clarke" twitter="aaclarke4" after="," %}
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" after="," %}
 and the contestants.
 
