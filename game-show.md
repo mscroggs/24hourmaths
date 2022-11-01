@@ -25,13 +25,13 @@ You can click the title of each segment to view to the recording of the stream f
 Show organisers {% include _gameperson.html name="Ben Sparks" twitter="SparksMaths" website="https://bensparks.co.uk" after="," %}
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" after="," %}
 {% include _gameperson.html name="Kevin Houston" twitter="k_houston_math" website="https://www.kevinhouston.net" youtube="DrKevinHouston" after="," %}
-{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" after="," %}
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" youtube="@scroggs" after="," %}
 {% include _gameperson.html name="Samantha Durbin" website="http://rigb.org/about/organisation/team/education/samantha-durbin" twitter="SamDurbin1" after="," %} and
 {% include _gameperson.html name="Sophie Maclean" website="https://sophiethemathmo.wordpress.com" twitter="sophiethemathmo" chalkdust="sophie" %}
 welcome everyone to the show.
 
 After the introduction,
-{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" %}
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" youtube="@scroggs" %}
 stayed on the stream to take us through the next section of the show.
 
 ### [{% include _bst_time.html year="2022" month="9" day="28" hour="19" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: James Grime](https://youtu.be/s-09kI6kuOM?t=1937)
@@ -52,7 +52,7 @@ The music and graphics for this show were created by
 The prizes were created by {% include _gameperson.html name="Lisa Mather at Qwirkshop" twitter="Qwirkshop" website="https://www.qwirkshop.co.uk" after="." %}
 The questions were written by
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" after="," %}
-{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" after="," %}
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" youtube="@scroggs" after="," %}
 {% include _gameperson.html name="Paul Taylor" twitter="aPaulTaylor" puzzlebomb="Paul" after="," %} and
 {% include _gameperson.html name="Simon Singh" twitter="SLSingh" website="https://simonsingh.net/" after="." %}
 
@@ -80,7 +80,7 @@ The music for this show was created by
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" after="," %}
 The questions were written by
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" after="," %}
-{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" after="," %} and
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" youtube="@scroggs" after="," %} and
 {% include _gameperson.html name="Paul Taylor" twitter="aPaulTaylor" puzzlebomb="Paul" after="." %}
 
 After this show,
@@ -104,7 +104,7 @@ challenges contestants
 to an episode of the maths quiz that simply everyone is talking about.
 
 The music for this show was created by
-{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" after="." %}
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" youtube="@scroggs" after="." %}
 The graphics were created by
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" after="," %}
 The questions were written by
@@ -119,7 +119,7 @@ joined the stream to take us through the next section of the show.
 
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="1" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Katie Steckles and Matthew Scroggs](https://youtu.be/s-09kI6kuOM?t=23535)
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %} and
-{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" %} talk about Pac-Man.
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" youtube="@scroggs" %} talk about Pac-Man.
 
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="2" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Sydney Weaver's Game Show Hour](https://youtu.be/s-09kI6kuOM?t=25269)
 Host
@@ -160,7 +160,7 @@ to take a satirical look at the world of mathematics.
 The questions for this show were written by
 {% include _gameperson.html name="Goran Newsum" twitter="GoranNewsum" youtube="channel/UCQ72lw4RlgmqreU93b_HSnw" after="," %}
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" after="," %}
-{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" after="," %} and
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" youtube="@scroggs" after="," %} and
 {% include _gameperson.html name="Sophie Maclean" twitter="sophiethemathmo" chalkdust="sophie" website="https://sophiethemathmo.wordpress.com" after="." %}
 Editing was done by
 {% include _gameperson.html name="Chris Maclean" %}
@@ -249,7 +249,7 @@ investigates a variant of the Game of Life with
 
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="10" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: The Unbelievable Proof](https://youtu.be/j6YzTZ61hhU?t=23380)
 Hosted by
-{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" after="." %} Contestants
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" youtube="@scroggs" after="." %} Contestants
 {% include _gameperson.html name="Alison Kiddle" twitter="alisonkiddle" website="https://alisonkiddle.co.uk" after="," %}
 {% include _gameperson.html name="Cath Brown" twitter="notoriouscath" after="," %}
 {% include _gameperson.html name="Catriona Agg" twitter="Cshearer41" after="," %} and
@@ -257,13 +257,13 @@ Hosted by
 present short lectures that are entirely false except for five hidden facts, while other contestants attempt to identify the facts.
 
 The lectures were written by
-{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" after="," %}
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" youtube="@scroggs" after="," %}
 {% include _gameperson.html name="Alison Clarke" twitter="aaclarke4" after="," %}
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" after="," %}
 and the contestants.
 
 The music for this show was created by
-{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" after="." %}
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" youtube="@scroggs" after="." %}
 
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="11" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Countdown](https://youtu.be/j6YzTZ61hhU?t=25179)
 Host 
@@ -306,7 +306,7 @@ and the entire audience to create some mathematical art.
 The graphics for this show were created by
 {% include _gameperson.html name="Hana Ayoob" twitter="Hana_SciArt" website="https://hanaayoob.co.uk" instagram="hana.ayoob" after="." %}
 The music was created by
-{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" after="." %}
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" youtube="@scroggs" after="." %}
 The introductory animations were created by
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" after="." %}
 
@@ -344,7 +344,7 @@ challenge the audience to a SET tournament.
 
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="17" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Jeopardy!](https://youtu.be/VakFxGLz5Ik?t=17939)
 It's the segment of the show where hosts {% include _gameperson.html name="Adam Townsend" twitter="pecnut" chalkdust="Adam" website="https://adamtownsend.com" %}
-and {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" %} present the answers and
+and {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" youtube="@scroggs" %} present the answers and
 ask contestants
 {% include _gameperson.html name="Alex Bolton" twitter="AlexDBolton" after="," %}
 {% include _gameperson.html name="Goran Newsum" twitter="GoranNewsum" youtube="channel/UCQ72lw4RlgmqreU93b_HSnw" after="," %}
@@ -365,7 +365,7 @@ A mathematical version of the television show Taskmaster, featuring
 {% include _gameperson.html name="Ben Sparks" twitter="SparksMaths" website="https://bensparks.co.uk" after="," %}
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" after="," %}
 {% include _gameperson.html name="Kevin Houston" twitter="k_houston_math" website="https://www.kevinhouston.net" youtube="DrKevinHouston" after="," %}
-{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" after="," %}
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" youtube="@scroggs" after="," %}
 {% include _gameperson.html name="Sophie Maclean" website="https://sophiethemathmo.wordpress.com" twitter="sophiethemathmo" chalkdust="sophie" after="," %} and many others.
 
 The music for this show were created by
@@ -373,7 +373,7 @@ The music for this show were created by
 The tasks were set by
 {% include _gameperson.html name="Kevin Houston" twitter="k_houston_math" website="https://www.kevinhouston.net" youtube="DrKevinHouston" after="," %}
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" after="," %} and
-{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" after="." %}
+{% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" youtube="@scroggs" after="." %}
 The tasks were completed by Boyuan, Chloe, Jonny, and Raphael in Leeds; and our viewers at home.
 Production was done by
 {% include _gameperson.html name="Kevin Houston" twitter="k_houston_math" website="https://www.kevinhouston.net" youtube="DrKevinHouston" after="," %}
