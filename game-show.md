@@ -15,6 +15,7 @@ The YouTube chat was moderated by
 {% include _gameperson.html name="Paddy Moore" twitter="paddymaths" after="," %}
 {% include _gameperson.html name="Sam Hartburn" twitter="SamHartburn" website="https://samhartburn.co.uk/sh" youtube="channel/UC_HcN3ySXpIQhSx_I47fniQ" after="," %}	
 {% include _gameperson.html name="Sophie Maclean" website="https://sophiethemathmo.wordpress.com" twitter="sophiethemathmo" chalkdust="sophie" after="," %}
+and
 {% include _gameperson.html name="Sydney Weaver" twitter="SirWaffle2" website="https://www.sirwaffle.com" after="." %}
 
 ## Show schedule
