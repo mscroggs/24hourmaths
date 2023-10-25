@@ -54,5 +54,5 @@ The team of people show below are organising the 24 Hour Maths Game Show.
     name="Sophie Maclean"
     about="Sophie is a mathematician who talks about maths to school children all over the UK and beyond. She is also one of the editors of Chalkdust Magazine."
     website="https://sophiethemathmo.wordpress.com/"
-    twitter="sophiethemathmo"
+    twitter="sophiemacmaths"
 %}

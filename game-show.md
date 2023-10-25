@@ -14,7 +14,7 @@ The YouTube chat was moderated by
 {% include _gameperson.html name="Gill Kiernan" after="," %}
 {% include _gameperson.html name="Paddy Moore" twitter="paddymaths" after="," %}
 {% include _gameperson.html name="Sam Hartburn" twitter="SamHartburn" website="https://samhartburn.co.uk/sh" youtube="channel/UC_HcN3ySXpIQhSx_I47fniQ" after="," %}	
-{% include _gameperson.html name="Sophie Maclean" website="https://sophiethemathmo.wordpress.com" twitter="sophiethemathmo" chalkdust="sophie" after="," %}
+{% include _gameperson.html name="Sophie Maclean" website="https://sophiethemathmo.wordpress.com" twitter="sophiemacmaths" chalkdust="sophie" after="," %}
 and
 {% include _gameperson.html name="Sydney Weaver" twitter="SirWaffle2" website="https://www.sirwaffle.com" after="." %}
 
@@ -28,7 +28,7 @@ Show organisers {% include _gameperson.html name="Ben Sparks" twitter="SparksMat
 {% include _gameperson.html name="Kevin Houston" twitter="k_houston_math" website="https://www.kevinhouston.net" youtube="DrKevinHouston" after="," %}
 {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" youtube="@scroggs" mathstodon="mscroggs" after="," %}
 {% include _gameperson.html name="Samantha Durbin" website="http://rigb.org/about/organisation/team/education/samantha-durbin" twitter="SamDurbin1" after="," %} and
-{% include _gameperson.html name="Sophie Maclean" website="https://sophiethemathmo.wordpress.com" twitter="sophiethemathmo" chalkdust="sophie" %}
+{% include _gameperson.html name="Sophie Maclean" website="https://sophiethemathmo.wordpress.com" twitter="sophiemacmaths" chalkdust="sophie" %}
 welcome everyone to the show.
 
 After the introduction,
@@ -144,7 +144,7 @@ After this show,
 stayed on the stream to take us through the next section of the show.
 
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="3" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Sophie Maclean](https://youtu.be/s-09kI6kuOM?t=29200)
-{% include _gameperson.html name="Sophie Maclean" twitter="sophiethemathmo" chalkdust="sophie" website="https://sophiethemathmo.wordpress.com" %} looks
+{% include _gameperson.html name="Sophie Maclean" twitter="sophiemacmaths" chalkdust="sophie" website="https://sophiethemathmo.wordpress.com" %} looks
 at the maths involved in the game Mafia.
 
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="3" minute="30" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Tom Edgar](https://youtu.be/s-09kI6kuOM?t=30634)
@@ -162,11 +162,11 @@ The questions for this show were written by
 {% include _gameperson.html name="Goran Newsum" twitter="GoranNewsum" youtube="channel/UCQ72lw4RlgmqreU93b_HSnw" after="," %}
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" after="," %}
 {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" youtube="@scroggs" mathstodon="mscroggs" after="," %} and
-{% include _gameperson.html name="Sophie Maclean" twitter="sophiethemathmo" chalkdust="sophie" website="https://sophiethemathmo.wordpress.com" after="." %}
+{% include _gameperson.html name="Sophie Maclean" twitter="sophiemacmaths" chalkdust="sophie" website="https://sophiethemathmo.wordpress.com" after="." %}
 Editing was done by
 {% include _gameperson.html name="Chris Maclean" %}
 and
-{% include _gameperson.html name="Sophie Maclean" twitter="sophiethemathmo" chalkdust="sophie" website="https://sophiethemathmo.wordpress.com" after="." %}
+{% include _gameperson.html name="Sophie Maclean" twitter="sophiemacmaths" chalkdust="sophie" website="https://sophiethemathmo.wordpress.com" after="." %}
 
 After this show,
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" %}
@@ -185,7 +185,7 @@ few years ago. The first two are unremarkable, but combine to form an unsolved p
 he knows).
 
 ### [{% include _bst_time.html year="2022" month="9" day="29" hour="6" minute="0" format="{12 HOUR}:{MINUTE}{am/pm}" %}: Guess Who](https://youtu.be/j6YzTZ61hhU?t=6960)
-{% include _gameperson.html name="Sophie Maclean" twitter="sophiethemathmo" chalkdust="sophie" website="https://sophiethemathmo.wordpress.com" %}
+{% include _gameperson.html name="Sophie Maclean" twitter="sophiemacmaths" chalkdust="sophie" website="https://sophiethemathmo.wordpress.com" %}
 is joined by
 {% include _gameperson.html name="Emily Beatty" after="," %}
 {% include _gameperson.html name="George Clements" after="," %}
@@ -367,7 +367,7 @@ A mathematical version of the television show Taskmaster, featuring
 {% include _gameperson.html name="Katie Steckles" twitter="stecks" podcast="https://aperiodical.com/podcasts/mathematical-objects" website="https://www.katiesteckles.co.uk" youtube="KatieSteckles" aperiodical="Katie" puzzlebomb="Katie" after="," %}
 {% include _gameperson.html name="Kevin Houston" twitter="k_houston_math" website="https://www.kevinhouston.net" youtube="DrKevinHouston" after="," %}
 {% include _gameperson.html name="Matthew Scroggs" website="https://mscroggs.co.uk" twitter="mscroggs" chalkdust="Scroggs" youtube="@scroggs" mathstodon="mscroggs" after="," %}
-{% include _gameperson.html name="Sophie Maclean" website="https://sophiethemathmo.wordpress.com" twitter="sophiethemathmo" chalkdust="sophie" after="," %} and many others.
+{% include _gameperson.html name="Sophie Maclean" website="https://sophiethemathmo.wordpress.com" twitter="sophiemacmaths" chalkdust="sophie" after="," %} and many others.
 
 The music for this show were created by
 {% include _gameperson.html name="Iain Houston" after="," %}
